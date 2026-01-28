@@ -1,8 +1,0 @@
-2025-11-08 10:47:04.657 [info] Native locator: Refresh started
-2025-11-08 10:47:04.723 [info] Native locator: Refresh started
-2025-11-08 10:47:06.283 [info] > conda info --json
-2025-11-08 10:47:06.792 [info] > pyenv which python
-2025-11-08 10:47:06.792 [info] cwd: .
-2025-11-08 10:47:07.712 [info] Native locator: Refresh finished in 3775 ms
-2025-11-08 10:47:07.753 [info] Python interpreter path: /bin/python
-2025-11-08 10:47:09.203 [info] Starting Pylance language server.

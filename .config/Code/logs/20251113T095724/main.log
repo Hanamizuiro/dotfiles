@@ -1,9 +1,0 @@
-2025-11-13 09:57:24.484 [info] update#setState idle
-2025-11-13 09:57:31.821 [error] #1: https://update.code.visualstudio.com/api/update/linux-x64/stable/7d842fb85a0275a4a8e4d7e040d2625abbf7f084 - error undefined net::ERR_CONNECTION_CLOSED
-2025-11-13 09:57:31.822 [error] update#isLatestVersion(): failed to check for updates
-2025-11-13 09:57:31.822 [error] Error: net::ERR_CONNECTION_CLOSED
-    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123921)
-    at SimpleURLLoaderWrapper.emit (node:events:519:28)
-2025-11-13 09:57:54.483 [info] update#setState checking for updates
-2025-11-13 09:57:55.369 [info] update#setState available for download
-2025-11-13 10:10:53.713 [info] Extension host with pid 41875 exited with code: 0, signal: unknown.

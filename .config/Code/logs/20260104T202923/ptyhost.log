@@ -1,8 +1,0 @@
-2026-01-04 20:29:25.726 [info] Revived process, old id d64de6a48d26f30e5b029507c259f737-4 -> new id 1
-2026-01-04 20:29:26.177 [info] Expanding terminal instance, old id d64de6a48d26f30e5b029507c259f737-3 -> new id undefined
-2026-01-04 20:29:26.177 [warning] Couldn't get layout info, a terminal was probably disconnected Could not find pty 3 on pty host
-2026-01-04 20:29:26.177 [info] Expanding terminal instance, old id d64de6a48d26f30e5b029507c259f737-4 -> new id 1
-2026-01-04 20:29:27.053 [warning] Persistent process "1": Process had no disconnect runners but was an orphan
-2026-01-04 20:29:27.054 [info] Persistent process reconnection "1"
-2026-01-04 20:29:27.098 [error] Failed to set sticky bit on /tmp/blueflowers-code-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/blueflowers-code-zsh'
-2026-01-04 20:29:27.113 [info] Persistent process "1": Replaying 6817 chars and 1 size events
