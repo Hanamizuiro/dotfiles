@@ -1,0 +1,300 @@
+{
+  "version": 3,
+  "requesterUsername": "Hanamizuiro",
+  "requesterAvatarIconUri": {
+    "$mid": 1,
+    "path": "/u/37798951",
+    "scheme": "https",
+    "authority": "avatars.githubusercontent.com",
+    "query": "v=4"
+  },
+  "responderUsername": "GitHub Copilot",
+  "responderAvatarIconUri": {
+    "id": "copilot"
+  },
+  "initialLocation": "editor",
+  "requests": [
+    {
+      "requestId": "request_c23b940f-1b65-472a-a5d9-17084785bfab",
+      "message": {
+        "parts": [
+          {
+            "range": {
+              "start": 0,
+              "endExclusive": 4
+            },
+            "editorRange": {
+              "startLineNumber": 1,
+              "startColumn": 1,
+              "endLineNumber": 1,
+              "endColumn": 5
+            },
+            "command": {
+              "name": "fix",
+              "description": "Propose a fix for the problems in the selected code",
+              "disambiguation": [
+                {
+                  "category": "fix",
+                  "description": "Propose a fix for the problems in the selected code",
+                  "examples": [
+                    "There is a problem in this code. Rewrite the code to show it with the bug fixed."
+                  ]
+                }
+              ]
+            },
+            "kind": "subcommand"
+          },
+          {
+            "range": {
+              "start": 4,
+              "endExclusive": 5
+            },
+            "editorRange": {
+              "startLineNumber": 1,
+              "startColumn": 5,
+              "endLineNumber": 1,
+              "endColumn": 6
+            },
+            "text": " ",
+            "kind": "text"
+          }
+        ],
+        "text": "/fix "
+      },
+      "variableData": {
+        "variables": []
+      },
+      "response": [
+        {
+          "value": "The `include` directive in ",
+          "supportThemeIcons": false,
+          "supportHtml": false,
+          "baseUri": {
+            "$mid": 1,
+            "path": "/home/blueflowers/dotfiles/",
+            "scheme": "file"
+          }
+        },
+        {
+          "kind": "inlineReference",
+          "inlineReference": {
+            "$mid": 1,
+            "fsPath": "/home/blueflowers/dotfiles/.config/foot/foot.ini",
+            "external": "file:///home/blueflowers/dotfiles/.config/foot/foot.ini",
+            "path": "/home/blueflowers/dotfiles/.config/foot/foot.ini",
+            "scheme": "file"
+          }
+        },
+        {
+          "value": " requires a space after the keyword and should use an absolute path or `~` should be expanded; to avoid errors, replace `~` with the full home directory path.\n\n",
+          "supportThemeIcons": false,
+          "supportHtml": false,
+          "baseUri": {
+            "$mid": 1,
+            "path": "/home/blueflowers/dotfiles/",
+            "scheme": "file"
+          }
+        },
+        {
+          "kind": "progressMessage",
+          "content": {
+            "value": "Generating edits...",
+            "uris": {}
+          }
+        },
+        {
+          "kind": "textEditGroup",
+          "uri": {
+            "$mid": 1,
+            "fsPath": "/home/blueflowers/dotfiles/.config/foot/foot.ini",
+            "external": "file:///home/blueflowers/dotfiles/.config/foot/foot.ini",
+            "path": "/home/blueflowers/dotfiles/.config/foot/foot.ini",
+            "scheme": "file"
+          },
+          "edits": [
+            [
+              {
+                "text": "include = /home/blueflowers/.cache/wal/colors-foot.ini\n",
+                "range": {
+                  "startLineNumber": 1,
+                  "startColumn": 1,
+                  "endLineNumber": 2,
+                  "endColumn": 1
+                }
+              }
+            ]
+          ],
+          "state": {
+            "sha1": "1f438bce7d5e96fe4937d12dff70512f92dafa99",
+            "applied": 1
+          }
+        }
+      ],
+      "responseId": "response_9f0e25cc-278b-4d25-a512-6f1a5a1c5227",
+      "result": {
+        "timings": {
+          "firstProgress": 2264,
+          "totalElapsed": 3240
+        },
+        "metadata": {
+          "codeBlocks": [],
+          "toolCallRounds": [
+            {
+              "response": "The `include` directive in foot.ini requires a space after the keyword and should use an absolute path or `~` should be expanded; to avoid errors, replace `~` with the full home directory path.\n\n---FILEPATH /home/blueflowers/dotfiles/.config/foot/foot.ini\n---FIND\n```\ninclude ~/.cache/wal/colors-foot.ini\n```\n---REPLACE\n```\ninclude = /home/blueflowers/.cache/wal/colors-foot.ini\n```\n---COMPLETE",
+              "toolCalls": [],
+              "toolInputRetry": 0,
+              "id": "d0b31132-5cc3-4b2e-8466-40d7662e3c40"
+            }
+          ],
+          "modelMessageId": "c7cee31c-9790-414b-8e2e-c601e1318ab5",
+          "responseId": "c5f75994-bb94-4ebc-8478-7879b4eaf3f0",
+          "sessionId": "ff4e8a97-656c-4d2f-aa19-da6acc4b17cb",
+          "agentId": "github.copilot.editor",
+          "command": "fix"
+        },
+        "details": "GPT-4.1 • 0x"
+      },
+      "followups": [],
+      "isCanceled": false,
+      "agent": {
+        "extensionId": {
+          "value": "GitHub.copilot-chat",
+          "_lower": "github.copilot-chat"
+        },
+        "extensionVersion": "0.31.5",
+        "publisherDisplayName": "GitHub",
+        "extensionPublisherId": "GitHub",
+        "extensionDisplayName": "GitHub Copilot Chat",
+        "id": "github.copilot.editor",
+        "description": "Ask or edit in context",
+        "when": "!config.inlineChat.enableV2 && !config.github.copilot.chat.advanced.inlineChat2",
+        "metadata": {
+          "themeIcon": {
+            "id": "copilot"
+          },
+          "hasFollowups": false,
+          "supportIssueReporting": false
+        },
+        "name": "Copilot",
+        "fullName": "GitHub Copilot",
+        "isDefault": true,
+        "locations": [
+          "editor"
+        ],
+        "modes": [
+          "ask"
+        ],
+        "slashCommands": [
+          {
+            "name": "generate",
+            "description": "Generate new code",
+            "disambiguation": [
+              {
+                "category": "generate",
+                "description": "Generate new code",
+                "examples": [
+                  "Add a function that returns the sum of two numbers"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "edit",
+            "description": "Edit the selected code in your active editor",
+            "disambiguation": [
+              {
+                "category": "edit",
+                "description": "Make changes to existing code",
+                "examples": [
+                  "Change this method to use async/await"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "doc",
+            "description": "Add documentation comment for this symbol",
+            "disambiguation": [
+              {
+                "category": "doc",
+                "description": "Add documentation comment for this symbol",
+                "examples": [
+                  "Add jsdoc to this method"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "fix",
+            "description": "Propose a fix for the problems in the selected code",
+            "disambiguation": [
+              {
+                "category": "fix",
+                "description": "Propose a fix for the problems in the selected code",
+                "examples": [
+                  "There is a problem in this code. Rewrite the code to show it with the bug fixed."
+                ]
+              }
+            ]
+          },
+          {
+            "name": "explain",
+            "description": "Explain how the code in your active editor works",
+            "disambiguation": [
+              {
+                "category": "explain",
+                "description": "Explain how the code in your active editor works",
+                "examples": [
+                  "Write an explanation for the code above as paragraphs of text."
+                ]
+              }
+            ]
+          },
+          {
+            "name": "tests",
+            "description": "Generate unit tests for the selected code",
+            "disambiguation": [
+              {
+                "category": "tests",
+                "description": "Generate unit tests for the selected code. The user does not want to fix their existing tests.",
+                "examples": [
+                  "Write a set of detailed unit test functions for the code above."
+                ]
+              }
+            ]
+          }
+        ],
+        "disambiguation": [
+          {
+            "category": "unknown",
+            "description": "Intent of this command is unclear or is not related to information technologies",
+            "examples": [
+              "Add a dog to this comment."
+            ]
+          }
+        ]
+      },
+      "slashCommand": {
+        "name": "fix",
+        "description": "Propose a fix for the problems in the selected code",
+        "disambiguation": [
+          {
+            "category": "fix",
+            "description": "Propose a fix for the problems in the selected code",
+            "examples": [
+              "There is a problem in this code. Rewrite the code to show it with the bug fixed."
+            ]
+          }
+        ]
+      },
+      "contentReferences": [],
+      "codeCitations": [],
+      "timestamp": 1759929516001,
+      "modelId": "copilot/gpt-4.1"
+    }
+  ],
+  "sessionId": "8f427cec-5f98-484f-9bb1-6a45b4489a44",
+  "creationDate": 1759929515966,
+  "isImported": false,
+  "lastMessageDate": 1759929516002
+}

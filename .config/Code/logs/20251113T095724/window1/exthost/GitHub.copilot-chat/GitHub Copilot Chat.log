@@ -1,0 +1,66 @@
+2025-11-13 09:57:29.703 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-11-13 09:57:29.703 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-11-13 09:57:29.703 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-11-13 09:57:29.703 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-11-13 09:57:30.147 [info] Logged in as Hanamizuiro
+2025-11-13 09:57:30.150 [info] Using the Electron fetcher.
+2025-11-13 09:57:30.638 [info] Got Copilot token for Hanamizuiro
+2025-11-13 09:57:30.638 [info] Copilot Chat: 0.32.5, VS Code: 1.105.1
+2025-11-13 09:57:30.645 [info] activationBlocker from 'languageModelAccess' took for 532ms
+2025-11-13 09:57:30.689 [info] copilot token chat_enabled: true, sku: free_educational_quota
+2025-11-13 09:57:30.689 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-13 09:57:30.699 [info] Registering default platform agent...
+2025-11-13 09:57:30.699 [info] activationBlocker from 'conversationFeature' took for 588ms
+2025-11-13 09:57:30.870 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-11-13 09:57:31.397 [info] Fetched model metadata in 1273ms ca8b7120-16e9-47c7-b860-19fa3d2397af
+2025-11-13 09:57:31.609 [info] Latest entry: ccreq:latest.copilotmd
+2025-11-13 09:57:31.609 [info] ccreq:31936fa8.copilotmd | markdown
+2025-11-13 09:57:31.835 [info] Fetched auto model in 224ms.
+2025-11-13 09:59:12.004 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-13 09:59:12.004 [warning] GitHub.vscode-pull-request-github extension API is not available.
+2025-11-13 09:59:12.053 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-13 09:59:12.053 [warning] GitHub.vscode-pull-request-github extension API is not available.
+2025-11-13 09:59:40.131 [info] ccreq:a53e71fa.copilotmd | success | gpt-5-mini | 28018ms | [panel/editAgent]
+2025-11-13 09:59:40.328 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-13 09:59:40.328 [warning] GitHub.vscode-pull-request-github extension API is not available.
+2025-11-13 09:59:58.349 [info] ccreq:4f48f2fa.copilotmd | success | gpt-5-mini | 17978ms | [panel/editAgent]
+2025-11-13 10:01:42.790 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-13 10:01:42.790 [warning] GitHub.vscode-pull-request-github extension API is not available.
+2025-11-13 10:01:42.810 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-13 10:01:42.810 [warning] GitHub.vscode-pull-request-github extension API is not available.
+2025-11-13 10:02:11.225 [info] ccreq:e2c90882.copilotmd | success | gpt-5-mini | 28392ms | [panel/editAgent]
+2025-11-13 10:02:17.518 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-13 10:02:17.518 [warning] GitHub.vscode-pull-request-github extension API is not available.
+2025-11-13 10:02:22.339 [info] ccreq:1c54d3a7.copilotmd | success | gpt-5-mini | 4766ms | [panel/editAgent]
+2025-11-13 10:02:22.412 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-13 10:02:22.412 [warning] GitHub.vscode-pull-request-github extension API is not available.
+2025-11-13 10:02:29.717 [info] ccreq:ae294fe8.copilotmd | success | gpt-5-mini | 7237ms | [panel/editAgent]
+2025-11-13 10:02:29.732 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-13 10:02:29.732 [warning] GitHub.vscode-pull-request-github extension API is not available.
+2025-11-13 10:02:36.029 [info] ccreq:3032eb0f.copilotmd | success | gpt-5-mini | 6281ms | [panel/editAgent]
+2025-11-13 10:02:40.344 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-13 10:02:40.344 [warning] GitHub.vscode-pull-request-github extension API is not available.
+2025-11-13 10:02:45.507 [info] ccreq:df272f51.copilotmd | success | gpt-5-mini | 5115ms | [panel/editAgent]
+2025-11-13 10:02:48.457 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-13 10:02:48.457 [warning] GitHub.vscode-pull-request-github extension API is not available.
+2025-11-13 10:02:55.910 [info] ccreq:0b731a5a.copilotmd | success | gpt-5-mini | 7371ms | [panel/editAgent]
+2025-11-13 10:02:58.523 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-13 10:02:58.523 [warning] GitHub.vscode-pull-request-github extension API is not available.
+2025-11-13 10:03:12.450 [info] ccreq:35cffa7e.copilotmd | success | gpt-5-mini | 13871ms | [panel/editAgent]
+2025-11-13 10:03:29.594 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-13 10:03:29.595 [warning] GitHub.vscode-pull-request-github extension API is not available.
+2025-11-13 10:03:29.724 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-13 10:03:29.724 [warning] GitHub.vscode-pull-request-github extension API is not available.
+2025-11-13 10:04:14.729 [info] ccreq:7213f498.copilotmd | success | gpt-5-mini | 44974ms | [panel/editAgent]
+2025-11-13 10:04:18.283 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-13 10:04:18.283 [warning] GitHub.vscode-pull-request-github extension API is not available.
+2025-11-13 10:04:23.438 [info] ccreq:10da2ac8.copilotmd | success | gpt-5-mini | 5102ms | [panel/editAgent]
+2025-11-13 10:04:25.482 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-13 10:04:25.482 [warning] GitHub.vscode-pull-request-github extension API is not available.
+2025-11-13 10:04:25.574 [info] message 0 returned. finish reason: [stop]
+2025-11-13 10:04:25.575 [info] request done: requestId: [ffd808b1-3bb2-45f9-8a3e-36d0c38696f8] model deployment ID: []
+2025-11-13 10:04:25.575 [info] ccreq:eb90db36.copilotmd | success | gpt-4o-mini | 584ms | [copilotLanguageModelWrapper]
+2025-11-13 10:04:29.605 [info] ccreq:b55f48fd.copilotmd | success | gpt-5-mini | 4068ms | [panel/editAgent]
+2025-11-13 10:04:31.044 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-13 10:04:31.044 [warning] GitHub.vscode-pull-request-github extension API is not available.
+2025-11-13 10:04:39.677 [info] ccreq:6ff84198.copilotmd | success | gpt-5-mini | 8566ms | [panel/editAgent]

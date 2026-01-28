@@ -1,0 +1,28 @@
+2026-01-04 20:29:32.980 [info] Client: Pylance client (2025.10.4) started with python extension (2025.18.0)
+2026-01-04 20:29:33.473 [info] (31241): Server root directory: file:///home/blueflowers/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist
+2026-01-04 20:29:33.473 [info] (31241): Pylance language server 2025.10.4 (pyright version 1.1.407, commit 906e40aa) starting
+2026-01-04 20:29:33.477 [info] (31241): Starting service instance ".config" for workspace "/home/blueflowers/.config"
+2026-01-04 20:29:34.084 [info] (31241): Loading background bundle file:///home/blueflowers/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js into file:///home/blueflowers/.config...
+2026-01-04 20:29:34.412 [info] (31241): FG(.config): Setting environmentName for service ".config": "3.13.7 (global)"
+2026-01-04 20:29:34.412 [info] (31241): FG(.config): Setting pythonPath for service ".config": "/bin/python"
+2026-01-04 20:29:34.413 [info] (31241): FG(.config): No include entries specified; assuming /home/blueflowers/.config
+2026-01-04 20:29:34.413 [info] (31241): FG(.config): Auto-excluding **/node_modules
+2026-01-04 20:29:34.413 [info] (31241): FG(.config): Auto-excluding **/__pycache__
+2026-01-04 20:29:34.413 [info] (31241): FG(.config): Auto-excluding **/.*
+2026-01-04 20:29:35.583 [info] (31241): FG(.config): Assuming Python version 3.13.11.final.0
+2026-01-04 20:29:35.712 [info] (31241): BG(.config): Loaded external background bundle file:///home/blueflowers/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js. 
+2026-01-04 20:29:35.712 [info] (31241): PQ(.config): Priority queue background worker(2) root directory: file:///home/blueflowers/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist
+2026-01-04 20:29:35.712 [info] (31241): PQ(.config): Priority queue background worker(2) started
+2026-01-04 20:29:35.712 [info] (31241): Settings have not changed. Skipping update.
+2026-01-04 20:29:35.715 [info] (31241): Starting Mcp server id:3617 ...
+2026-01-04 20:29:35.883 [info] (31241): FG(.config): Found 11 source files
+2026-01-04 20:29:36.189 [info] (31241): IDX(.config): Indexer background runner(3) root directory: file:///home/blueflowers/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist (index)
+2026-01-04 20:29:36.189 [info] (31241): IDX(.config): Indexing(3) started
+2026-01-04 20:29:37.346 [info] (31241): IDX(.config): scanned(3) 75 files over 1 exec env
+2026-01-04 20:29:38.352 [info] (31241): IDX(.config): indexed(3) 75 files over 1 exec env
+2026-01-04 20:29:38.401 [info] (31241): IDX(.config): Indexing finished(3).
+2026-01-04 20:29:46.642 [info] (31241): IDX(.config): Indexer background runner(4) root directory: file:///home/blueflowers/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist (refresh)
+2026-01-04 20:29:46.642 [info] (31241): IDX(.config): Indexing(4) started
+2026-01-04 20:29:46.900 [info] (31241): IDX(.config): scanned(4) 110 files over 1 exec env
+2026-01-04 20:29:47.350 [info] (31241): IDX(.config): indexed(4) 110 files over 1 exec env
+2026-01-04 20:29:47.366 [info] (31241): IDX(.config): Indexing finished(4).

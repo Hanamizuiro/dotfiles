@@ -1,0 +1,480 @@
+/***
+ *    ┓ ┏┏┓┓┏┳┓┏┓┳┓  ┳┳┓┳┳┓┳┳┳┓┏┓┓   ┏┓┏┓┏┓
+ *
+ *    ┗┻┛┛┗┗┛┻┛┛┗┛┗  ┛ ┗┻┛┗┻┛ ┗┛┗┗┛  ┗┛┗┛┗┛
+ *                                         
+ */
+
+/*-----------IMPORTING MATUGEN COLORS----------*/
+@import "colors.css";
+
+* {
+    font-size: 12px;
+    font-family: GeistMono Nerd Font Propo;
+    font-weight: bold;
+}
+
+window#waybar{
+    all:unset;
+}
+
+.modules-left {
+    padding: 7px;
+    margin: 10px 0px 5px 10px;
+    border-radius: 10px;
+    background: alpha(@surface_container,.8);
+    box-shadow: 0px 0px 3px alpha(@shadow, .4);
+    border: 1px solid alpha(@outline_variant, .3);
+}
+
+.modules-center {
+    padding: 7px;
+    margin: 10px 0px 5px 0px;
+    border-radius: 10px;
+    background: alpha(@surface_container,.8);
+    box-shadow: 0px 0px 3px alpha(@shadow, .4);
+    border: 1px solid alpha(@outline_variant, .3);
+}
+
+.modules-right {
+    padding: 7px;
+    margin: 10px 10px 5px 0px;
+    border-radius: 10px;
+    background: alpha(@surface_container,.8);
+    box-shadow: 0px 0px 3px alpha(@shadow, .4);
+    border: 1px solid alpha(@outline_variant, .3);
+}
+
+tooltip {
+    background: @surface_container_high;
+    border: 2px solid @primary;
+    border-radius: 12px;
+    box-shadow: 0px 0px 5px alpha(@shadow, .5);
+}
+
+tooltip-label {
+    color: @on_surface;
+    padding: 5px;
+}
+
+/* Hover effects for interactive modules */
+#clock:hover, 
+#custom-pacman:hover, 
+#custom-notification:hover,
+#bluetooth:hover,
+#network:hover,
+#battery:hover, 
+#cpu:hover,
+#memory:hover,
+#temperature:hover,
+#tray:hover,
+#custom-weather:hover,
+#pulseaudio:hover,
+#backlight:hover {
+    transition: all .3s ease;
+    color: @primary_fixed_dim;
+    text-shadow: 0px 0px 2px @primary;
+}
+
+/* Notification */
+#custom-notification {
+    padding: 0px 5px;
+    transition: all .3s ease;
+    color: @secondary;
+}
+
+/* Clock - Primary accent */
+#clock {
+    padding: 0px 5px;
+    color: @primary;
+    transition: all .3s ease;
+}
+
+/* Package manager updates */
+#custom-pacman {
+    padding: 0px 5px;
+    transition: all .3s ease;
+    color: @tertiary;
+}
+
+/* Workspaces */
+#workspaces {
+    padding: 0px 5px;
+}
+
+#workspaces button {
+    all: unset;
+    padding: 0px 5px;
+    color: alpha(@on_surface_variant, .4);
+    transition: all .2s ease;
+}
+
+#workspaces button:hover {
+    color: alpha(@primary, .7);
+    border: none;
+    text-shadow: 0px 0px 2px @primary_fixed_dim;
+    transition: all .3s ease;
+}
+
+#workspaces button.active {
+    color: @primary;
+    border: none;
+    text-shadow: 0px 0px 4px @primary_fixed_dim;
+    background: alpha(@primary_container, .2);
+    border-radius: 5px;
+}
+
+#workspaces button.empty {
+    color: alpha(@outline, .3);
+    border: none;
+}
+
+#workspaces button.empty:hover {
+    color: alpha(@outline, .6);
+    border: none;
+    text-shadow: 0px 0px 1.5px @outline;
+    transition: all .3s ease;
+}
+
+#workspaces button.empty.active {
+    color: @primary;
+    border: none;
+    text-shadow: 0px 0px 3px @primary_fixed_dim;
+}
+
+/* Bluetooth - Secondary color */
+#bluetooth {
+    padding: 0px 5px;
+    transition: all .3s ease;
+    color: @secondary;
+}
+
+/* Battery */
+#battery {
+    padding: 0px 5px;
+    transition: all .3s ease;
+    color: @on_surface;
+}
+
+#battery.charging {
+    color: @tertiary;
+}
+
+#battery.warning:not(.charging) {
+    color: @yellow;
+}
+
+#battery.critical:not(.charging) {
+    color: @on_error_container;
+    background-color: @error_container;
+    border-radius: 5px;
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes blink {
+    to {
+        background-color: @error;
+    }
+}
+
+/* Temperature */
+#temperature {
+    padding: 0px 5px;
+    color: @secondary;
+    transition: all .3s ease;
+}
+
+#temperature.critical {
+    background-color: @error_container;
+    color: @on_error_container;
+    border-radius: 5px;
+}
+
+/* Expand group */
+#group-expand {
+    padding: 0px 5px;
+    transition: all .3s ease; 
+}
+
+#custom-expand {
+    padding: 0px 5px;
+    color: alpha(@primary, .3);
+    text-shadow: 0px 0px 2px alpha(@shadow, .7);
+    transition: all .3s ease; 
+}
+
+#custom-expand:hover {
+    color: @primary;
+    text-shadow: 0px 0px 4px @primary_fixed_dim;
+}
+
+/* Custom modules */
+#custom-colorpicker {
+    padding: 0px 5px;
+    color: @tertiary;
+}
+
+#custom-endpoint {
+    color: transparent;
+    text-shadow: 0px 0px 1.5px @shadow;
+}
+
+/* Tray */
+#tray {
+    padding: 0px 5px;
+    transition: all .3s ease; 
+    color: @on_surface;
+}
+
+#tray > .passive {
+    -gtk-icon-effect: dim;
+}
+
+#tray > .needs-attention {
+    -gtk-icon-effect: highlight;
+    color: @error;
+}
+
+/* Audio visualizer */
+#custom-cava_mviz {
+    color: @primary_fixed_dim;
+    padding: 0px 5px;
+}
+
+/* System info modules */
+#cpu {
+    color: @tertiary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#memory {
+    color: @secondary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#disk {
+    color: @tertiary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+/* Network */
+#network {
+    color: @on_surface;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#network.disconnected,
+#network.disabled {
+    color: @on_error_container;
+    background-color: @error_container;
+    border-radius: 5px;
+    padding: 0px 8px;
+}
+
+/* Audio controls */
+#pulseaudio {
+    color: @primary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#pulseaudio.bluetooth {
+    color: @secondary;
+}
+
+#pulseaudio.muted {
+    color: @error;
+}
+
+/* Sliders */
+#pulseaudio-slider slider,
+#backlight-slider slider {
+    min-width: 0px;
+    min-height: 0px;
+    opacity: 0;
+    background-image: none;
+    border: none;
+    box-shadow: none;
+}
+
+#pulseaudio-slider trough,
+#backlight-slider trough {
+    min-width: 80px;
+    min-height: 5px;
+    border-radius: 5px;
+    background-color: @surface_container_high;
+}
+
+#pulseaudio-slider highlight {
+    min-height: 10px;
+    border-radius: 5px;
+    background-color: @primary;
+}
+
+#backlight-slider highlight {
+    min-width: 10px;
+    border-radius: 5px;
+    background-color: @secondary;
+}
+
+/* Backlight */
+#backlight {
+    color: @secondary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+/* Idle inhibitor */
+#idle_inhibitor {
+    color: @tertiary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+/* Keyboard state */
+#keyboard-state {
+    color: @secondary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#custom-keyboard {
+    color: @secondary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+/* Taskbar */
+#taskbar button {
+    padding: 0px 5px;
+    color: @on_surface_variant;
+    transition: all 0.3s cubic-bezier(0.55, -0.68, 0.48, 1.682);
+}
+
+#taskbar button.active {
+    padding: 0px 8px;
+    color: @primary;
+    background-color: alpha(@primary_container, .3);
+    border-radius: 5px;
+    transition: all 0.3s cubic-bezier(0.55, -0.68, 0.48, 1.682);
+}
+
+#taskbar button:hover {
+    color: @primary_fixed_dim;
+    background-color: alpha(@primary_container, .2);
+    border-radius: 5px;
+    transition: all 0.3s cubic-bezier(0.55, -0.68, 0.48, 1.682);
+}
+
+/* Window title */
+#window {
+    color: @on_surface_variant;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+/* Media player */
+#custom-waybar-mpris {
+    color: @primary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+/* Application launcher modules */
+#custom-menu {
+    color: @primary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#custom-file_manager {
+    color: @secondary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#custom-browser {
+    color: @tertiary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#custom-tty {
+    color: @on_surface_variant;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+/* System control modules */
+#custom-power {
+    color: @error;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#custom-lock {
+    color: @secondary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#custom-settings {
+    color: @tertiary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+/* Update and notification modules */
+#custom-updater,
+#custom-dot_update {
+    color: @tertiary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#custom-swaync {
+    color: @secondary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#custom-hint {
+    color: @on_surface_variant;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+/* Weather */
+#custom-weather {
+    color: @primary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+/* Media controls */
+#custom-playerctl {
+    color: @primary_fixed_dim;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+/* Light/Dark mode toggle */
+#custom-light_dark {
+    color: @tertiary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+/* Separator */
+#custom-separatordot-line {
+    color: @outline_variant;
+    padding: 0px 2px;
+}

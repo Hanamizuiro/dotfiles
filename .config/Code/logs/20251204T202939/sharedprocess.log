@@ -1,0 +1,98 @@
+2025-12-04 20:29:41.716 [error] Error: Unable to read file '/home/blueflowers/.vscode/extensions/local.dynamic-base16-dankshell-0.0.1/package.json' (Error: Unable to resolve nonexistent file '/home/blueflowers/.vscode/extensions/local.dynamic-base16-dankshell-0.0.1/package.json')
+    at Qh.G (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89877)
+    at Qh.F (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89702)
+    at async Qh.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89074)
+    at async xa.t (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45884)
+    at async xa.scanExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44391)
+    at async Promise.all (index 14)
+    at async xa.q (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42817)
+    at async Sf.scanAllUserExtensions (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35677)
+    at async Gh.scanAllUserExtensions (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69775)
+    at async Gh.J (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:76793)
+    at async Gh.cleanUp (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69161)
+    at async Wh.cleanUp (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:63578)
+2025-12-04 20:29:41.718 [error] Error: Unable to read file '/home/blueflowers/.vscode/extensions/local.dynamic-base16-dankshell-0.0.1/package.json' (Error: Unable to resolve nonexistent file '/home/blueflowers/.vscode/extensions/local.dynamic-base16-dankshell-0.0.1/package.json')
+    at Qh.G (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89877)
+    at Qh.F (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89702)
+    at async Qh.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89074)
+    at async xa.t (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45884)
+    at async xa.scanExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44391)
+    at async Promise.all (index 14)
+    at async xa.q (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42817)
+    at async Sf.scanAllUserExtensions (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35677)
+    at async Gh.scanAllUserExtensions (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69775)
+    at async Z9.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:59589)
+    at async Z9.r (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:57484)
+2025-12-04 20:29:41.736 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:41.761 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:41.763 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:41.795 [info] Marked extension as removed s-nlf-fh.glassit-0.2.6
+2025-12-04 20:29:41.803 [info] Deleted marked for removal extension from disk s-nlf-fh.glassit /home/blueflowers/.vscode/extensions/s-nlf-fh.glassit-0.2.6
+2025-12-04 20:29:41.805 [error] Error: Unable to read file '/home/blueflowers/.vscode/extensions/local.dynamic-base16-dankshell-0.0.1/package.json' (Error: Unable to resolve nonexistent file '/home/blueflowers/.vscode/extensions/local.dynamic-base16-dankshell-0.0.1/package.json')
+    at Qh.G (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89877)
+    at Qh.F (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89702)
+    at async Qh.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89074)
+    at async xa.t (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45884)
+    at async xa.scanExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44391)
+    at async Promise.all (index 13)
+    at async xa.q (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42817)
+    at async Sf.scanAllUserExtensions (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35677)
+    at async Gh.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:76324)
+    at async Gh.cleanUp (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69176)
+    at async Wh.cleanUp (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:63578)
+2025-12-04 20:29:41.814 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:41.926 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:42.630 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:42.930 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:43.047 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:43.137 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:43.180 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:43.202 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:43.292 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:43.524 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:43.769 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:43.886 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:44.646 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:46.162 [info] Getting Manifest... esbenp.prettier-vscode
+2025-12-04 20:29:46.164 [info] Getting Manifest... github.copilot-chat
+2025-12-04 20:29:46.164 [info] Getting Manifest... ms-python.debugpy
+2025-12-04 20:29:46.165 [info] Getting Manifest... ms-python.vscode-pylance
+2025-12-04 20:29:46.166 [info] Getting Manifest... pkief.material-icon-theme
+2025-12-04 20:29:46.852 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.106.0","date":"2025-11-11T16:02:25.943Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json","path":"/home/blueflowers/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-12-04 20:29:46.855 [info] Installing extension: ms-python.vscode-pylance {"productVersion":{"version":"1.106.0","date":"2025-11-11T16:02:25.943Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json","path":"/home/blueflowers/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-12-04 20:29:46.871 [info] Installing extension: pkief.material-icon-theme {"productVersion":{"version":"1.106.0","date":"2025-11-11T16:02:25.943Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json","path":"/home/blueflowers/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-12-04 20:29:46.881 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:46.911 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:47.018 [info] Installing extension: github.copilot-chat {"productVersion":{"version":"1.106.0","date":"2025-11-11T16:02:25.943Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json","path":"/home/blueflowers/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-12-04 20:29:47.035 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:47.051 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:47.362 [info] Getting Manifest... ms-python.python
+2025-12-04 20:29:47.456 [info] Installing extension: esbenp.prettier-vscode {"productVersion":{"version":"1.106.0","date":"2025-11-11T16:02:25.943Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json","path":"/home/blueflowers/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-12-04 20:29:47.476 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:47.492 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:49.952 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:49.971 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:49.972 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json
+2025-12-04 20:29:52.190 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Internal Code: 0. Executed: true. Duration: 1080ms.
+2025-12-04 20:29:54.808 [info] Extracted extension to file:///home/blueflowers/.vscode/extensions/ms-python.vscode-pylance-2025.10.3: ms-python.vscode-pylance
+2025-12-04 20:29:54.942 [info] Extension signature verification result for pkief.material-icon-theme: Success. Internal Code: 0. Executed: true. Duration: 570ms.
+2025-12-04 20:29:54.963 [info] Renamed to /home/blueflowers/.vscode/extensions/ms-python.vscode-pylance-2025.10.3
+2025-12-04 20:29:55.003 [info] Marked extension as removed ms-python.vscode-pylance-2025.9.1
+2025-12-04 20:29:55.006 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:55.008 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json
+2025-12-04 20:29:55.350 [info] Extracted extension to file:///home/blueflowers/.vscode/extensions/pkief.material-icon-theme-5.29.0: pkief.material-icon-theme
+2025-12-04 20:29:55.371 [info] Renamed to /home/blueflowers/.vscode/extensions/pkief.material-icon-theme-5.29.0
+2025-12-04 20:29:55.388 [info] Marked extension as removed pkief.material-icon-theme-5.28.0
+2025-12-04 20:29:55.390 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:29:55.391 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json
+2025-12-04 20:30:40.305 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 500ms.
+2025-12-04 20:30:40.579 [info] Extracted extension to file:///home/blueflowers/.vscode/extensions/github.copilot-chat-0.33.4: github.copilot-chat
+2025-12-04 20:30:40.598 [info] Renamed to /home/blueflowers/.vscode/extensions/github.copilot-chat-0.33.4
+2025-12-04 20:30:40.611 [error] [/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.5]: This extension is using the API proposals 'chatParticipantPrivate', 'languageModelDataPart' and 'chatSessionsProvider' that are not compatible with the current version of VS Code.
+2025-12-04 20:30:40.626 [info] Marked extension as removed github.copilot-chat-0.32.5
+2025-12-04 20:30:40.630 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json
+2025-12-04 20:30:40.631 [info] Extension signature verification result for esbenp.prettier-vscode: Success. Internal Code: 0. Executed: true. Duration: 549ms.
+2025-12-04 20:30:40.688 [info] Extracted extension to file:///home/blueflowers/.vscode/extensions/esbenp.prettier-vscode-11.0.2: esbenp.prettier-vscode
+2025-12-04 20:30:40.691 [info] Renamed to /home/blueflowers/.vscode/extensions/esbenp.prettier-vscode-11.0.2
+2025-12-04 20:30:40.705 [info] Marked extension as removed esbenp.prettier-vscode-11.0.0
+2025-12-04 20:30:40.711 [info] Extension installed successfully: esbenp.prettier-vscode vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json

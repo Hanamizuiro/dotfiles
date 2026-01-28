@@ -1,0 +1,366 @@
+2025-11-08 09:33:23.489 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-11-08 09:33:23.489 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-11-08 09:33:23.489 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-11-08 09:33:23.489 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-11-08 09:33:23.500 [info] Logged in as Hanamizuiro
+2025-11-08 09:33:23.504 [info] Using the Electron fetcher.
+2025-11-08 09:33:25.594 [info] Got Copilot token for Hanamizuiro
+2025-11-08 09:33:25.594 [info] Copilot Chat: 0.32.4, VS Code: 1.105.1
+2025-11-08 09:33:25.603 [info] activationBlocker from 'languageModelAccess' took for 166ms
+2025-11-08 09:33:26.595 [info] copilot token chat_enabled: true, sku: free_educational_quota
+2025-11-08 09:33:26.595 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-08 09:33:26.605 [info] Registering default platform agent...
+2025-11-08 09:33:26.606 [info] activationBlocker from 'conversationFeature' took for 1171ms
+2025-11-08 09:33:26.845 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-11-08 09:33:27.684 [info] Fetched model metadata in 1185ms 025cba60-827b-4026-adb0-c9ace19851b4
+2025-11-08 09:33:27.892 [info] Latest entry: ccreq:latest.copilotmd
+2025-11-08 09:33:27.892 [info] ccreq:53f4bbcd.copilotmd | markdown
+2025-11-08 09:33:28.115 [info] Fetched auto model in 221ms.
+2025-11-08 09:33:38.078 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-11-08 09:33:39.825 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-11-08 09:33:39.825 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-11-08 09:33:39.825 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-11-08 09:33:41.895 [info] Using the Electron fetcher.
+2025-11-08 09:33:42.251 [info] Logged in as Hanamizuiro
+2025-11-08 09:33:42.691 [info] Got Copilot token for Hanamizuiro
+2025-11-08 09:33:42.691 [info] Copilot Chat: 0.32.4, VS Code: 1.105.1
+2025-11-08 09:33:42.698 [info] activationBlocker from 'languageModelAccess' took for 2737ms
+2025-11-08 09:33:42.776 [info] copilot token chat_enabled: true, sku: free_educational_quota
+2025-11-08 09:33:42.776 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-08 09:33:42.787 [info] Registering default platform agent...
+2025-11-08 09:33:42.787 [info] activationBlocker from 'conversationFeature' took for 2828ms
+2025-11-08 09:33:42.933 [info] Fetched model metadata in 698ms eeacdf67-ed48-45b0-a4b4-036a42d2e83e
+2025-11-08 09:33:42.936 [info] Latest entry: ccreq:latest.copilotmd
+2025-11-08 09:33:42.936 [info] ccreq:58334404.copilotmd | markdown
+2025-11-08 09:33:42.943 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-11-08 09:33:43.163 [info] Fetched auto model in 226ms.
+2025-11-08 09:34:46.559 [info] ccreq:18778cec.copilotmd | success | gpt-5-mini | 6979ms | [panel/editAgent]
+2025-11-08 09:34:53.712 [info] ccreq:305b6ef0.copilotmd | success | gpt-5-mini | 7023ms | [panel/editAgent]
+2025-11-08 09:35:00.828 [info] ccreq:f114c233.copilotmd | success | gpt-5-mini | 6996ms | [panel/editAgent]
+2025-11-08 09:35:07.774 [info] ccreq:b10a24ad.copilotmd | success | gpt-5-mini | 6808ms | [panel/editAgent]
+2025-11-08 09:35:15.447 [info] ccreq:15bcc8a0.copilotmd | success | gpt-5-mini | 7557ms | [panel/editAgent]
+2025-11-08 09:35:22.514 [info] ccreq:3aab9f56.copilotmd | success | gpt-5-mini | 6931ms | [panel/editAgent]
+2025-11-08 09:35:29.648 [info] ccreq:d4c495c5.copilotmd | success | gpt-5-mini | 6971ms | [panel/editAgent]
+2025-11-08 09:35:40.534 [info] ccreq:0be4a711.copilotmd | success | gpt-5-mini | 10722ms | [panel/editAgent]
+2025-11-08 09:35:47.430 [info] ccreq:07356aea.copilotmd | success | gpt-5-mini | 6751ms | [panel/editAgent]
+2025-11-08 09:35:57.999 [info] ccreq:6ff6fc51.copilotmd | success | gpt-5-mini | 10419ms | [panel/editAgent]
+2025-11-08 09:36:04.813 [info] ccreq:4864c334.copilotmd | success | gpt-5-mini | 6752ms | [panel/editAgent]
+2025-11-08 09:36:40.341 [info] ccreq:0db22ff8.copilotmd | success | gpt-5-mini | 22244ms | [panel/editAgent]
+2025-11-08 09:37:01.732 [info] ccreq:0d604336.copilotmd | success | gpt-5-mini | 21059ms | [panel/editAgent]
+2025-11-08 09:37:10.856 [info] ccreq:1f103761.copilotmd | success | gpt-5-mini | 8849ms | [panel/editAgent]
+2025-11-08 09:37:17.789 [info] ccreq:4a65b995.copilotmd | success | gpt-5-mini | 6818ms | [panel/editAgent]
+2025-11-08 09:37:24.949 [info] ccreq:9e4e0619.copilotmd | success | gpt-5-mini | 7028ms | [panel/editAgent]
+2025-11-08 09:37:48.176 [info] ccreq:eb665442.copilotmd | success | gpt-5-mini | 23097ms | [panel/editAgent]
+2025-11-08 09:37:55.574 [info] ccreq:ef5fbccb.copilotmd | success | gpt-5-mini | 7198ms | [panel/editAgent]
+2025-11-08 09:38:04.994 [info] ccreq:08e88bd1.copilotmd | success | gpt-5-mini | 7221ms | [panel/editAgent]
+2025-11-08 09:38:13.998 [info] ccreq:367a7eca.copilotmd | success | gpt-5-mini | 6883ms | [panel/editAgent]
+2025-11-08 09:38:23.555 [info] ccreq:595a4c3e.copilotmd | success | gpt-5-mini | 7211ms | [panel/editAgent]
+2025-11-08 09:38:33.119 [info] ccreq:ca0bbeeb.copilotmd | success | gpt-5-mini | 7441ms | [panel/editAgent]
+2025-11-08 09:38:42.209 [info] ccreq:cd63f74b.copilotmd | success | gpt-5-mini | 6955ms | [panel/editAgent]
+2025-11-08 09:38:51.272 [info] ccreq:c91cb5b1.copilotmd | success | gpt-5-mini | 6910ms | [panel/editAgent]
+2025-11-08 09:39:00.571 [info] ccreq:cc736ec7.copilotmd | success | gpt-5-mini | 7185ms | [panel/editAgent]
+2025-11-08 09:39:10.154 [info] ccreq:15135e0f.copilotmd | success | gpt-5-mini | 7458ms | [panel/editAgent]
+2025-11-08 09:39:19.370 [info] ccreq:605bcb8c.copilotmd | success | gpt-5-mini | 7101ms | [panel/editAgent]
+2025-11-08 09:39:30.746 [info] ccreq:d94525dc.copilotmd | success | gpt-5-mini | 9247ms | [panel/editAgent]
+2025-11-08 09:39:39.702 [info] ccreq:37d00c1b.copilotmd | success | gpt-5-mini | 6818ms | [panel/editAgent]
+2025-11-08 09:39:48.901 [info] ccreq:c152c191.copilotmd | success | gpt-5-mini | 7075ms | [panel/editAgent]
+2025-11-08 09:39:57.989 [info] ccreq:b4164f37.copilotmd | success | gpt-5-mini | 6957ms | [panel/editAgent]
+2025-11-08 09:40:07.094 [info] ccreq:29ad5cd1.copilotmd | success | gpt-5-mini | 6983ms | [panel/editAgent]
+2025-11-08 09:41:16.415 [info] ccreq:fa25489f.copilotmd | success | gpt-5-mini | 11022ms | [panel/editAgent]
+2025-11-08 09:41:24.033 [info] ccreq:242ca6e2.copilotmd | success | gpt-5-mini | 7445ms | [panel/editAgent]
+2025-11-08 09:41:31.429 [info] ccreq:4bf30e70.copilotmd | success | gpt-5-mini | 7210ms | [panel/editAgent]
+2025-11-08 09:41:38.943 [info] ccreq:997141cd.copilotmd | success | gpt-5-mini | 7352ms | [panel/editAgent]
+2025-11-08 09:41:46.214 [info] ccreq:81559118.copilotmd | success | gpt-5-mini | 7143ms | [panel/editAgent]
+2025-11-08 09:41:53.600 [info] ccreq:08f1521f.copilotmd | success | gpt-5-mini | 7260ms | [panel/editAgent]
+2025-11-08 09:42:00.880 [info] ccreq:56e46135.copilotmd | success | gpt-5-mini | 7161ms | [panel/editAgent]
+2025-11-08 09:42:09.275 [info] ccreq:95046fc3.copilotmd | success | gpt-5-mini | 8272ms | [panel/editAgent]
+2025-11-08 09:42:17.564 [info] ccreq:d4a7263e.copilotmd | success | gpt-5-mini | 8132ms | [panel/editAgent]
+2025-11-08 09:42:25.064 [info] ccreq:c970053e.copilotmd | success | gpt-5-mini | 7343ms | [panel/editAgent]
+2025-11-08 09:42:38.134 [info] ccreq:f17af298.copilotmd | success | gpt-5-mini | 12914ms | [panel/editAgent]
+2025-11-08 09:42:50.972 [info] ccreq:eab7638d.copilotmd | success | gpt-5-mini | 12630ms | [panel/editAgent]
+2025-11-08 09:43:33.708 [info] ccreq:de6ebd48.copilotmd | success | gpt-5-mini | 11582ms | [panel/editAgent]
+2025-11-08 09:43:41.144 [info] ccreq:f1415e3e.copilotmd | success | gpt-5-mini | 7279ms | [panel/editAgent]
+2025-11-08 09:43:54.996 [info] ccreq:1e72880b.copilotmd | success | gpt-5-mini | 13692ms | [panel/editAgent]
+2025-11-08 09:43:55.341 [info] Fetched model metadata in 344ms a2332c37-bbf1-4a56-9f4e-5fdc09532885
+2025-11-08 09:43:55.342 [info] ccreq:647db133.copilotmd | markdown
+2025-11-08 09:44:02.510 [info] ccreq:ccb87b2a.copilotmd | success | gpt-5-mini | 7043ms | [panel/editAgent]
+2025-11-08 09:44:15.818 [info] ccreq:020dd448.copilotmd | success | gpt-5-mini | 13176ms | [panel/editAgent]
+2025-11-08 09:44:28.566 [info] ccreq:da500412.copilotmd | success | gpt-5-mini | 12683ms | [panel/editAgent]
+2025-11-08 09:44:51.562 [info] ccreq:2ae7c671.copilotmd | success | gpt-5-mini | 20881ms | [panel/editAgent]
+2025-11-08 09:45:01.389 [info] ccreq:f2631d99.copilotmd | success | gpt-5-mini | 7515ms | [panel/editAgent]
+2025-11-08 09:45:15.592 [info] ccreq:09568383.copilotmd | success | gpt-5-mini | 12109ms | [panel/editAgent]
+2025-11-08 09:45:22.963 [info] ccreq:1495be9b.copilotmd | success | gpt-5-mini | 7303ms | [panel/editAgent]
+2025-11-08 09:45:25.105 [info] message 0 returned. finish reason: [stop]
+2025-11-08 09:45:25.105 [info] request done: requestId: [d6445ec4-7b77-4c22-aa8d-00b4e52032ae] model deployment ID: []
+2025-11-08 09:45:25.105 [info] ccreq:75ca459e.copilotmd | success | gpt-4o-mini | 580ms | [copilotLanguageModelWrapper]
+2025-11-08 09:45:45.249 [info] ccreq:8eef0ddd.copilotmd | success | gpt-5-mini | 20219ms | [panel/editAgent]
+2025-11-08 09:45:54.766 [info] ccreq:67a208ba.copilotmd | success | gpt-5-mini | 7220ms | [panel/editAgent]
+2025-11-08 09:46:03.887 [info] ccreq:a1a165c8.copilotmd | success | gpt-5-mini | 6997ms | [panel/editAgent]
+2025-11-08 09:46:13.017 [info] ccreq:dab96910.copilotmd | success | gpt-5-mini | 7008ms | [panel/editAgent]
+2025-11-08 09:46:25.726 [info] ccreq:82bd9cef.copilotmd | success | gpt-5-mini | 10582ms | [panel/editAgent]
+2025-11-08 09:46:34.958 [info] ccreq:ead53958.copilotmd | success | gpt-5-mini | 7098ms | [panel/editAgent]
+2025-11-08 09:46:44.204 [info] ccreq:b5214def.copilotmd | success | gpt-5-mini | 7112ms | [panel/editAgent]
+2025-11-08 09:46:54.588 [info] ccreq:47f06f13.copilotmd | success | gpt-5-mini | 8257ms | [panel/editAgent]
+2025-11-08 09:47:03.665 [info] ccreq:03425b17.copilotmd | success | gpt-5-mini | 6950ms | [panel/editAgent]
+2025-11-08 09:47:14.822 [info] message 0 returned. finish reason: [stop]
+2025-11-08 09:47:14.822 [info] request done: requestId: [c3b82fad-bbe6-4449-8da3-96d612bf14b3] model deployment ID: []
+2025-11-08 09:47:14.822 [info] ccreq:efa8d0d3.copilotmd | success | gpt-4o-mini | 704ms | [copilotLanguageModelWrapper]
+2025-11-08 09:47:30.939 [info] ccreq:ad5ee8c8.copilotmd | success | gpt-5-mini | 16283ms | [panel/editAgent]
+2025-11-08 09:47:43.463 [info] ccreq:8a406282.copilotmd | success | gpt-5-mini | 12391ms | [panel/editAgent]
+2025-11-08 09:47:51.091 [info] ccreq:9e5f748f.copilotmd | success | gpt-5-mini | 7454ms | [panel/editAgent]
+2025-11-08 09:47:58.852 [info] ccreq:5ebf8f67.copilotmd | success | gpt-5-mini | 7595ms | [panel/editAgent]
+2025-11-08 09:48:06.429 [info] ccreq:3cb65da6.copilotmd | success | gpt-5-mini | 7422ms | [panel/editAgent]
+2025-11-08 09:48:13.851 [info] ccreq:29bc17d5.copilotmd | success | gpt-5-mini | 7253ms | [panel/editAgent]
+2025-11-08 09:48:25.144 [info] ccreq:98e7d9c5.copilotmd | success | gpt-5-mini | 11147ms | [panel/editAgent]
+2025-11-08 09:48:42.282 [info] ccreq:f977a7ac.copilotmd | success | gpt-5-mini | 7602ms | [panel/editAgent]
+2025-11-08 09:48:57.320 [info] ccreq:25d9c9ad.copilotmd | success | gpt-5-mini | 14876ms | [panel/editAgent]
+2025-11-08 09:49:55.448 [info] ccreq:096d6cd7.copilotmd | success | gpt-5-mini | 7356ms | [panel/editAgent]
+2025-11-08 09:49:59.145 [info] message 0 returned. finish reason: [stop]
+2025-11-08 09:49:59.145 [info] request done: requestId: [51709889-4145-4bed-a686-72be06ef3bdb] model deployment ID: []
+2025-11-08 09:49:59.145 [info] ccreq:f63ef835.copilotmd | success | gpt-4o-mini | 579ms | [copilotLanguageModelWrapper]
+2025-11-08 09:50:09.636 [info] ccreq:b7b23a9d.copilotmd | success | gpt-5-mini | 10569ms | [panel/editAgent]
+2025-11-08 09:50:22.634 [info] ccreq:ff37407a.copilotmd | success | gpt-5-mini | 7360ms | [panel/editAgent]
+2025-11-08 09:50:26.514 [info] message 0 returned. finish reason: [stop]
+2025-11-08 09:50:26.514 [info] request done: requestId: [7341bf27-675a-4452-ac25-c28d8bc2071c] model deployment ID: []
+2025-11-08 09:50:26.514 [info] ccreq:64067923.copilotmd | success | gpt-4o-mini | 631ms | [copilotLanguageModelWrapper]
+2025-11-08 09:50:43.111 [info] ccreq:18694da6.copilotmd | success | gpt-5-mini | 16725ms | [panel/editAgent]
+2025-11-08 09:50:53.447 [info] ccreq:d226edb0.copilotmd | success | gpt-5-mini | 7175ms | [panel/editAgent]
+2025-11-08 09:51:04.144 [info] ccreq:803b92ca.copilotmd | success | gpt-5-mini | 7432ms | [panel/editAgent]
+2025-11-08 09:51:15.080 [info] ccreq:eaa6fa04.copilotmd | success | gpt-5-mini | 7427ms | [panel/editAgent]
+2025-11-08 09:51:26.522 [info] ccreq:78b54356.copilotmd | success | gpt-5-mini | 7569ms | [panel/editAgent]
+2025-11-08 09:51:41.711 [info] ccreq:b5dfe4ac.copilotmd | success | gpt-5-mini | 7302ms | [panel/editAgent]
+2025-11-08 09:51:56.897 [info] ccreq:9fd76086.copilotmd | success | gpt-5-mini | 7270ms | [panel/editAgent]
+2025-11-08 09:52:07.474 [info] ccreq:01e3616e.copilotmd | success | gpt-5-mini | 7244ms | [panel/editAgent]
+2025-11-08 09:52:11.871 [info] message 0 returned. finish reason: [stop]
+2025-11-08 09:52:11.871 [info] request done: requestId: [82bb1830-1600-48a7-b7e9-5167c6108acc] model deployment ID: []
+2025-11-08 09:52:11.871 [info] ccreq:83dd9710.copilotmd | success | gpt-4o-mini | 564ms | [copilotLanguageModelWrapper]
+2025-11-08 09:52:20.005 [info] ccreq:dbe22325.copilotmd | success | gpt-5-mini | 8190ms | [panel/editAgent]
+2025-11-08 09:52:30.601 [info] ccreq:2cc0ff57.copilotmd | success | gpt-5-mini | 7142ms | [panel/editAgent]
+2025-11-08 09:52:32.927 [info] message 0 returned. finish reason: [stop]
+2025-11-08 09:52:32.927 [info] request done: requestId: [1be6a974-ba78-4012-9a63-a67b465784be] model deployment ID: []
+2025-11-08 09:52:32.928 [info] ccreq:a71bcf1e.copilotmd | success | gpt-4o-mini | 568ms | [copilotLanguageModelWrapper]
+2025-11-08 09:52:40.957 [info] ccreq:41709d3a.copilotmd | success | gpt-5-mini | 8086ms | [panel/editAgent]
+2025-11-08 09:52:52.063 [info] ccreq:f2f43dce.copilotmd | success | gpt-5-mini | 10973ms | [panel/editAgent]
+2025-11-08 09:53:03.171 [info] ccreq:16015b04.copilotmd | success | gpt-5-mini | 7248ms | [panel/editAgent]
+2025-11-08 09:53:05.886 [info] message 0 returned. finish reason: [stop]
+2025-11-08 09:53:05.886 [info] request done: requestId: [4b96c504-fc95-46b3-94b6-8cc73933d95e] model deployment ID: []
+2025-11-08 09:53:05.887 [info] ccreq:9204b4f3.copilotmd | success | gpt-4o-mini | 590ms | [copilotLanguageModelWrapper]
+2025-11-08 09:53:16.812 [info] ccreq:a3746eb2.copilotmd | success | gpt-5-mini | 11000ms | [panel/editAgent]
+2025-11-08 09:53:26.742 [info] ccreq:3260a138.copilotmd | success | gpt-5-mini | 9792ms | [panel/editAgent]
+2025-11-08 09:53:37.494 [info] ccreq:a0ca6956.copilotmd | success | gpt-5-mini | 7413ms | [panel/editAgent]
+2025-11-08 09:53:39.898 [info] message 0 returned. finish reason: [stop]
+2025-11-08 09:53:39.898 [info] request done: requestId: [a9ce48a8-ebbe-4aa2-ba14-16e9ca1ce8e5] model deployment ID: []
+2025-11-08 09:53:39.898 [info] ccreq:6f9dda8f.copilotmd | success | gpt-4o-mini | 570ms | [copilotLanguageModelWrapper]
+2025-11-08 09:53:48.939 [info] ccreq:59d02e2a.copilotmd | success | gpt-5-mini | 9115ms | [panel/editAgent]
+2025-11-08 09:53:59.757 [info] ccreq:f24ef682.copilotmd | success | gpt-5-mini | 7496ms | [panel/editAgent]
+2025-11-08 09:54:00.021 [info] Fetched model metadata in 263ms 010c9c86-dfc6-4109-b00f-927e0d3a507b
+2025-11-08 09:54:00.022 [info] ccreq:c9a4378e.copilotmd | markdown
+2025-11-08 09:54:04.880 [info] message 0 returned. finish reason: [stop]
+2025-11-08 09:54:04.880 [info] request done: requestId: [bfdb6dd6-e366-45a1-b8ad-6a36921cca1a] model deployment ID: []
+2025-11-08 09:54:04.880 [info] ccreq:69e10230.copilotmd | success | gpt-4o-mini | 607ms | [copilotLanguageModelWrapper]
+2025-11-08 09:54:19.050 [info] ccreq:4674ee9d.copilotmd | success | gpt-5-mini | 14283ms | [panel/editAgent]
+2025-11-08 09:54:27.834 [info] ccreq:2d111501.copilotmd | success | gpt-5-mini | 8660ms | [panel/editAgent]
+2025-11-08 09:54:35.578 [info] ccreq:e1854755.copilotmd | success | gpt-5-mini | 7582ms | [panel/editAgent]
+2025-11-08 09:54:47.331 [info] ccreq:c6e72b27.copilotmd | success | gpt-5-mini | 11590ms | [panel/editAgent]
+2025-11-08 09:55:01.694 [info] Logged in as Hanamizuiro
+2025-11-08 09:55:02.614 [info] Got Copilot token for Hanamizuiro
+2025-11-08 09:55:02.614 [info] Copilot Chat: 0.32.4, VS Code: 1.105.1
+2025-11-08 09:55:02.633 [info] copilot token chat_enabled: true, sku: free_educational_quota
+2025-11-08 09:55:04.141 [info] Fetched model metadata in 1507ms 8c180c38-b333-472d-8be2-ebe831249779
+2025-11-08 09:55:04.142 [info] ccreq:d7fb028e.copilotmd | markdown
+2025-11-08 09:55:04.368 [info] Fetched auto model in 226ms.
+2025-11-08 09:55:10.389 [info] ccreq:059f9226.copilotmd | success | gpt-5-mini | 8698ms | [panel/editAgent]
+2025-11-08 09:55:25.025 [info] message 0 returned. finish reason: [stop]
+2025-11-08 09:55:25.025 [info] request done: requestId: [f9e3ccb4-ec39-44b2-add7-15c72f39d84d] model deployment ID: []
+2025-11-08 09:55:25.025 [info] ccreq:705916d8.copilotmd | success | gpt-4o-mini | 571ms | [copilotLanguageModelWrapper]
+2025-11-08 09:55:33.885 [info] ccreq:dce30489.copilotmd | success | gpt-5-mini | 8895ms | [panel/editAgent]
+2025-11-08 09:55:41.399 [info] ccreq:f27c009f.copilotmd | success | gpt-5-mini | 7379ms | [panel/editAgent]
+2025-11-08 09:55:53.120 [info] ccreq:a65e00ec.copilotmd | success | gpt-5-mini | 7658ms | [panel/editAgent]
+2025-11-08 09:56:00.012 [info] message 0 returned. finish reason: [stop]
+2025-11-08 09:56:00.012 [info] request done: requestId: [13d00e84-5f1b-4a5a-8322-3c8cd9aafcd3] model deployment ID: []
+2025-11-08 09:56:00.013 [info] ccreq:4b29cf4f.copilotmd | success | gpt-4o-mini | 601ms | [copilotLanguageModelWrapper]
+2025-11-08 09:56:07.590 [info] ccreq:7e80dcd7.copilotmd | success | gpt-5-mini | 7566ms | [panel/editAgent]
+2025-11-08 09:56:15.538 [info] ccreq:280d5410.copilotmd | success | gpt-5-mini | 7781ms | [panel/editAgent]
+2025-11-08 09:56:30.423 [info] ccreq:05f6036b.copilotmd | success | gpt-5-mini | 7769ms | [panel/editAgent]
+2025-11-08 09:56:32.605 [info] message 0 returned. finish reason: [stop]
+2025-11-08 09:56:32.605 [info] request done: requestId: [99712e76-c996-4d19-95ff-12fc95bd7c0b] model deployment ID: []
+2025-11-08 09:56:32.606 [info] ccreq:10a95e29.copilotmd | success | gpt-4o-mini | 680ms | [copilotLanguageModelWrapper]
+2025-11-08 09:56:40.027 [info] ccreq:ffeba5b8.copilotmd | success | gpt-5-mini | 7489ms | [panel/editAgent]
+2025-11-08 09:56:47.666 [info] ccreq:007aaa41.copilotmd | success | gpt-5-mini | 7498ms | [panel/editAgent]
+2025-11-08 09:56:59.430 [info] ccreq:abb4d910.copilotmd | success | gpt-5-mini | 8452ms | [panel/editAgent]
+2025-11-08 09:57:03.214 [info] message 0 returned. finish reason: [stop]
+2025-11-08 09:57:03.214 [info] request done: requestId: [e3d96158-5407-46d5-abfa-d56780752650] model deployment ID: []
+2025-11-08 09:57:03.215 [info] ccreq:8b608b15.copilotmd | success | gpt-4o-mini | 677ms | [copilotLanguageModelWrapper]
+2025-11-08 09:57:05.985 [info] ccreq:2d023f4e.copilotmd | cancelled | gpt-5-mini | 2832ms | [panel/editAgent]
+2025-11-08 09:58:09.166 [info] ccreq:c8ba9fe4.copilotmd | success | gpt-5-mini | 10106ms | [panel/editAgent]
+2025-11-08 09:58:16.807 [info] ccreq:acaba760.copilotmd | success | gpt-5-mini | 7320ms | [panel/editAgent]
+2025-11-08 09:58:24.634 [info] ccreq:04ee6cb0.copilotmd | success | gpt-5-mini | 7421ms | [panel/editAgent]
+2025-11-08 09:58:32.327 [info] ccreq:21e666cc.copilotmd | success | gpt-5-mini | 7181ms | [panel/editAgent]
+2025-11-08 09:58:40.000 [info] ccreq:6c81a5bc.copilotmd | success | gpt-5-mini | 7169ms | [panel/editAgent]
+2025-11-08 09:58:56.371 [info] ccreq:826d47b1.copilotmd | success | gpt-5-mini | 11197ms | [panel/editAgent]
+2025-11-08 09:59:01.383 [info] [ConversationHistorySummarizer] [full] summarization prompt rendered in 40ms.
+2025-11-08 10:00:03.343 [info] ccreq:3d4d169a.copilotmd | success | gpt-5-mini | 61960ms | [summarizeConversationHistory-full]
+2025-11-08 10:00:10.484 [info] ccreq:ff993c28.copilotmd | success | gpt-5-mini | 6866ms | [panel/editAgent]
+2025-11-08 10:00:18.144 [info] ccreq:ae2dd42b.copilotmd | success | gpt-5-mini | 7375ms | [panel/editAgent]
+2025-11-08 10:00:29.318 [info] ccreq:94f8fd80.copilotmd | success | gpt-5-mini | 7955ms | [panel/editAgent]
+2025-11-08 10:00:40.539 [info] ccreq:3d77cd7e.copilotmd | success | gpt-5-mini | 7143ms | [panel/editAgent]
+2025-11-08 10:00:50.745 [info] ccreq:57033e8c.copilotmd | success | gpt-5-mini | 7065ms | [panel/editAgent]
+2025-11-08 10:01:03.658 [info] ccreq:586f8096.copilotmd | success | gpt-5-mini | 11136ms | [panel/editAgent]
+2025-11-08 10:01:21.677 [info] ccreq:796958e8.copilotmd | success | gpt-5-mini | 13636ms | [panel/editAgent]
+2025-11-08 10:01:31.616 [info] [ConversationHistorySummarizer] [full] summarization prompt rendered in 29ms.
+2025-11-08 10:02:45.243 [info] ccreq:22bdc94d.copilotmd | success | gpt-5-mini | 73626ms | [summarizeConversationHistory-full]
+2025-11-08 10:02:52.737 [info] ccreq:2c9b09b5.copilotmd | success | gpt-5-mini | 7199ms | [panel/editAgent]
+2025-11-08 10:03:04.848 [info] ccreq:8aaa8fdf.copilotmd | success | gpt-5-mini | 7374ms | [panel/editAgent]
+2025-11-08 10:03:15.836 [info] ccreq:e876a3ec.copilotmd | success | gpt-5-mini | 7378ms | [panel/editAgent]
+2025-11-08 10:03:16.049 [error] Error from tool list_dir with args {"path":"/run/user/1000/quickshell/by-id"}: Directory /run/user/1000/quickshell/by-id is outside of the workspace and can't be read: Error: Directory /run/user/1000/quickshell/by-id is outside of the workspace and can't be read
+    at tne.invoke (/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.4/dist/extension.js:2047:7569)
+    at Vq.$invokeTool (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:183:3227)
+2025-11-08 10:03:23.315 [info] ccreq:137ba3e2.copilotmd | success | gpt-5-mini | 7093ms | [panel/editAgent]
+2025-11-08 10:03:34.802 [info] ccreq:3790fd73.copilotmd | success | gpt-5-mini | 7147ms | [panel/editAgent]
+2025-11-08 10:03:47.324 [info] ccreq:cdd52b21.copilotmd | success | gpt-5-mini | 7177ms | [panel/editAgent]
+2025-11-08 10:03:57.726 [info] ccreq:09226589.copilotmd | success | gpt-5-mini | 7141ms | [panel/editAgent]
+2025-11-08 10:04:14.212 [info] ccreq:0e2845f2.copilotmd | success | gpt-5-mini | 16176ms | [panel/editAgent]
+2025-11-08 10:04:25.286 [info] ccreq:9f1390dd.copilotmd | success | gpt-5-mini | 7296ms | [panel/editAgent]
+2025-11-08 10:05:05.137 [info] ccreq:720a8770.copilotmd | markdown
+2025-11-08 10:05:05.137 [info] request done: requestId: [ee31765a-a668-4c2a-a823-f466ab256772] model deployment ID: []
+2025-11-08 10:05:07.404 [info] request done: requestId: [b69f9433-3b47-4e07-8c91-52ed2ef69bf9] model deployment ID: []
+2025-11-08 10:05:07.425 [info] ccreq:40d8fd37.copilotmd | markdown
+2025-11-08 10:05:07.425 [info] ccreq:1573b15d.copilotmd | markdown
+2025-11-08 10:05:08.584 [info] message 0 returned. finish reason: [stop]
+2025-11-08 10:05:08.584 [info] request done: requestId: [a1a565da-ffb0-47e5-87e6-61995be17ea6] model deployment ID: []
+2025-11-08 10:05:08.585 [info] ccreq:e4dd20e9.copilotmd | success | copilot-nes-xtab | 960ms | [XtabProvider]
+2025-11-08 10:05:08.586 [info] ccreq:f500261c.copilotmd | markdown
+2025-11-08 10:05:38.406 [info] Fetched model metadata in 307ms 1de9bff5-b12c-4ea0-8279-235162b0bbc4
+2025-11-08 10:05:38.407 [info] ccreq:648303e4.copilotmd | markdown
+2025-11-08 10:05:53.860 [info] ccreq:ae561e53.copilotmd | success | gpt-5-mini | 15205ms | [panel/editAgent]
+2025-11-08 10:06:01.746 [info] ccreq:16302e02.copilotmd | success | gpt-5-mini | 7400ms | [panel/editAgent]
+2025-11-08 10:06:09.310 [info] ccreq:d4525d7f.copilotmd | success | gpt-5-mini | 7238ms | [panel/editAgent]
+2025-11-08 10:06:10.881 [info] ccreq:901a6542.copilotmd | markdown
+2025-11-08 10:06:13.887 [info] ccreq:fb5434af.copilotmd | markdown
+2025-11-08 10:06:16.956 [info] ccreq:bd876b95.copilotmd | markdown
+2025-11-08 10:06:16.956 [info] ccreq:e7c168fc.copilotmd | markdown
+2025-11-08 10:06:16.956 [info] ccreq:029a67bd.copilotmd | markdown
+2025-11-08 10:06:16.956 [info] ccreq:bf0b0903.copilotmd | markdown
+2025-11-08 10:06:16.956 [info] ccreq:ade4cdea.copilotmd | markdown
+2025-11-08 10:06:18.372 [info] request done: requestId: [0e80d37c-1cb9-4988-b1ba-97774cea06a1] model deployment ID: []
+2025-11-08 10:06:18.373 [info] ccreq:a3c2b781.copilotmd | markdown
+2025-11-08 10:06:18.373 [info] ccreq:76318ae5.copilotmd | markdown
+2025-11-08 10:06:27.590 [info] ccreq:272f347d.copilotmd | success | gpt-5-mini | 7150ms | [panel/editAgent]
+2025-11-08 10:06:37.719 [info] ccreq:eea41a60.copilotmd | success | gpt-5-mini | 7129ms | [panel/editAgent]
+2025-11-08 10:06:37.731 [error] Error from tool read_file with args {"filePath":"/home/blueflowers/.config/matugen/Matugen.colors","startLine":1,"endLine":200}: cannot open file:///home/blueflowers/.config/matugen/Matugen.colors. Detail: Unable to read file '/home/blueflowers/.config/matugen/Matugen.colors' (Error: Unable to resolve nonexistent file '/home/blueflowers/.config/matugen/Matugen.colors'): CodeExpectedError: cannot open file:///home/blueflowers/.config/matugen/Matugen.colors. Detail: Unable to read file '/home/blueflowers/.config/matugen/Matugen.colors' (Error: Unable to resolve nonexistent file '/home/blueflowers/.config/matugen/Matugen.colors')
+    at w9e.$tryOpenDocument (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:531:10721)
+2025-11-08 10:06:44.587 [info] ccreq:3423780f.copilotmd | success | gpt-5-mini | 6845ms | [panel/editAgent]
+2025-11-08 10:06:45.127 [error] Error from tool read_file with args {"filePath":"/home/blueflowers/.config/matugen/matugen.lua","startLine":1,"endLine":200}: cannot open file:///home/blueflowers/.config/matugen/matugen.lua. Detail: Unable to read file '/home/blueflowers/.config/matugen/matugen.lua' (Error: Unable to resolve nonexistent file '/home/blueflowers/.config/matugen/matugen.lua'): CodeExpectedError: cannot open file:///home/blueflowers/.config/matugen/matugen.lua. Detail: Unable to read file '/home/blueflowers/.config/matugen/matugen.lua' (Error: Unable to resolve nonexistent file '/home/blueflowers/.config/matugen/matugen.lua')
+    at w9e.$tryOpenDocument (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:531:10721)
+2025-11-08 10:06:52.344 [info] ccreq:0e994a66.copilotmd | success | gpt-5-mini | 7161ms | [panel/editAgent]
+2025-11-08 10:07:07.843 [info] ccreq:72e08a76.copilotmd | success | gpt-5-mini | 15267ms | [panel/editAgent]
+2025-11-08 10:07:15.479 [info] ccreq:5f96db6d.copilotmd | success | gpt-5-mini | 7529ms | [panel/editAgent]
+2025-11-08 10:07:33.660 [info] ccreq:433cce91.copilotmd | success | gpt-5-mini | 7009ms | [panel/editAgent]
+2025-11-08 10:07:53.856 [info] ccreq:02de54f7.copilotmd | success | gpt-5-mini | 7597ms | [panel/editAgent]
+2025-11-08 10:08:01.225 [info] ccreq:196be788.copilotmd | success | gpt-5-mini | 7206ms | [panel/editAgent]
+2025-11-08 10:08:16.489 [info] ccreq:8b193c18.copilotmd | success | gpt-5-mini | 10317ms | [panel/editAgent]
+2025-11-08 10:08:32.863 [info] ccreq:870b8129.copilotmd | success | gpt-5-mini | 7871ms | [panel/editAgent]
+2025-11-08 10:08:43.907 [info] ccreq:26bc9fd9.copilotmd | success | gpt-5-mini | 7179ms | [panel/editAgent]
+2025-11-08 10:09:01.727 [info] ccreq:b8f670c1.copilotmd | success | gpt-5-mini | 7210ms | [panel/editAgent]
+2025-11-08 10:09:12.877 [info] ccreq:38f4b5de.copilotmd | success | gpt-5-mini | 7579ms | [panel/editAgent]
+2025-11-08 10:09:24.727 [info] ccreq:d653237e.copilotmd | success | gpt-5-mini | 11722ms | [panel/editAgent]
+2025-11-08 10:10:45.229 [info] message 0 returned. finish reason: [stop]
+2025-11-08 10:10:45.229 [info] request done: requestId: [bd8214cc-b87d-4b8b-a344-f596dbd3e7ad] model deployment ID: []
+2025-11-08 10:10:45.376 [info] ccreq:26118b6c.copilotmd | success | copilot-nes-xtab | 997ms | [XtabProvider]
+2025-11-08 10:10:45.376 [info] ccreq:34d2e9c0.copilotmd | markdown
+2025-11-08 10:11:12.712 [info] message 0 returned. finish reason: [stop]
+2025-11-08 10:11:12.712 [info] request done: requestId: [1a97a5a0-a349-4d29-a2d9-b59fce8476f3] model deployment ID: []
+2025-11-08 10:11:12.713 [info] ccreq:dfbe7bd7.copilotmd | success | copilot-nes-xtab | 868ms | [XtabProvider]
+2025-11-08 10:11:12.714 [info] ccreq:cf64bdce.copilotmd | markdown
+2025-11-08 10:11:13.539 [info] message 0 returned. finish reason: [stop]
+2025-11-08 10:11:13.539 [info] request done: requestId: [b4bcb2e5-070f-426a-906a-60ae004898f3] model deployment ID: []
+2025-11-08 10:11:13.539 [info] ccreq:180e3c5b.copilotmd | success | copilot-nes-xtab | 626ms | [XtabProvider]
+2025-11-08 10:11:14.540 [info] ccreq:46742a39.copilotmd | markdown
+2025-11-08 10:11:19.216 [info] message 0 returned. finish reason: [stop]
+2025-11-08 10:11:19.216 [info] request done: requestId: [854e98d2-57e5-4422-9e88-62bb8ec94bc9] model deployment ID: []
+2025-11-08 10:11:19.217 [info] ccreq:b886a39d.copilotmd | success | copilot-nes-xtab | 610ms | [XtabProvider]
+2025-11-08 10:11:20.074 [info] ccreq:9cca480c.copilotmd | markdown
+2025-11-08 10:11:21.076 [info] ccreq:f406c8d4.copilotmd | markdown
+2025-11-08 10:13:47.478 [info] ccreq:e36bb2d7.copilotmd | success | gpt-5-mini | 10058ms | [panel/editAgent]
+2025-11-08 10:13:57.035 [info] ccreq:a9e36a73.copilotmd | success | gpt-5-mini | 6932ms | [panel/editAgent]
+2025-11-08 10:13:57.181 [error] Error from tool list_dir with args {"path":"/home/blueflowers/.config/quickshell/qs","maxResults":100}: Error: ENOENT: no such file or directory, scandir '/home/blueflowers/.config/quickshell/qs': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, scandir '/home/blueflowers/.config/quickshell/qs'
+    at ws.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:18064)
+    at Object.readDirectory (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:16201)
+    at tne.invoke (/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.4/dist/extension.js:2047:7666)
+    at Vq.$invokeTool (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:183:3195)
+2025-11-08 10:14:04.595 [info] ccreq:d231ace1.copilotmd | success | gpt-5-mini | 7339ms | [panel/editAgent]
+2025-11-08 10:14:11.981 [info] ccreq:c0f57a55.copilotmd | success | gpt-5-mini | 7134ms | [panel/editAgent]
+2025-11-08 10:14:34.064 [info] ccreq:3f3fb23a.copilotmd | success | gpt-5-mini | 21759ms | [panel/editAgent]
+2025-11-08 10:14:41.849 [info] ccreq:a15d3b67.copilotmd | success | gpt-5-mini | 7298ms | [panel/editAgent]
+2025-11-08 10:14:59.254 [info] ccreq:713a990e.copilotmd | success | gpt-5-mini | 7032ms | [panel/editAgent]
+2025-11-08 10:15:06.683 [info] ccreq:a61e8d72.copilotmd | success | gpt-5-mini | 7188ms | [panel/editAgent]
+2025-11-08 10:15:17.679 [info] ccreq:c44e76e7.copilotmd | success | gpt-5-mini | 7259ms | [panel/editAgent]
+2025-11-08 10:15:30.427 [info] ccreq:af5b9c4c.copilotmd | success | gpt-5-mini | 7356ms | [panel/editAgent]
+2025-11-08 10:15:38.117 [info] ccreq:dbb417f4.copilotmd | success | gpt-5-mini | 7158ms | [panel/editAgent]
+2025-11-08 10:15:56.965 [info] Fetched model metadata in 324ms 93ab9a70-4465-4f46-b0fc-e4b4b285a734
+2025-11-08 10:15:56.967 [info] ccreq:b559a88c.copilotmd | markdown
+2025-11-08 10:16:06.445 [info] ccreq:40cea040.copilotmd | success | gpt-5-mini | 7270ms | [panel/editAgent]
+2025-11-08 10:16:35.396 [info] Logged in as Hanamizuiro
+2025-11-08 10:16:35.920 [info] Got Copilot token for Hanamizuiro
+2025-11-08 10:16:35.920 [info] Copilot Chat: 0.32.4, VS Code: 1.105.1
+2025-11-08 10:16:35.936 [info] copilot token chat_enabled: true, sku: free_educational_quota
+2025-11-08 10:16:37.279 [info] Fetched model metadata in 1341ms 232254bc-a428-4b78-9d11-7ff24eb37779
+2025-11-08 10:16:37.280 [info] ccreq:89c1e913.copilotmd | markdown
+2025-11-08 10:16:37.501 [info] Fetched auto model in 221ms.
+2025-11-08 10:16:43.050 [info] ccreq:f940c097.copilotmd | success | gpt-5-mini | 7659ms | [panel/editAgent]
+2025-11-08 10:17:04.673 [info] ccreq:a92f07c5.copilotmd | success | gpt-5-mini | 11742ms | [panel/editAgent]
+2025-11-08 10:17:13.008 [info] ccreq:a47a15e2.copilotmd | success | gpt-5-mini | 7581ms | [panel/editAgent]
+2025-11-08 10:17:24.007 [info] ccreq:fd50e263.copilotmd | success | gpt-5-mini | 7004ms | [panel/editAgent]
+2025-11-08 10:17:32.019 [info] ccreq:3d87f420.copilotmd | success | gpt-5-mini | 7686ms | [panel/editAgent]
+2025-11-08 10:17:43.609 [info] ccreq:85933325.copilotmd | success | gpt-5-mini | 7548ms | [panel/editAgent]
+2025-11-08 10:17:56.643 [info] ccreq:f616edaf.copilotmd | success | gpt-5-mini | 7100ms | [panel/editAgent]
+2025-11-08 10:18:07.360 [info] ccreq:3a904b77.copilotmd | success | gpt-5-mini | 7156ms | [panel/editAgent]
+2025-11-08 10:18:33.764 [info] ccreq:b301256b.copilotmd | success | gpt-5-mini | 8921ms | [panel/editAgent]
+2025-11-08 10:18:45.281 [info] ccreq:c5388fa4.copilotmd | success | gpt-5-mini | 7073ms | [panel/editAgent]
+2025-11-08 10:18:52.673 [info] ccreq:df687d31.copilotmd | success | gpt-5-mini | 6997ms | [panel/editAgent]
+2025-11-08 10:19:07.628 [info] ccreq:08af6a24.copilotmd | success | gpt-5-mini | 7222ms | [panel/editAgent]
+2025-11-08 10:19:22.454 [info] ccreq:0ce3b09b.copilotmd | success | gpt-5-mini | 7156ms | [panel/editAgent]
+2025-11-08 10:19:30.627 [info] ccreq:699449c2.copilotmd | success | gpt-5-mini | 7786ms | [panel/editAgent]
+2025-11-08 10:19:43.154 [info] ccreq:ea3ffcf6.copilotmd | success | gpt-5-mini | 9061ms | [panel/editAgent]
+2025-11-08 10:19:51.356 [info] ccreq:58c861bb.copilotmd | success | gpt-5-mini | 7652ms | [panel/editAgent]
+2025-11-08 10:19:59.313 [info] ccreq:6ac400f4.copilotmd | success | gpt-5-mini | 7642ms | [panel/editAgent]
+2025-11-08 10:20:12.808 [info] ccreq:1ac600c6.copilotmd | success | gpt-5-mini | 7424ms | [panel/editAgent]
+2025-11-08 10:20:16.282 [info] [ConversationHistorySummarizer] [full] summarization prompt rendered in 13ms.
+2025-11-08 10:21:33.089 [info] ccreq:00806fe3.copilotmd | success | gpt-5-mini | 76806ms | [summarizeConversationHistory-full]
+2025-11-08 10:21:40.396 [info] ccreq:1ff274f6.copilotmd | success | gpt-5-mini | 6921ms | [panel/editAgent]
+2025-11-08 10:21:47.640 [info] ccreq:54bf8e21.copilotmd | success | gpt-5-mini | 6783ms | [panel/editAgent]
+2025-11-08 10:21:54.777 [info] ccreq:21e68b48.copilotmd | success | gpt-5-mini | 6738ms | [panel/editAgent]
+2025-11-08 10:22:01.847 [info] ccreq:75e48edd.copilotmd | success | gpt-5-mini | 6679ms | [panel/editAgent]
+2025-11-08 10:22:09.213 [info] ccreq:2328f547.copilotmd | success | gpt-5-mini | 6969ms | [panel/editAgent]
+2025-11-08 10:22:16.074 [info] ccreq:84e3857a.copilotmd | success | gpt-5-mini | 6484ms | [panel/editAgent]
+2025-11-08 10:22:27.169 [info] ccreq:e613cd25.copilotmd | success | gpt-5-mini | 6528ms | [panel/editAgent]
+2025-11-08 10:22:49.052 [info] ccreq:2bd82908.copilotmd | success | gpt-5-mini | 19161ms | [panel/editAgent]
+2025-11-08 10:22:58.217 [info] ccreq:e871db99.copilotmd | success | gpt-5-mini | 6610ms | [panel/editAgent]
+2025-11-08 10:23:10.086 [info] ccreq:121450fb.copilotmd | success | gpt-5-mini | 8153ms | [panel/editAgent]
+2025-11-08 10:23:19.691 [info] ccreq:111e25b1.copilotmd | success | gpt-5-mini | 7022ms | [panel/editAgent]
+2025-11-08 10:23:32.216 [info] ccreq:40bc184b.copilotmd | success | gpt-5-mini | 9188ms | [panel/editAgent]
+2025-11-08 10:23:50.961 [info] ccreq:947c696a.copilotmd | success | gpt-5-mini | 10314ms | [panel/editAgent]
+2025-11-08 10:24:42.529 [info] ccreq:987056d4.copilotmd | success | gpt-5-mini | 7975ms | [panel/editAgent]
+2025-11-08 10:24:54.317 [info] ccreq:cb5e1ab3.copilotmd | success | gpt-5-mini | 7142ms | [panel/editAgent]
+2025-11-08 10:25:21.358 [info] ccreq:8488e416.copilotmd | success | gpt-5-mini | 23464ms | [panel/editAgent]
+2025-11-08 10:25:35.472 [info] ccreq:3874232b.copilotmd | success | gpt-5-mini | 10510ms | [panel/editAgent]
+2025-11-08 10:25:44.381 [info] ccreq:866c54d2.copilotmd | success | gpt-5-mini | 7260ms | [panel/editAgent]
+2025-11-08 10:26:01.295 [info] ccreq:b04bb4f8.copilotmd | success | gpt-5-mini | 9656ms | [panel/editAgent]
+2025-11-08 10:26:10.493 [info] ccreq:f719853f.copilotmd | success | gpt-5-mini | 7003ms | [panel/editAgent]
+2025-11-08 10:26:28.213 [info] ccreq:7e211a75.copilotmd | success | gpt-5-mini | 7246ms | [panel/editAgent]
+2025-11-08 10:26:44.339 [info] ccreq:b50541fa.copilotmd | success | gpt-5-mini | 7113ms | [panel/editAgent]
+2025-11-08 10:26:44.562 [info] Fetched model metadata in 222ms f62bb478-3088-49e6-bda3-16c487417bad
+2025-11-08 10:26:44.563 [info] ccreq:c1f61153.copilotmd | markdown
+2025-11-08 10:26:58.836 [info] ccreq:03da00c2.copilotmd | success | gpt-5-mini | 7420ms | [panel/editAgent]
+2025-11-08 10:27:11.047 [info] ccreq:1177acfa.copilotmd | success | gpt-5-mini | 7897ms | [panel/editAgent]
+2025-11-08 10:27:53.210 [info] ccreq:a07f8e2d.copilotmd | success | gpt-5-mini | 31790ms | [panel/editAgent]
+2025-11-08 10:28:04.304 [info] ccreq:2576221d.copilotmd | success | gpt-5-mini | 7193ms | [panel/editAgent]
+2025-11-08 10:28:14.468 [info] ccreq:baff8dcc.copilotmd | success | gpt-5-mini | 7011ms | [panel/editAgent]
+2025-11-08 10:28:52.137 [info] ccreq:d8f379fe.copilotmd | success | gpt-5-mini | 7002ms | [panel/editAgent]
+2025-11-08 10:31:07.607 [info] ccreq:5e7b6b7b.copilotmd | success | gpt-5-mini | 12097ms | [panel/editAgent]
+2025-11-08 10:31:15.589 [info] ccreq:c1e05c8f.copilotmd | success | gpt-5-mini | 7846ms | [panel/editAgent]
+2025-11-08 10:31:23.695 [info] ccreq:fb769b9b.copilotmd | success | gpt-5-mini | 7869ms | [panel/editAgent]
+2025-11-08 10:31:42.293 [info] ccreq:b3fdf28a.copilotmd | success | gpt-5-mini | 8296ms | [panel/editAgent]
+2025-11-08 10:31:55.808 [info] ccreq:48377cf3.copilotmd | success | gpt-5-mini | 9605ms | [panel/editAgent]
+2025-11-08 10:32:08.282 [info] ccreq:3af42091.copilotmd | success | gpt-5-mini | 10169ms | [panel/editAgent]
+2025-11-08 10:32:12.019 [info] ccreq:68f68be7.copilotmd | cancelled | gpt-5-mini | 1274ms | [panel/editAgent]

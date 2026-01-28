@@ -1,0 +1,280 @@
+{
+  "version": 3,
+  "requesterUsername": "Hanamizuiro",
+  "requesterAvatarIconUri": {
+    "$mid": 1,
+    "path": "/u/37798951",
+    "scheme": "https",
+    "authority": "avatars.githubusercontent.com",
+    "query": "v=4"
+  },
+  "responderUsername": "GitHub Copilot",
+  "responderAvatarIconUri": {
+    "id": "copilot"
+  },
+  "initialLocation": "editor",
+  "requests": [
+    {
+      "requestId": "request_16c98ceb-959e-4e5e-b7fb-27cb15921ada",
+      "message": {
+        "parts": [
+          {
+            "range": {
+              "start": 0,
+              "endExclusive": 4
+            },
+            "editorRange": {
+              "startLineNumber": 1,
+              "startColumn": 1,
+              "endLineNumber": 1,
+              "endColumn": 5
+            },
+            "command": {
+              "name": "fix",
+              "description": "Propose a fix for the problems in the selected code",
+              "disambiguation": [
+                {
+                  "category": "fix",
+                  "description": "Propose a fix for the problems in the selected code",
+                  "examples": [
+                    "There is a problem in this code. Rewrite the code to show it with the bug fixed."
+                  ]
+                }
+              ]
+            },
+            "kind": "subcommand"
+          },
+          {
+            "range": {
+              "start": 4,
+              "endExclusive": 24
+            },
+            "editorRange": {
+              "startLineNumber": 1,
+              "startColumn": 5,
+              "endLineNumber": 1,
+              "endColumn": 25
+            },
+            "text": " semi-colon expected",
+            "kind": "text"
+          }
+        ],
+        "text": "/fix semi-colon expected"
+      },
+      "variableData": {
+        "variables": []
+      },
+      "response": [
+        {
+          "value": "There is a syntax error at line 8 where \"font-weight: b#temperature.critical {\" is invalid CSS; you likely meant to set a font-weight value, so replace it with a valid value like \"font-weight: bold;\".\n\n",
+          "supportThemeIcons": false,
+          "supportHtml": false,
+          "baseUri": {
+            "$mid": 1,
+            "path": "/home/blueflowers/dotfiles/",
+            "scheme": "file"
+          }
+        },
+        {
+          "kind": "progressMessage",
+          "content": {
+            "value": "Generating edits...",
+            "uris": {}
+          }
+        },
+        {
+          "kind": "textEditGroup",
+          "uri": {
+            "$mid": 1,
+            "fsPath": "/home/blueflowers/dotfiles/.config/waybar/style/Matugen.css",
+            "external": "file:///home/blueflowers/dotfiles/.config/waybar/style/Matugen.css",
+            "path": "/home/blueflowers/dotfiles/.config/waybar/style/Matugen.css",
+            "scheme": "file"
+          },
+          "edits": [
+            [
+              {
+                "text": "  font-family: \"JetBrainsMono Nerd Font\";\n  font-weight: bold;\n  min-height: 0;\n  /* set font-#workspaces button.persistent {\n  color: var(--surface);\n  border-radius: 10px;\n} to 100% if font scaling is set to 1.00 using nwg-look */\n  font-size: 97%;\n  font-feature-settings: '\"zero\", \"ss01\", \"ss02\", \"ss03\", \"ss04\", \"ss05\", \"cv31\"';\n  /* padding: 0.03125rem; */\n",
+                "range": {
+                  "startLineNumber": 7,
+                  "startColumn": 1,
+                  "endLineNumber": 19,
+                  "endColumn": 1
+                }
+              }
+            ]
+          ],
+          "state": {
+            "sha1": "8674bbacb925045f71bc5881c58bf1fe522f58e3",
+            "applied": 1
+          }
+        }
+      ],
+      "responseId": "response_5ab8cbd9-ab7f-4f72-83a2-ce772d3a0c86",
+      "result": {
+        "timings": {
+          "firstProgress": 1090,
+          "totalElapsed": 2938
+        },
+        "metadata": {
+          "codeBlocks": [],
+          "toolCallRounds": [
+            {
+              "response": "There is a syntax error at line 8 where \"font-weight: b#temperature.critical {\" is invalid CSS; you likely meant to set a font-weight value, so replace it with a valid value like \"font-weight: bold;\".\n\n---FILEPATH /home/blueflowers/dotfiles/.config/waybar/style/Matugen.css\n---FIND\n```\n  font-family: \"JetBrainsMono Nerd Font\";\n  font-weight: b#temperature.critical {\n  background-color: var(--error);\n};\n  min-height: 0;\n  /* set font-#workspaces button.persistent {\n  color: var(--surface);\n  border-radius: 10px;\n} to 100% if font scaling is set to 1.00 using nwg-look */\n  font-size: 97%;\n  font-feature-settings: '\"zero\", \"ss01\", \"ss02\", \"ss03\", \"ss04\", \"ss05\", \"cv31\"';\n  /* padding: 0.03125rem; */\n```\n---REPLACE\n```\n  font-family: \"JetBrainsMono Nerd Font\";\n  font-weight: bold;\n  min-height: 0;\n  /* set font-#workspaces button.persistent {\n  color: var(--surface);\n  border-radius: 10px;\n} to 100% if font scaling is set to 1.00 using nwg-look */\n  font-size: 97%;\n  font-feature-settings: '\"zero\", \"ss01\", \"ss02\", \"ss03\", \"ss04\", \"ss05\", \"cv31\"';\n  /* padding: 0.03125rem; */\n```\n---COMPLETE",
+              "toolCalls": [],
+              "toolInputRetry": 0,
+              "id": "fa6854df-42dc-445a-a3a9-872aa8fe57b6"
+            }
+          ],
+          "modelMessageId": "d51460f1-d015-427a-8206-d3aab6f719a7",
+          "responseId": "afe0546d-66d9-4fa4-809d-19fe7f4b54a9",
+          "sessionId": "0dedd775-5180-4175-814a-376709585607",
+          "agentId": "github.copilot.editor",
+          "command": "fix"
+        },
+        "details": "GPT-4.1 • 0x"
+      },
+      "followups": [],
+      "isCanceled": false,
+      "agent": {
+        "extensionId": {
+          "value": "GitHub.copilot-chat",
+          "_lower": "github.copilot-chat"
+        },
+        "extensionVersion": "0.31.5",
+        "publisherDisplayName": "GitHub",
+        "extensionPublisherId": "GitHub",
+        "extensionDisplayName": "GitHub Copilot Chat",
+        "id": "github.copilot.editor",
+        "description": "Ask or edit in context",
+        "when": "!config.inlineChat.enableV2 && !config.github.copilot.chat.advanced.inlineChat2",
+        "metadata": {
+          "themeIcon": {
+            "id": "copilot"
+          },
+          "hasFollowups": false,
+          "supportIssueReporting": false
+        },
+        "name": "Copilot",
+        "fullName": "GitHub Copilot",
+        "isDefault": true,
+        "locations": [
+          "editor"
+        ],
+        "modes": [
+          "ask"
+        ],
+        "slashCommands": [
+          {
+            "name": "generate",
+            "description": "Generate new code",
+            "disambiguation": [
+              {
+                "category": "generate",
+                "description": "Generate new code",
+                "examples": [
+                  "Add a function that returns the sum of two numbers"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "edit",
+            "description": "Edit the selected code in your active editor",
+            "disambiguation": [
+              {
+                "category": "edit",
+                "description": "Make changes to existing code",
+                "examples": [
+                  "Change this method to use async/await"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "doc",
+            "description": "Add documentation comment for this symbol",
+            "disambiguation": [
+              {
+                "category": "doc",
+                "description": "Add documentation comment for this symbol",
+                "examples": [
+                  "Add jsdoc to this method"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "fix",
+            "description": "Propose a fix for the problems in the selected code",
+            "disambiguation": [
+              {
+                "category": "fix",
+                "description": "Propose a fix for the problems in the selected code",
+                "examples": [
+                  "There is a problem in this code. Rewrite the code to show it with the bug fixed."
+                ]
+              }
+            ]
+          },
+          {
+            "name": "explain",
+            "description": "Explain how the code in your active editor works",
+            "disambiguation": [
+              {
+                "category": "explain",
+                "description": "Explain how the code in your active editor works",
+                "examples": [
+                  "Write an explanation for the code above as paragraphs of text."
+                ]
+              }
+            ]
+          },
+          {
+            "name": "tests",
+            "description": "Generate unit tests for the selected code",
+            "disambiguation": [
+              {
+                "category": "tests",
+                "description": "Generate unit tests for the selected code. The user does not want to fix their existing tests.",
+                "examples": [
+                  "Write a set of detailed unit test functions for the code above."
+                ]
+              }
+            ]
+          }
+        ],
+        "disambiguation": [
+          {
+            "category": "unknown",
+            "description": "Intent of this command is unclear or is not related to information technologies",
+            "examples": [
+              "Add a dog to this comment."
+            ]
+          }
+        ]
+      },
+      "slashCommand": {
+        "name": "fix",
+        "description": "Propose a fix for the problems in the selected code",
+        "disambiguation": [
+          {
+            "category": "fix",
+            "description": "Propose a fix for the problems in the selected code",
+            "examples": [
+              "There is a problem in this code. Rewrite the code to show it with the bug fixed."
+            ]
+          }
+        ]
+      },
+      "contentReferences": [],
+      "codeCitations": [],
+      "timestamp": 1759813886117,
+      "modelId": "copilot/gpt-4.1"
+    }
+  ],
+  "sessionId": "e8cfa9be-6640-4314-878e-73bd8350a42e",
+  "creationDate": 1759813886005,
+  "isImported": false,
+  "lastMessageDate": 1759813886117
+}

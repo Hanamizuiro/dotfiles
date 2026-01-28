@@ -1,0 +1,156 @@
+2025-11-08 09:33:18.516 [error] Error: The editor could not be opened because the file was not found.
+    at yDe.gc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2710:81184)
+    at async yDe.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2710:80342)
+    at async PGe.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:58521)
+    at async PGe.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:57076)
+    at async PGe.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:56158)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:808:23355
+2025-11-08 09:33:18.661 [info] Started local extension host with pid 1511.
+2025-11-08 09:33:19.488 [error] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-08 09:33:20.563 [error] [Extension Host] (node:1511) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2025-11-08 09:33:20.588 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-11-08 09:33:20.629 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-11-08 09:33:21.338 [error] Canceled: Canceled
+    at K0 (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:7:1282)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3814:37249
+    at Array.forEach (<anonymous>)
+    at nLt.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3814:37189)
+    at ZRe.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3814:48866)
+    at agn.dispose (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3821:7731)
+    at ogn.stopAllInReverse (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3821:7033)
+    at async Wkt.tb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3820:15899)
+2025-11-08 09:33:21.469 [info] [perf] Render performance baseline is 47ms
+2025-11-08 09:33:21.948 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-11-08 09:33:22.027 [info] Started local extension host with pid 1804.
+2025-11-08 09:33:22.272 [error] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-08 09:33:22.655 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-11-08 09:33:22.732 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-11-08 09:33:23.009 [error] [Extension Host] (node:1804) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2025-11-08 09:33:24.611 [info] [perf] Render performance baseline is 18ms
+2025-11-08 09:33:25.580 [error] chatParticipant must be declared in package.json: claude-code
+2025-11-08 09:33:26.202 [error] [Extension Host] (node:1804) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+2025-11-08 09:33:26.202 [error] [Extension Host] (node:1804) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+2025-11-08 09:33:36.595 [error] Error: The editor could not be opened because the file was not found.
+    at yDe.gc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2710:81184)
+    at async yDe.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2710:80342)
+    at async PGe.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:58521)
+    at async PGe.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:57076)
+    at async PGe.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:56158)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:808:23355
+2025-11-08 09:33:36.735 [info] Started local extension host with pid 3260.
+2025-11-08 09:33:36.821 [error] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-11-08 09:33:38.014 [error] [Extension Host] (node:3260) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2025-11-08 09:33:38.126 [info] MCP Registry configured: https://api.mcp.github.com/2025-09-15
+2025-11-08 09:33:38.204 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-11-08 09:33:39.401 [info] [perf] Render performance baseline is 17ms
+2025-11-08 09:33:41.425 [error] chatParticipant must be declared in package.json: claude-code
+2025-11-08 09:33:41.834 [error] [Extension Host] (node:3260) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+2025-11-08 09:33:42.928 [error] Collection or definition not found for ms-python.vscode-pylance/pylanceMcp and ms-python.vscode-pylance/pylance mcp server: Error: Collection or definition not found for ms-python.vscode-pylance/pylanceMcp and ms-python.vscode-pylance/pylance mcp server
+    at qct.resolveConnection (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2240:2218)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2240:13693
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:73168
+2025-11-08 09:33:42.990 [error] An unknown error occurred. Please consult the log for more details.
+2025-11-08 09:33:43.438 [error] [UriError]: Scheme contains illegal characters.: Error: [UriError]: Scheme contains illegal characters.
+    at z6 (file:///opt/visual-studio-code/resources/app/out/main.js:30:64302)
+    at new nd (file:///opt/visual-studio-code/resources/app/out/main.js:30:67682)
+    at new zr (file:///opt/visual-studio-code/resources/app/out/main.js:30:69120)
+    at nd.revive (file:///opt/visual-studio-code/resources/app/out/main.js:30:68897)
+    at o5.call (file:///opt/visual-studio-code/resources/app/out/main.js:88:105739)
+    at Lf.s (file:///opt/visual-studio-code/resources/app/out/main.js:31:14859)
+    at Lf.q (file:///opt/visual-studio-code/resources/app/out/main.js:31:14382)
+    at Xo.value (file:///opt/visual-studio-code/resources/app/out/main.js:31:13784)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.D (file:///opt/visual-studio-code/resources/app/out/main.js:30:2443)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2660)
+    at Xo.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5145)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2591)
+    at Xo.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5333)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2591)
+    at F (file:///opt/visual-studio-code/resources/app/out/main.js:28:7627)
+    at IpcMainImpl.i (file:///opt/visual-studio-code/resources/app/out/main.js:36:10776)
+    at IpcMainImpl.emit (node:events:519:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:106370)
+    at Session.emit (node:events:519:28)
+2025-11-08 09:51:58.272 [error] [781] potential listener LEAK detected, having 175 listeners already. MOST frequent listener (1):: Error
+    at qAi.create (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:11992)
+    at IBe.u [as onDidChange] (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:1377)
+    at new Lg (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:274:31378)
+    at cDt.o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1398:1716)
+    at cDt.createInstance (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1398:1213)
+    at fJe.I (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1336:1910)
+    at fJe.createModel (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1337:888)
+    at Ktt.provideTextContent (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1635:19581)
+    at QKe.u (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1312:22429)
+    at QKe.r (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1312:21512)
+2025-11-08 10:03:16.020 [error] [LanguageModelToolsService#invokeTool] Error from tool copilot_listDirectory with parameters {"path":"/run/user/1000/quickshell/by-id"}:
+Directory /run/user/1000/quickshell/by-id is outside of the workspace and can't be read: Error: Directory /run/user/1000/quickshell/by-id is outside of the workspace and can't be read
+    at tne.invoke (/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.4/dist/extension.js:2047:7569)
+    at Vq.$invokeTool (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:183:3227)
+2025-11-08 10:06:37.731 [error] [LanguageModelToolsService#invokeTool] Error from tool copilot_readFile with parameters {"filePath":"/home/blueflowers/.config/matugen/Matugen.colors","startLine":1,"endLine":200}:
+cannot open file:///home/blueflowers/.config/matugen/Matugen.colors. Detail: Unable to read file '/home/blueflowers/.config/matugen/Matugen.colors' (Error: Unable to resolve nonexistent file '/home/blueflowers/.config/matugen/Matugen.colors'): CodeExpectedError: cannot open file:///home/blueflowers/.config/matugen/Matugen.colors. Detail: Unable to read file '/home/blueflowers/.config/matugen/Matugen.colors' (Error: Unable to resolve nonexistent file '/home/blueflowers/.config/matugen/Matugen.colors')
+    at w9e.$tryOpenDocument (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:531:10721)
+2025-11-08 10:06:45.126 [error] [LanguageModelToolsService#invokeTool] Error from tool copilot_readFile with parameters {"filePath":"/home/blueflowers/.config/matugen/matugen.lua","startLine":1,"endLine":200}:
+cannot open file:///home/blueflowers/.config/matugen/matugen.lua. Detail: Unable to read file '/home/blueflowers/.config/matugen/matugen.lua' (Error: Unable to resolve nonexistent file '/home/blueflowers/.config/matugen/matugen.lua'): CodeExpectedError: cannot open file:///home/blueflowers/.config/matugen/matugen.lua. Detail: Unable to read file '/home/blueflowers/.config/matugen/matugen.lua' (Error: Unable to resolve nonexistent file '/home/blueflowers/.config/matugen/matugen.lua')
+    at w9e.$tryOpenDocument (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:531:10721)
+2025-11-08 10:11:47.789 [info] Extension host (LocalProcess pid: 3260) is unresponsive.
+2025-11-08 10:11:52.722 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-11-08 10:11:59.711 [info] Extension host (LocalProcess pid: 3260) is responsive.
+2025-11-08 10:12:00.378 [info] Unable to reload {0}: {1} file:///home/blueflowers/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal-bordered.json
+2025-11-08 10:12:03.239 [info] Extension host (LocalProcess pid: 3260) is unresponsive.
+2025-11-08 10:12:04.326 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-11-08 10:12:10.307 [warning] UNRESPONSIVE extension host: 'dlasagno.wal-theme' took 58.45900448872958% of 3464.774ms, saved PROFILE here: 'file:///tmp/exthost-e3b6ce.cpuprofile'
+2025-11-08 10:12:10.369 [info] Unable to reload {0}: {1} file:///home/blueflowers/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal-bordered.json
+2025-11-08 10:12:10.446 [info] Unable to reload {0}: {1} file:///home/blueflowers/.vscode/extensions/dlasagno.wal-theme-1.2.0/themes/wal-bordered.json
+2025-11-08 10:12:26.685 [info] Extension host (LocalProcess pid: 3260) is responsive.
+2025-11-08 10:13:57.153 [error] [LanguageModelToolsService#invokeTool] Error from tool copilot_listDirectory with parameters {"path":"/home/blueflowers/.config/quickshell/qs","maxResults":100}:
+Error: ENOENT: no such file or directory, scandir '/home/blueflowers/.config/quickshell/qs': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, scandir '/home/blueflowers/.config/quickshell/qs'
+    at ws.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:18064)
+    at Object.readDirectory (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:16201)
+    at tne.invoke (/home/blueflowers/.vscode/extensions/github.copilot-chat-0.32.4/dist/extension.js:2047:7666)
+    at Vq.$invokeTool (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:183:3195)
+2025-11-08 10:13:58.857 [error] Error: The editor could not be opened because the file was not found.
+    at yDe.gc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2710:81184)
+    at async yDe.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2710:80342)
+    at async PGe.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:58521)
+    at async PGe.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:57076)
+    at async PGe.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:56158)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:808:23355
+    at async WKe.M (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1294:30900)
+    at async WKe.openCodeEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1294:21877)
+    at async AXe.open (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1362:634)
+    at async NXe.open (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1362:1690)
+2025-11-08 10:23:13.858 [error] Error: The editor could not be opened because the file was not found.
+    at yDe.gc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2710:81184)
+    at async yDe.setInput (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2710:80342)
+    at async PGe.S (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:58521)
+    at async PGe.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:57076)
+    at async PGe.openEditor (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:696:56158)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:808:23355
+    at async Bae.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1608:33802)
+2025-11-08 10:28:59.323 [error] [LanguageModelToolsService#invokeTool] Error from tool run_in_terminal with parameters {"command":"tail -n 240 /run/user/1000/quickshell/by-id/9v8kfxd5t/log.qslog 2>/dev/null || true","explanation":"Check QuickShell logs after the restart to verify the wrapper fixed the type error and to surface any remaining issues.","isBackground":false}:
+Canceled: Canceled: Canceled
+    at Nbt.execute (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2847:1074)
+    at async iTe.invoke (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2891:1524)
+    at async mct.invokeTool (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2231:4854)
+    at async rqt.$invokeTool (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:509:12679)
+2025-11-08 10:33:24.194 [error] Unable to read file '/home/blueflowers/.config/quickshell-backup/modules/common/Appearance.qml' (Error: Unable to resolve nonexistent file '/home/blueflowers/.config/quickshell-backup/modules/common/Appearance.qml'): Error: Unable to read file '/home/blueflowers/.config/quickshell-backup/modules/common/Appearance.qml' (Error: Unable to resolve nonexistent file '/home/blueflowers/.config/quickshell-backup/modules/common/Appearance.qml')
+    at P1t.G (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3773:65941)
+    at P1t.F (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3773:65766)
+    at async Y1t.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3778:9979)
+    at async Y1t.readStream (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3778:9754)
+    at async mwe.Eb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1312:12360)
+    at async mwe.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1312:10835)
+    at async G1t.W (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3778:6625)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3778:5623
+    at async Promise.all (index 0)
+    at async Object.e [as settled] (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:81527)
+2025-11-08 10:33:24.230 [error] Error: ENOENT: no such file or directory, copyfile '/home/blueflowers/.config/quickshell-backup/qs/Widgets/DankActionButton.qml' -> '/home/blueflowers/.config/Code/User/History/272a4dc8/psJr.qml': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, copyfile '/home/blueflowers/.config/quickshell-backup/qs/Widgets/DankActionButton.qml' -> '/home/blueflowers/.config/Code/User/History/272a4dc8/psJr.qml'
+    at v7.create (file:///opt/visual-studio-code/resources/app/out/main.js:38:29705)
+    at Qi (file:///opt/visual-studio-code/resources/app/out/main.js:38:26959)
+    at _c.jb (file:///opt/visual-studio-code/resources/app/out/main.js:62:22448)
+    at _c.gb (file:///opt/visual-studio-code/resources/app/out/main.js:62:21891)

@@ -1,0 +1,47 @@
+2025-11-18 04:30:40.915 [error] Error: Unable to read file '/home/blueflowers/.vscode/extensions/local.dynamic-base16-dankshell-0.0.1/package.json' (Error: Unable to resolve nonexistent file '/home/blueflowers/.vscode/extensions/local.dynamic-base16-dankshell-0.0.1/package.json')
+    at Kh.G (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89877)
+    at Kh.F (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89702)
+    at async Kh.D (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89074)
+    at async $a.u (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45884)
+    at async $a.scanExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44391)
+    at async Promise.all (index 13)
+    at async $a.r (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42817)
+    at async Sf.scanAllUserExtensions (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35677)
+    at async Wh.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:76324)
+    at async Wh.cleanUp (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69176)
+    at async qh.cleanUp (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:63578)
+2025-11-18 04:30:40.943 [error] Error: Unable to read file '/home/blueflowers/.vscode/extensions/local.dynamic-base16-dankshell-0.0.1/package.json' (Error: Unable to resolve nonexistent file '/home/blueflowers/.vscode/extensions/local.dynamic-base16-dankshell-0.0.1/package.json')
+    at Kh.G (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89877)
+    at Kh.F (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89702)
+    at async Kh.D (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89074)
+    at async $a.u (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:45884)
+    at async $a.scanExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44391)
+    at async Promise.all (index 13)
+    at async $a.r (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42817)
+    at async Sf.scanAllUserExtensions (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35677)
+    at async Wh.scanAllUserExtensions (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69775)
+    at async G9.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:59589)
+    at async G9.s (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:57484)
+2025-11-18 04:30:46.629 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2025-11-18 04:30:47.252 [info] Installing extension: streetsidesoftware.code-spell-checker {"productVersion":{"version":"1.105.1","date":"2025-10-14T22:33:36.618Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json","path":"/home/blueflowers/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-11-18 04:30:50.229 [info] Extension signature verification result for streetsidesoftware.code-spell-checker: Success. Internal Code: 0. Executed: true. Duration: 1221ms.
+2025-11-18 04:30:50.443 [info] Extracted extension to file:///home/blueflowers/.vscode/extensions/streetsidesoftware.code-spell-checker-4.3.2: streetsidesoftware.code-spell-checker
+2025-11-18 04:30:50.459 [info] Renamed to /home/blueflowers/.vscode/extensions/streetsidesoftware.code-spell-checker-4.3.2
+2025-11-18 04:30:50.473 [info] Marked extension as removed streetsidesoftware.code-spell-checker-4.3.0
+2025-11-18 04:30:50.481 [info] Extension installed successfully: streetsidesoftware.code-spell-checker vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json
+2025-11-17 20:33:25.394 [info] Uninstalling extension from the profile: visualstudioexptteam.vscodeintellicode@1.3.2 vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json
+2025-11-17 20:33:25.394 [info] Uninstalling extension from the profile: visualstudioexptteam.intellicode-api-usage-examples@0.2.9 vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json
+2025-11-17 20:33:25.412 [info] Extensions is already requested to uninstall visualstudioexptteam.intellicode-api-usage-examples
+2025-11-17 20:33:25.419 [info] Marked extension as removed visualstudioexptteam.vscodeintellicode-1.3.2
+2025-11-17 20:33:25.421 [info] Marked extension as removed visualstudioexptteam.intellicode-api-usage-examples-0.2.9
+2025-11-17 20:33:26.171 [info] Successfully uninstalled extension from the profile visualstudioexptteam.vscodeintellicode@1.3.2 vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json
+2025-11-17 20:33:26.171 [info] Successfully uninstalled extension from the profile visualstudioexptteam.intellicode-api-usage-examples@0.2.9 vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json
+2025-11-17 20:33:52.985 [info] Getting Manifest... nowsci.glassit-linux
+2025-11-17 20:33:53.061 [info] Installing extension: nowsci.glassit-linux {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json","path":"/home/blueflowers/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.105.1","date":"2025-10-14T22:33:36.618Z"}}
+2025-11-17 20:33:55.293 [info] Extension signature verification result for nowsci.glassit-linux: Success. Internal Code: 0. Executed: true. Duration: 497ms.
+2025-11-17 20:33:55.301 [info] Extracted extension to file:///home/blueflowers/.vscode/extensions/nowsci.glassit-linux-1.0.0: nowsci.glassit-linux
+2025-11-17 20:33:55.303 [info] Renamed to /home/blueflowers/.vscode/extensions/nowsci.glassit-linux-1.0.0
+2025-11-17 20:33:55.320 [info] Extension installed successfully: nowsci.glassit-linux vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json
+2025-11-17 20:34:08.336 [info] Uninstalling extension from the profile: nowsci.glassit-linux@1.0.0 vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json
+2025-11-17 20:34:08.352 [info] Marked extension as removed nowsci.glassit-linux-1.0.0
+2025-11-17 20:34:08.605 [info] Successfully uninstalled extension from the profile nowsci.glassit-linux@1.0.0 vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json

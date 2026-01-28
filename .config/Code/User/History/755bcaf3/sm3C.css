@@ -1,0 +1,398 @@
+/***
+ *    ┓ ┏┏┓┓┏┳┓┏┓┳┓  ┳┳┓┳┳┓┳┳┳┓┏┓┓   ┏┓┏┓┏┓
+ *
+ *    ┗┻┛┛┗┗┛┻┛┛┗┛┗  ┛ ┗┻┛┗┻┛ ┗┛┗┗┛  ┗┛┗┛┗┛
+ *                                         
+ */
+
+
+
+
+/*-----------IMPORTING MATUGEN COLORS----------*/
+@import "colors.css";
+
+
+* {
+    font-size: 12px;
+    font-family: GeistMono Nerd Font Propo;
+    font-weight: bold;
+}
+
+window#waybar{
+    all:unset;
+}
+
+.modules-left {
+    padding: 7px;
+    margin: 10px 0px 5px 10px;
+    border-radius: 10px;
+    background: alpha(@surface_container,.8);
+    box-shadow: 0px 0px 3px alpha(@shadow, .4);
+    border: 1px solid alpha(@outline_variant, .3);
+}
+
+.modules-center {
+    padding: 7px;
+    margin: 10px 0px 5px 0px;
+    border-radius: 10px;
+    background: alpha(@surface_container,.8);
+    box-shadow: 0px 0px 3px alpha(@shadow, .4);
+    border: 1px solid alpha(@outline_variant, .3);
+}
+
+.modules-right {
+    padding: 7px;
+    margin: 10px 10px 5px 0px;
+    border-radius: 10px;
+    background: alpha(@surface_container,.8);
+    box-shadow: 0px 0px 3px alpha(@shadow, .4);
+    border: 1px solid alpha(@outline_variant, .3);
+}
+
+tooltip {
+    background: @surface_container_high;
+    border: 2px solid @primary;
+    border-radius: 12px;
+    box-shadow: 0px 0px 5px alpha(@shadow, .5);
+}
+
+tooltip-label {
+    color: @on_surface;
+    padding: 5px;
+}
+
+/* Hover effects for interactive modules */
+#clock:hover, 
+#custom-pacman:hover, 
+#custom-notification:hover,
+#bluetooth:hover,
+#battery:hover, 
+#cpu:hover,
+
+#memory:hover,
+#temperature:hover,
+#tray:hover,
+#custom-weather:hover,
+#pulseaudio:hover,
+#backlight:hover {
+    transition: all .3s ease;
+    color: @primary_fixed_dim;
+    text-shadow: 0px 0px 2px @primary;
+}
+
+#temperature {
+    padding: 0px 5px;
+    color: @primary;
+}
+
+#temperature.critical {
+  color: @red;
+}z
+
+/* Notification */
+#custom-notification {
+    padding: 0px 5px;
+    transition: all .3s ease;
+    color: @secondary;
+}
+
+/* Clock - Primary accent */
+#clock {
+    padding: 0px 5px;
+    color: @primary;
+    transition: all .3s ease;
+}
+
+/* Package manager updates */
+#custom-pacman {
+    padding: 0px 5px;
+    transition: all .3s ease;
+    color: @tertiary;
+}
+
+/* Workspaces */
+#workspaces {
+    padding: 0px 5px;
+}
+
+#workspaces button {
+    all: unset;
+    padding: 0px 5px;
+    color: alpha(@on_surface_variant, .4);
+    transition: all .2s ease;
+}
+
+#workspaces button:hover {
+    color: alpha(@primary, .7);
+    border: none;
+    text-shadow: 0px 0px 2px @primary_fixed_dim;
+    transition: all .3s ease;
+}
+
+#workspaces button.active {
+    color: @primary;
+    border: none;
+    text-shadow: 0px 0px 4px @primary_fixed_dim;
+    background: alpha(@primary_container, .2);
+    border-radius: 5px;
+}
+
+#workspaces button.empty {
+    color: alpha(@outline, .3);
+    border: none;
+}
+
+#workspaces button.empty:hover {
+    color: alpha(@outline, .6);
+    border: none;
+    text-shadow: 0px 0px 1.5px @outline;
+    transition: all .3s ease;
+}
+
+#workspaces button.empty.active {
+    color: @primary;
+    border: none;
+    text-shadow: 0px 0px 3px @primary_fixed_dim;
+}
+
+#bluetooth{
+    padding: 0px 5px;
+    transition: all .3s ease;
+    color: @on_surface;
+
+}
+
+
+#battery{
+    padding: 0px 5px;
+    transition: all .3s ease;
+    color: @on_surface;
+}
+#battery.charging {
+    color: @primary;
+}
+
+#battery.warning:not(.charging) {
+    color: @error;
+}
+
+
+#battery.critical:not(.charging) {
+    color: @on_error_container;
+    background-color: @error_container;
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+#group-expand{
+    padding: 0px 5px;
+    transition: all .3s ease; 
+}
+
+#custom-expand{
+    padding: 0px 5px;
+    color: alpha(@primary,.2);
+    text-shadow: 0px 0px 2px rgba(0, 0, 0, .7);
+    transition: all .3s ease; 
+}
+#custom-expand:hover{
+    color: @primary;
+    text-shadow: 0px 0px 3px @primary_fixed_dim;
+}
+#custom-colorpicker{
+    padding: 0px 5px;
+}
+
+#custom-endpoint{
+    color:transparent;
+    text-shadow: 0px 0px 1.5px rgba(0, 0, 0, 1);
+
+}
+#tray{
+    padding: 0px 5px;
+    transition: all .3s ease; 
+    color: @primary;
+
+}
+
+#custom-cava_mviz {
+    color: @primary;
+}
+
+/* Update these color assignments for better Matugen integration */
+
+#idle_inhibitor {
+    color: @primary;
+    transition: all .3s ease;
+}
+
+#backlight {
+    color: @primary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#custom-keyboard {
+    color: @primary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+
+#keyboard-state {
+    color: @primary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#taskbar button.active {
+    padding-left: 8px;
+    padding-right: 8px;
+    color: @primary;
+    background-color: alpha(@primary_container, .3);
+    transition: all 0.3s cubic-bezier(0.55, -0.68, 0.48, 1.682);
+}
+
+#taskbar button:hover {
+    padding-left: 2px;
+    padding-right: 2px;
+    color: @primary_fixed_dim;
+    background-color: alpha(@primary_container, .2);
+    transition: all 0.3s cubic-bezier(0.55, -0.68, 0.48, 1.682);
+}
+
+#custom-menu {
+    color: @primary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#custom-power {
+    color: @primary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#custom-updater {
+    color: @primary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#custom-light_dark {
+    color: @primary_fixed_dim;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#custom-lock {
+    color: @secondary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#pulseaudio {
+    color: @primary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#pulseaudio:hover {
+    color: @primary;
+}
+
+#pulseaudio.bluetooth {
+    color: @secondary;
+}
+
+#pulseaudio.muted {
+    color: @error;
+}
+
+#window {
+    color: @primary_fixed_dim;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#custom-waybar-mpris {
+    color: @tertiary;
+    padding: 0px 5px;
+    transition: all .3s ease;
+}
+
+#network {
+  color: @primary;
+}
+
+#clock {
+  color: @primary
+}
+
+#cpu {
+  color: @primary;
+}
+
+#custom-keyboard {
+  color: @primary;
+}
+
+
+#memory {
+  color: @primary;
+}
+
+#disk {
+  color: @primary;
+}
+
+
+#custom-separatordot-line {
+    color: @primary;
+}
+
+#custom-swaync {
+    color: @primary;
+}
+
+#custom-updater {
+    color: @primary;
+}
+
+#custom-hint {
+    color: @primary;
+}
+
+#custom-dot_update {
+    color: @primary;
+}
+
+#custom-weather {
+    color: @primary;
+}
+
+#custom-file_manager {
+    color: @primary;
+}
+
+#custom-tty {
+    color: @primary;
+}
+
+#custom-browser {
+    color: @primary;
+}
+
+#custom-settings {
+    color: @primary;
+}
+
+#custom-lock {
+    color: @primary;
+}
+
+#custom-playerctl {
+    color: @primary;
+}

@@ -14,11 +14,12 @@
   <property name="last-sort-column" type="string" value="THUNAR_COLUMN_NAME"/>
   <property name="last-sort-order" type="string" value="GTK_SORT_ASCENDING"/>
   <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_38_PERCENT"/>
-  <property name="last-details-view-column-widths" type="string" value="50,50,112,50,50,101,50,50,1930,50,50,84,50,187"/>
-  <property name="last-window-width" type="int" value="2552"/>
-  <property name="last-window-height" type="int" value="1383"/>
+  <property name="last-details-view-column-widths" type="string" value="50,50,112,50,50,690,50,50,227,50,50,83,50,307"/>
+  <property name="last-window-width" type="int" value="2560"/>
+  <property name="last-window-height" type="int" value="1440"/>
   <property name="last-side-pane" type="string" value="THUNAR_SIDEPANE_TYPE_SHORTCUTS"/>
   <property name="last-menubar-visible" type="bool" value="true"/>
   <property name="last-statusbar-visible" type="bool" value="true"/>
   <property name="last-image-preview-visible" type="bool" value="true"/>
+  <property name="last-location-bar" type="string" value="ThunarLocationEntry"/>
 </channel>

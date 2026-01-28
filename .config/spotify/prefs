@@ -3,13 +3,11 @@ autologin.canonical_username="j88f6tsk3a3lj9gl5oloqlhfb"
 autologin.saved_credentials="{\"j88f6tsk3a3lj9gl5oloqlhfb\":[\"j88f6tsk3a3lj9gl5oloqlhfb\",\"L1eGIRp2XTjqnPdNAjm38pds1phv9BBvITX5OveNyx37qZjwyvaJBPRBx9eIpAJJ33hMLGiEJu4Olg6eh1vf6cDJpDxd46Zu8NZyauQH3BVyI1zQQ1CI9Zb9Bvs60sJLXM6mTFeRqmWohhnGmI1DDdktBTljhQ+162ho/PhTZTEAe5ENTfdPUhzFC6JbnUbf7UQ9X7ygYdPcK8+SIYCqe9PndSRgaX9stMt+5jh0bOwFN0N+X4ewRih9px3k5xhzn17Hv1D2TbZnXoRDMS5SDt33zafUk3eknhDC/t4LrDs=\"]}"
 app.window.state.saved=true
 app.window.position.width=2552
-app.rollback-to-sc=true
 es.send-on-startup=true
 core.clock_delta=0
 autologin.username="j88f6tsk3a3lj9gl5oloqlhfb"
+app.window.state=2
 app.window.position.saved=true
-app.window.position.height=1383
-app.window.position.y=53
+app.window.position.height=1378
 storage.last-location="/home/blueflowers/.cache/spotify/Storage"
-app.window.position.x=4
-app.last-launched-version="1.2.63.394.g126b0d89"
+app.last-launched-version="1.2.77.358.g4339a634"

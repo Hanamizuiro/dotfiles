@@ -1,0 +1,252 @@
+2025-12-05 22:19:01.108 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-12-05 22:19:01.109 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-12-05 22:19:01.109 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-12-05 22:19:01.109 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-12-05 22:19:01.119 [info] Logged in as Hanamizuiro
+2025-12-05 22:19:01.122 [info] Using the Electron fetcher.
+2025-12-05 22:19:01.308 [error] Copilot extension not found
+2025-12-05 22:19:01.309 [warning] Copilot API is undefined, unable to register context provider.
+2025-12-05 22:19:01.885 [info] Got Copilot token for Hanamizuiro
+2025-12-05 22:19:01.885 [info] Copilot Chat: 0.33.4, VS Code: 1.106.3
+2025-12-05 22:19:01.894 [info] activationBlocker from 'languageModelAccess' took for 607ms
+2025-12-05 22:19:02.367 [info] copilot token chat_enabled: true, sku: free_educational_quota
+2025-12-05 22:19:02.367 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-12-05 22:19:02.377 [info] Registering default platform agent...
+2025-12-05 22:19:02.378 [info] [code-referencing] Public code references are enabled.
+2025-12-05 22:19:02.378 [info] activationBlocker from 'conversationFeature' took for 1095ms
+2025-12-05 22:19:02.547 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-12-05 22:19:03.129 [info] Fetched model metadata in 762ms a4049f81-6fdc-4b2c-9a32-0ccc7b3cef8d
+2025-12-05 22:19:03.356 [info] Latest entry: ccreq:latest.copilotmd
+2025-12-05 22:19:03.356 [info] ccreq:f333ca75.copilotmd | markdown
+2025-12-05 22:19:11.068 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-12-05 22:19:11.085 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-12-05 22:19:11.085 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-12-05 22:19:11.085 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-12-05 22:19:11.416 [error] Copilot extension not found
+2025-12-05 22:19:11.418 [warning] Copilot API is undefined, unable to register context provider.
+2025-12-05 22:19:11.444 [info] Using the Electron fetcher.
+2025-12-05 22:19:12.160 [info] Logged in as Hanamizuiro
+2025-12-05 22:19:12.971 [info] Got Copilot token for Hanamizuiro
+2025-12-05 22:19:12.971 [info] Copilot Chat: 0.33.4, VS Code: 1.106.3
+2025-12-05 22:19:12.979 [info] activationBlocker from 'languageModelAccess' took for 1586ms
+2025-12-05 22:19:13.013 [info] copilot token chat_enabled: true, sku: free_educational_quota
+2025-12-05 22:19:13.013 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-12-05 22:19:13.024 [info] Registering default platform agent...
+2025-12-05 22:19:13.025 [info] [code-referencing] Public code references are enabled.
+2025-12-05 22:19:13.025 [info] activationBlocker from 'conversationFeature' took for 1635ms
+2025-12-05 22:19:13.188 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-12-05 22:19:13.275 [info] Fetched model metadata in 263ms f96108a3-9d49-46d2-85e1-4e57b895a332
+2025-12-05 22:19:13.276 [info] Latest entry: ccreq:latest.copilotmd
+2025-12-05 22:19:13.277 [info] ccreq:f057aa9a.copilotmd | markdown
+2025-12-05 14:25:58.723 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:25:58.723 [info] request done: requestId: [ab4da8ee-2b7f-4c47-886d-68d91ad64af8] model deployment ID: []
+2025-12-05 14:25:58.724 [info] ccreq:c4abc7e4.copilotmd | success | claude-opus-4.5 | 8767ms | [panel/editAgent]
+2025-12-05 14:26:04.681 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:26:04.681 [info] request done: requestId: [ab4da8ee-2b7f-4c47-886d-68d91ad64af8] model deployment ID: []
+2025-12-05 14:26:04.682 [info] ccreq:73b3f082.copilotmd | success | claude-opus-4.5 | 5829ms | [panel/editAgent]
+2025-12-05 14:26:40.978 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:26:40.978 [info] request done: requestId: [ab4da8ee-2b7f-4c47-886d-68d91ad64af8] model deployment ID: []
+2025-12-05 14:26:40.979 [info] ccreq:47c318a3.copilotmd | success | claude-opus-4.5 | 36147ms | [panel/editAgent]
+2025-12-05 14:26:56.966 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:26:56.966 [info] request done: requestId: [ab4da8ee-2b7f-4c47-886d-68d91ad64af8] model deployment ID: []
+2025-12-05 14:26:56.966 [info] ccreq:6a6f094a.copilotmd | success | claude-opus-4.5 | 7077ms | [panel/editAgent]
+2025-12-05 14:27:13.887 [info] message 0 returned. finish reason: [stop]
+2025-12-05 14:27:13.887 [info] request done: requestId: [ab4da8ee-2b7f-4c47-886d-68d91ad64af8] model deployment ID: []
+2025-12-05 14:27:13.888 [info] ccreq:6a6601f6.copilotmd | success | claude-opus-4.5 | 14115ms | [panel/editAgent]
+2025-12-05 14:28:27.990 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:28:27.990 [info] request done: requestId: [3489c2b9-9a7f-46c5-9738-115a447da780] model deployment ID: []
+2025-12-05 14:28:27.991 [info] ccreq:4de52452.copilotmd | success | claude-opus-4.5 | 7307ms | [panel/editAgent]
+2025-12-05 14:29:04.446 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:29:04.446 [info] request done: requestId: [3489c2b9-9a7f-46c5-9738-115a447da780] model deployment ID: []
+2025-12-05 14:29:04.447 [info] ccreq:32d8e4ac.copilotmd | success | claude-opus-4.5 | 36342ms | [panel/editAgent]
+2025-12-05 14:29:18.611 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:29:18.611 [info] request done: requestId: [3489c2b9-9a7f-46c5-9738-115a447da780] model deployment ID: []
+2025-12-05 14:29:18.612 [info] ccreq:06ab2ab3.copilotmd | success | claude-opus-4.5 | 5257ms | [panel/editAgent]
+2025-12-05 14:29:47.345 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:29:47.345 [info] request done: requestId: [3489c2b9-9a7f-46c5-9738-115a447da780] model deployment ID: []
+2025-12-05 14:29:47.346 [info] ccreq:ffffced9.copilotmd | success | claude-opus-4.5 | 27059ms | [panel/editAgent]
+2025-12-05 14:29:55.658 [error] Error from tool create_file with args {"filePath": "/home/blueflowers/.config/rofi/master-config.rasi", "content": "/***\n *    ┏┓┏┳┓┓┏┓ ┏┓  ┓\n *    ┗┓ ┃ ┗┫┃ ┣ ━━┃\n *    ┗┛ ┻ ┗┛┗┛┗┛  ┻\n *                  \n */\n\n\n\n/*****----- Configuration -----*****/\nconfiguration {\n    modi:                       \"drun,run,filebrowser,window\";\n    show-icons:                 true;\n    display-drun:               \" \";\n    display-run:                \" \";\n    display-filebrowser:        \" \";\n    display-window:             \" \";\n    drun-display-format:        \"{name}\";\n    window-format:              \"{w} · {c} · {t}\";\n}\n\n/*****----- Global Properties -----*****/\n@import \"colors.rasi\"\n\n* {\n    font:                        \"JetBrainsMono Nerd Font 12\";\n}\n\n/*****----- Main Window -----*****/\nwindow {\n    /* properties for window widget */\n    transparency:                \"real\";\n    location:                    center;\n    anchor:                      center;\n    fullscreen:                  false;\n    width:                       900px;\n    x-offset:                    0px;\n    y-offset:                    0px;\n\n    /* properties for all widgets */\n    enabled:                     true;\n    border-radius:               15px;\n    border:                      2px solid;\n    border-color:                @primary;\n    cursor:                      \"default\";\n    background-color:            @surface-container-lowest;\n}\n\n/*****----- Main Box -----*****/\nmainbox {\n    enabled:                     true;\n    spacing:                     0px;\n    background-color:            transparent;\n    orientation:                 horizontal;\n    children:                    [ \"imagebox\", \"listbox\" ];\n}\n\nimagebox {\n    padding:                     20px;\n    background-color:            transparent;\n    background-image:            url(\"~/.config/rofi/.current_wallpaper\", height);\n    orientation:                 vertical;\n    children:                    [ \"inputbar\", \"dummy\", \"mode-switcher\" ];\n}\n\nlistbox {\n    spacing:                     20px;\n    padding:                     20px;\n    background-color:            transparent;\n    orientation:                 vertical;\n    children:                    [ \"message\", \"listview\" ];\n}\n\ndummy {\n    background-color:            transparent;\n}\n\n/*****----- Inputbar -----*****/\ninputbar {\n    enabled:                     true;\n    expand:                      false;\n    margin:                      20px;\n    border:                      0px solid;\n    border-radius:               12px;\n    border-color:                @primary;\n    background-color:            @surface-container;\n    text-color:                  @on-surface;\n    children:                    [ \"textbox-prompt-colon\", \"entry\" ];\n}\n\nprompt {\n    enabled:                     true;\n    background-color:            inherit;\n    text-color:                  inherit;\n}\ntextbox-prompt-colon {\n    str:                         \" \";\n    expand:                      false;\n    padding:                     0 1% 0;\n    horizontal-align:            0.5;\n    vertical-align:              0.5;\n    border-radius:               12px;\n    background-color:            @primary;\n    text-color:                  @on-primary;\n    font:                        \"GeistMono Nerd Font 16\";\n}\nentry {\n    expand:                      true;\n    padding:                     14px;\n    placeholder:                 \"Search\";\n    border-radius:               12px;\n    background-color:            @surface-container;\n    text-color:                  @on-surface;\n    placeholder-color:           @on-surface-variant;\n    cursor:                      text;\n}\n\n/*****----- Mode Switcher -----*****/\nmode-switcher{\n    enabled:                     true;\n    spacing:                     20px;\n    padding:                     20px;\n    background-color:            transparent;\n    text-color:                  @on-surface;\n}\nbutton {\n    padding:                     30px;\n    border-radius:               100%;\n    background-color:            @surface-container;\n    text-color:                  @on-surface;\n    cursor:                      pointer;\n}\nbutton selected {\n    background-color:            @primary;\n    text-color:                  @on-primary;\n}\n\n/*****----- Listview -----*****/\nlistview {\n    enabled:                     true;\n    columns:                     1;\n    lines:                       8;\n    cycle:                       true;\n    dynamic:                     true;\n    scrollbar:                   true;\n    layout:                      vertical;\n    reverse:                     false;\n    fixed-height:                true;\n    fixed-columns:               true;\n    padding:                     20px 20px 35px 20px; \n    spacing:                     10px;\n    background-color:            transparent;\n    text-color:                  @on-surface;\n    cursor:                      \"default\";\n}\n\n/*****----- Scrollbar -----*****/\nscrollbar {\n    width:                       4px;\n    border:                      0;\n    handle-color:                @primary;\n    handle-width:                8px;\n    padding:                     0;\n    border-radius:               12px;\n}\n\n/*****----- Elements -----*****/\nelement {\n    enabled:                     true;\n    spacing:                     10px;\n    margin:                      0px;\n    padding:                     10px;\n    border:                      0px solid;\n    border-radius:               8px;\n    border-color:                @primary;\n    background-color:            transparent;\n    text-color:                  @on-surface;\n    cursor:                      pointer;\n}\nelement normal.normal {\n    background-color:            inherit;\n    text-color:                  inherit;\n}\nelement normal.urgent {\n    background-color:            @tertiary-container;\n    text-color:                  @on-tertiary-container;\n}\nelement normal.active {\n    background-color:            @primary-container;\n    text-color:                  @on-primary-container;\n}\nelement selected.normal {\n    background-color:            @primary;\n    text-color:                  @on-primary;\n}\nelement selected.urgent {\n    background-color:            @tertiary-container;\n    text-color:                  @on-tertiary-container;\n}\nelement selected.active {\n    background-color:            @primary-container;\n    text-color:                  @on-primary-container;\n}\nelement alternate.normal {\n    background-color:            inherit;\n    text-color:                  inherit;\n}\nelement alternate.urgent {\n    background-color:            inherit;\n    text-color:                  inherit;\n}\nelement alternate.active {\n    background-color:            inherit;\n    text-color:                  inherit;\n}\nelement-icon {\n    background-color:            transparent;\n    text-color:                  inherit;\n    size:                        24px;\n    cursor:                      inherit;\n}\nelement-text {\n    background-color:            transparent;\n    text-color:                  inherit;\n    highlight:                   inherit;\n    cursor:                      inherit;\n    vertical-align:              0.5;\n    horizontal-align:            0.0;\n}\n\n/*****----- Message -----*****/\nmessage {\n    enabled:                     true;\n    margin:                      0px;\n    padding:                     0px;\n    border:                      0px solid;\n    border-radius:               0px 0px 0px 0px;\n    border-color:                @primary;\n    background-color:            transparent;\n    text-color:                  @on-surface;\n}\ntextbox {\n    padding:                     12px;\n    border:                      0px solid;\n    border-radius:               8px;\n    border-color:                @primary;\n    background-color:            @surface-container;\n    text-color:                  @on-surface;\n    vertical-align:              0.5;\n    horizontal-align:            0.0;\n    highlight:                   none;\n    placeholder-color:           @on-surface-variant;\n    blink:                       true;\n    markup:                      true;\n}\nerror-message {\n    padding:                     10px;\n    border:                      2px solid;\n    border-radius:               8px;\n    border-color:                @tertiary;\n    background-color:            @surface-container;\n    text-color:                  @on-surface;\n}\n"}: File already exists. You must use an edit tool to modify it.: Error: File already exists. You must use an edit tool to modify it.
+    at cue.invoke (/home/blueflowers/.vscode/extensions/github.copilot-chat-0.33.4/dist/extension.js:4791:2886)
+    at tQ.$invokeTool (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:192:3195)
+2025-12-05 14:30:16.009 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:30:16.009 [info] request done: requestId: [3489c2b9-9a7f-46c5-9738-115a447da780] model deployment ID: []
+2025-12-05 14:30:16.009 [info] ccreq:9bb8227c.copilotmd | success | claude-opus-4.5 | 20289ms | [panel/editAgent]
+2025-12-05 14:30:24.208 [info] message 0 returned. finish reason: [stop]
+2025-12-05 14:30:24.208 [info] request done: requestId: [58df06f1-20c9-413b-926c-3b051701cc5f] model deployment ID: []
+2025-12-05 14:30:24.209 [info] ccreq:b44901c5.copilotmd | success | gpt-4o-mini -> gpt-4o-mini-2024-07-18 | 784ms | [copilotLanguageModelWrapper]
+2025-12-05 14:30:25.994 [info] message 0 returned. finish reason: [stop]
+2025-12-05 14:30:25.994 [info] request done: requestId: [a49372ba-baa3-4246-a1a6-2b7c2aabbc63] model deployment ID: []
+2025-12-05 14:30:25.995 [info] ccreq:a2972963.copilotmd | success | gpt-4o-mini -> gpt-4o-mini-2024-07-18 | 1774ms | [copilotLanguageModelWrapper]
+2025-12-05 14:30:37.244 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:30:37.244 [info] request done: requestId: [3489c2b9-9a7f-46c5-9738-115a447da780] model deployment ID: []
+2025-12-05 14:30:37.245 [info] ccreq:d6048473.copilotmd | success | claude-opus-4.5 | 5362ms | [panel/editAgent]
+2025-12-05 14:30:59.011 [info] message 0 returned. finish reason: [stop]
+2025-12-05 14:30:59.011 [info] request done: requestId: [3489c2b9-9a7f-46c5-9738-115a447da780] model deployment ID: []
+2025-12-05 14:30:59.012 [info] ccreq:75eb06c1.copilotmd | success | claude-opus-4.5 | 10426ms | [panel/editAgent]
+2025-12-05 14:32:08.033 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:32:08.033 [info] request done: requestId: [77bd20fe-321e-4610-9755-824ee25385e5] model deployment ID: []
+2025-12-05 14:32:08.034 [info] ccreq:5064cde3.copilotmd | success | claude-opus-4.5 | 6271ms | [panel/editAgent]
+2025-12-05 14:32:21.264 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:32:21.264 [info] request done: requestId: [77bd20fe-321e-4610-9755-824ee25385e5] model deployment ID: []
+2025-12-05 14:32:21.264 [info] ccreq:47c4728d.copilotmd | success | claude-opus-4.5 | 13102ms | [panel/editAgent]
+2025-12-05 14:32:33.019 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:32:33.019 [info] request done: requestId: [77bd20fe-321e-4610-9755-824ee25385e5] model deployment ID: []
+2025-12-05 14:32:33.020 [info] ccreq:9d69f4e2.copilotmd | success | claude-opus-4.5 | 5798ms | [panel/editAgent]
+2025-12-05 14:32:41.000 [info] message 0 returned. finish reason: [stop]
+2025-12-05 14:32:41.000 [info] request done: requestId: [77bd20fe-321e-4610-9755-824ee25385e5] model deployment ID: []
+2025-12-05 14:32:41.000 [info] ccreq:032f266f.copilotmd | success | claude-opus-4.5 | 5818ms | [panel/editAgent]
+2025-12-05 14:33:57.403 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:33:57.403 [info] request done: requestId: [e4733c1a-e948-4640-8837-81529d027023] model deployment ID: []
+2025-12-05 14:33:57.404 [info] ccreq:d02a19d3.copilotmd | success | claude-opus-4.5 | 12234ms | [panel/editAgent]
+2025-12-05 14:34:07.741 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:34:07.741 [info] request done: requestId: [e4733c1a-e948-4640-8837-81529d027023] model deployment ID: []
+2025-12-05 14:34:07.742 [info] ccreq:9bef842f.copilotmd | success | claude-opus-4.5 | 5263ms | [panel/editAgent]
+2025-12-05 14:34:16.137 [info] message 0 returned. finish reason: [stop]
+2025-12-05 14:34:16.137 [info] request done: requestId: [e4733c1a-e948-4640-8837-81529d027023] model deployment ID: []
+2025-12-05 14:34:16.138 [info] ccreq:f0aff4f8.copilotmd | success | claude-opus-4.5 | 6866ms | [panel/editAgent]
+2025-12-05 14:34:39.595 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:34:39.595 [info] request done: requestId: [1627c4f3-98ac-4331-aae0-01997a2016b7] model deployment ID: []
+2025-12-05 14:34:39.596 [info] ccreq:fe29ab22.copilotmd | success | claude-opus-4.5 | 5024ms | [panel/editAgent]
+2025-12-05 14:34:49.425 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:34:49.425 [info] request done: requestId: [1627c4f3-98ac-4331-aae0-01997a2016b7] model deployment ID: []
+2025-12-05 14:34:49.426 [info] ccreq:09598875.copilotmd | success | claude-opus-4.5 | 5270ms | [panel/editAgent]
+2025-12-05 14:34:57.572 [info] message 0 returned. finish reason: [stop]
+2025-12-05 14:34:57.572 [info] request done: requestId: [1627c4f3-98ac-4331-aae0-01997a2016b7] model deployment ID: []
+2025-12-05 14:34:57.573 [info] ccreq:aa6f1bf0.copilotmd | success | claude-opus-4.5 | 6311ms | [panel/editAgent]
+2025-12-05 14:45:38.062 [info] message 0 returned. finish reason: [stop]
+2025-12-05 14:45:38.062 [info] request done: requestId: [badb7b58-b2d3-4fd3-bd80-2fb69ee5b1ec] model deployment ID: []
+2025-12-05 14:45:38.063 [info] ccreq:c986d7fc.copilotmd | success | gpt-4o-mini -> gpt-4o-mini-2024-07-18 | 718ms | [intentDetection]
+2025-12-05 14:45:38.109 [info] Summarized doc to fit token budget (108343.59999999999 / 127997): 3090 + 652 + 2
+2025-12-05 14:45:40.133 [info] message 0 returned. finish reason: [stop]
+2025-12-05 14:45:40.133 [info] request done: requestId: [baa30ed2-15f8-4e0c-ad23-1bf3bbb99e7e] model deployment ID: []
+2025-12-05 14:45:40.134 [info] ccreq:cf2e6ceb.copilotmd | success | claude-haiku-4.5 | 2019ms | [inline/edit]
+2025-12-05 14:49:00.221 [info] message 0 returned. finish reason: [stop]
+2025-12-05 14:49:00.221 [info] request done: requestId: [003e2bfd-b3e8-461e-8805-734ce8da8477] model deployment ID: []
+2025-12-05 14:49:00.222 [info] ccreq:6eed709f.copilotmd | success | claude-opus-4.5 | 29345ms | [panel/editAgent]
+2025-12-05 14:50:15.434 [info] Request ID for failed request: 9aad73b0-76df-4c98-9d6d-3f4682d89c06
+2025-12-05 14:50:15.473 [info] Logged in as Hanamizuiro
+2025-12-05 14:50:15.665 [info] ccreq:9dcbb6bd.copilotmd | badRequest | copilot-nes-oct | 993ms | [XtabProvider]
+2025-12-05 14:50:15.669 [info] ccreq:489bcfad.copilotmd | markdown
+2025-12-05 14:50:16.066 [info] Got Copilot token for Hanamizuiro
+2025-12-05 14:50:16.066 [info] Copilot Chat: 0.33.4, VS Code: 1.106.3
+2025-12-05 14:50:16.076 [info] copilot token chat_enabled: true, sku: free_educational_quota
+2025-12-05 14:50:16.076 [info] [code-referencing] Public code references are enabled.
+2025-12-05 14:50:16.091 [info] copilot token chat_enabled: true, sku: free_educational_quota
+2025-12-05 14:50:16.091 [info] [code-referencing] Public code references are enabled.
+2025-12-05 14:50:16.331 [info] Fetched model metadata in 256ms b381f213-8cea-4ebc-8a7d-773dd226ab23
+2025-12-05 14:50:16.332 [info] ccreq:cdf104c3.copilotmd | markdown
+2025-12-05 14:50:16.799 [info] message 0 returned. finish reason: [stop]
+2025-12-05 14:50:16.799 [info] request done: requestId: [3a8bcade-fda6-4c04-a5b7-b4d2824eaf04] model deployment ID: []
+2025-12-05 14:50:16.799 [info] ccreq:36bb4e98.copilotmd | success | copilot-nes-oct -> gpt-4.1-mini-2025-04-14 | 933ms | [XtabProvider]
+2025-12-05 14:50:16.801 [info] ccreq:375f517c.copilotmd | markdown
+2025-12-05 14:50:17.802 [info] ccreq:d17c1047.copilotmd | markdown
+2025-12-05 14:50:20.372 [info] message 0 returned. finish reason: [stop]
+2025-12-05 14:50:20.372 [info] request done: requestId: [e38835dd-e3c2-4a7c-9057-1b0c37cfa56e] model deployment ID: []
+2025-12-05 14:50:20.373 [info] ccreq:831b04fd.copilotmd | success | copilot-nes-oct -> gpt-4.1-mini-2025-04-14 | 763ms | [XtabProvider]
+2025-12-05 14:50:21.373 [info] ccreq:d17e5ca7.copilotmd | markdown
+2025-12-05 14:51:42.782 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:51:42.782 [info] request done: requestId: [8e8ec797-b277-46b0-b439-60a50bc83b5c] model deployment ID: []
+2025-12-05 14:51:42.783 [info] ccreq:9c6bc088.copilotmd | success | claude-opus-4.5 | 12760ms | [panel/editAgent]
+2025-12-05 14:52:08.492 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:52:08.492 [info] request done: requestId: [8e8ec797-b277-46b0-b439-60a50bc83b5c] model deployment ID: []
+2025-12-05 14:52:08.493 [info] ccreq:1b89f884.copilotmd | success | claude-opus-4.5 | 8629ms | [panel/editAgent]
+2025-12-05 14:52:19.318 [info] message 0 returned. finish reason: [stop]
+2025-12-05 14:52:19.318 [info] request done: requestId: [8e8ec797-b277-46b0-b439-60a50bc83b5c] model deployment ID: []
+2025-12-05 14:52:19.319 [info] ccreq:319057e8.copilotmd | success | claude-opus-4.5 | 7306ms | [panel/editAgent]
+2025-12-05 14:58:19.793 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:58:19.794 [info] request done: requestId: [14382640-c340-46cc-8275-21ae7eecca8f] model deployment ID: []
+2025-12-05 14:58:19.794 [info] ccreq:e7d865dd.copilotmd | success | claude-opus-4.5 | 22995ms | [panel/editAgent]
+2025-12-05 14:58:29.848 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:58:29.848 [info] request done: requestId: [14382640-c340-46cc-8275-21ae7eecca8f] model deployment ID: []
+2025-12-05 14:58:29.849 [info] ccreq:49f550f5.copilotmd | success | claude-opus-4.5 | 5577ms | [panel/editAgent]
+2025-12-05 14:58:40.109 [info] message 0 returned. finish reason: [stop]
+2025-12-05 14:58:40.109 [info] request done: requestId: [14382640-c340-46cc-8275-21ae7eecca8f] model deployment ID: []
+2025-12-05 14:58:40.110 [info] ccreq:12d89d48.copilotmd | success | claude-opus-4.5 | 8300ms | [panel/editAgent]
+2025-12-05 14:59:49.598 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 14:59:49.598 [info] request done: requestId: [c52833b2-ab1b-4293-a049-5d485dff6403] model deployment ID: []
+2025-12-05 14:59:49.599 [info] ccreq:fa902372.copilotmd | success | claude-opus-4.5 | 7076ms | [panel/editAgent]
+2025-12-05 15:00:08.576 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 15:00:08.576 [info] request done: requestId: [c52833b2-ab1b-4293-a049-5d485dff6403] model deployment ID: []
+2025-12-05 15:00:08.576 [info] ccreq:3efbc3e4.copilotmd | success | claude-opus-4.5 | 18815ms | [panel/editAgent]
+2025-12-05 15:00:26.742 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 15:00:26.743 [info] request done: requestId: [c52833b2-ab1b-4293-a049-5d485dff6403] model deployment ID: []
+2025-12-05 15:00:26.743 [info] ccreq:f78a088c.copilotmd | success | claude-opus-4.5 | 16327ms | [panel/editAgent]
+2025-12-05 15:00:26.980 [info] Fetched model metadata in 236ms d1fb672a-ff05-4c66-824d-7b8ea786651b
+2025-12-05 15:00:26.982 [info] ccreq:64ab14e7.copilotmd | markdown
+2025-12-05 15:00:28.880 [error] Error from tool create_file with args {"filePath": "/home/blueflowers/.config/swaync/config.json", "content": "{\n  \"$schema\": \"/etc/xdg/swaync/configSchema.json\",\n  \"positionX\": \"right\",\n  \"positionY\": \"top\",\n  \"layer\": \"overlay\",\n  \"control-center-layer\": \"top\",\n  \"layer-shell\": true,\n  \"cssPriority\": \"user\",\n  \"control-center-margin-top\": 5,\n  \"control-center-margin-bottom\": 0,\n  \"control-center-margin-right\": 8,\n  \"control-center-margin-left\": 0,\n  \"notification-2fa-action\": true,\n  \"notification-inline-replies\": false,\n  \"notification-icon-size\": 34,\n  \"notification-body-image-height\": 300,\n  \"notification-body-image-width\": 300,\n  \"notification-window-width\": 350,\n  \"timeout\": 6,\n  \"timeout-low\": 3,\n  \"timeout-critical\": 3,\n  \"fit-to-screen\": false,\n  \"control-center-width\": 380,\n  \"control-center-height\": 900,\n  \"keyboard-shortcuts\": true,\n  \"image-visibility\": \"when-available\",\n  \"transition-time\": 200,\n  \"hide-on-clear\": false,\n  \"hide-on-action\": true,\n  \"script-fail-notify\": true,\n  \"widgets\": [\n    \"dnd\",\n    \"buttons-grid\",\n    \"backlight\",\n    \"volume\",\n    \"mpris\",\n    \"title\",\n    \"notifications\"\n  ],\n  \"widget-config\": {\n    \"title\": {\n      \"text\": \" Notifications\",\n      \"clear-all-button\": true,\n      \"button-text\": \"󰎟 Clear\"\n    },\n    \"dnd\": {\n      \"text\": \"Do Not Disturb\"\n    },\n    \"label\": {\n      \"max-lines\": 1,\n      \"text\": \"Notification\"\n    },\n    \"mpris\": {\n      \"image-size\": 80,\n      \"image-radius\": 12\n    },\n    \"volume\": {\n      \"label\": \"󰕾\",\n      \"show-per-app\": false\n    },\n    \"backlight\": {\n      \"label\": \"󰃟\",\n      \"device\": \"intel_backlight\"\n    },\n    \"buttons-grid\": {\n      \"actions\": [\n        {\n          \"label\": \"󰤨\",\n          \"command\": \"nm-connection-editor\"\n        },\n        {\n          \"label\": \"󰂯\",\n          \"command\": \"blueman-manager\"\n        },\n        {\n          \"label\": \"󰐥\",\n          \"command\": \"bash -c $HOME/.config/hypr/scripts/Wlogout.sh\"\n        },\n        {\n          \"label\": \"󰌾\",\n          \"command\": \"bash -c $HOME/.config/hypr/scripts/LockScreen.sh\"\n        },\n        {\n          \"label\": \"󰍃\",\n          \"command\": \"hyprctl dispatch exit\"\n        },\n        {\n          \"label\": \"󰀝\",\n          \"command\": \"bash -c $HOME/.config/hypr/scripts/AirplaneMode.sh\"\n        },\n        {\n          \"label\": \"󰝟\",\n          \"command\": \"pactl set-sink-mute @DEFAULT_SINK@ toggle\"\n        },\n        {\n          \"label\": \"󰍹\",\n          \"command\": \"bash -c $HOME/.config/hypr/scripts/ScreenShot.sh --area\"\n        },\n        {\n          \"label\": \"󰉋\",\n          \"command\": \"thunar\"\n        },\n        {\n          \"label\": \"󰒓\",\n          \"command\": \"pavucontrol\"\n        }\n      ]\n    }\n  }\n}\n"}: File already exists. You must use an edit tool to modify it.: Error: File already exists. You must use an edit tool to modify it.
+    at cue.invoke (/home/blueflowers/.vscode/extensions/github.copilot-chat-0.33.4/dist/extension.js:4791:2886)
+    at tQ.$invokeTool (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:192:3195)
+2025-12-05 15:00:41.389 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 15:00:41.389 [info] request done: requestId: [c52833b2-ab1b-4293-a049-5d485dff6403] model deployment ID: []
+2025-12-05 15:00:41.389 [info] ccreq:fcfda86d.copilotmd | success | claude-opus-4.5 | 12435ms | [panel/editAgent]
+2025-12-05 15:01:01.434 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 15:01:01.434 [info] request done: requestId: [c52833b2-ab1b-4293-a049-5d485dff6403] model deployment ID: []
+2025-12-05 15:01:01.434 [info] ccreq:a98efc04.copilotmd | success | claude-opus-4.5 | 15539ms | [panel/editAgent]
+2025-12-05 15:01:15.540 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 15:01:15.540 [info] request done: requestId: [c52833b2-ab1b-4293-a049-5d485dff6403] model deployment ID: []
+2025-12-05 15:01:15.541 [info] ccreq:d759915d.copilotmd | success | claude-opus-4.5 | 9093ms | [panel/editAgent]
+2025-12-05 15:01:18.176 [info] message 0 returned. finish reason: [stop]
+2025-12-05 15:01:18.176 [info] request done: requestId: [e8c51d03-e82e-4590-9212-84c2f191ef2f] model deployment ID: []
+2025-12-05 15:01:18.176 [info] ccreq:4f87b2ef.copilotmd | success | gpt-4o-mini -> gpt-4o-mini-2024-07-18 | 678ms | [copilotLanguageModelWrapper]
+2025-12-05 15:01:19.121 [info] message 0 returned. finish reason: [stop]
+2025-12-05 15:01:19.121 [info] request done: requestId: [97154852-4c28-4b6e-a866-95d8726d7cba] model deployment ID: []
+2025-12-05 15:01:19.122 [info] ccreq:399e204f.copilotmd | success | gpt-4o-mini -> gpt-4o-mini-2024-07-18 | 942ms | [copilotLanguageModelWrapper]
+2025-12-05 15:02:58.560 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 15:02:58.560 [info] request done: requestId: [c52833b2-ab1b-4293-a049-5d485dff6403] model deployment ID: []
+2025-12-05 15:02:58.561 [info] ccreq:5f110031.copilotmd | success | claude-opus-4.5 | 7168ms | [panel/editAgent]
+2025-12-05 15:03:12.292 [info] message 0 returned. finish reason: [stop]
+2025-12-05 15:03:12.292 [info] request done: requestId: [c52833b2-ab1b-4293-a049-5d485dff6403] model deployment ID: []
+2025-12-05 15:03:12.293 [info] ccreq:d8915d1b.copilotmd | success | claude-opus-4.5 | 9559ms | [panel/editAgent]
+2025-12-05 15:05:03.803 [warning] [relatedFiles] unknown language json
+2025-12-05 15:05:04.275 [info] [fetchCompletions] Request f9ce5c6b-d41b-4866-ab6e-716e2fb70bcd at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 449.9721599998884ms
+2025-12-05 15:05:04.521 [info] [fetchCompletions] Request 10481a0f-21b5-4859-b614-a4d87f219c8a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 208.9424379998818ms
+2025-12-05 15:05:04.583 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-05 15:05:04.708 [info] message 0 returned. finish reason: [stop]
+2025-12-05 15:05:04.708 [info] request done: requestId: [d7d7afe3-9205-4b9d-8fda-1416c437d4ac] model deployment ID: []
+2025-12-05 15:05:04.709 [info] ccreq:1a34a347.copilotmd | success | copilot-nes-oct -> gpt-4.1-mini-2025-04-14 | 689ms | [XtabProvider]
+2025-12-05 15:05:04.710 [info] ccreq:e9743131.copilotmd | markdown
+2025-12-05 15:05:04.710 [info] ccreq:293a1caa.copilotmd | markdown
+2025-12-05 15:05:04.841 [info] [fetchCompletions] Request 6d3185d3-950b-412d-b820-4ff7b4ecde59 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 238.55919199995697ms
+2025-12-05 15:05:04.921 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-05 15:05:11.956 [info] [fetchCompletions] Request ad3fea21-e9c2-4fd1-a238-63a0e03cfaa2 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 233.44458900019526ms
+2025-12-05 15:05:11.993 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-05 15:05:12.000 [info] ccreq:cd0c18a0.copilotmd | markdown
+2025-12-05 15:05:12.399 [info] [fetchCompletions] Request 4cbde5c8-2031-4dc6-9c57-551e9e1c22e7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 205.7084269998595ms
+2025-12-05 15:05:12.474 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-05 15:05:12.956 [info] message 0 returned. finish reason: [stop]
+2025-12-05 15:05:12.956 [info] request done: requestId: [9ddac19c-9eb8-4f88-bf60-9abf607efa31] model deployment ID: []
+2025-12-05 15:05:12.957 [info] ccreq:cf1d3532.copilotmd | success | copilot-nes-oct -> gpt-4.1-mini-2025-04-14 | 565ms | [XtabProvider]
+2025-12-05 15:05:12.957 [info] ccreq:4bdf313e.copilotmd | markdown
+2025-12-05 15:05:13.290 [info] ccreq:c9cc2342.copilotmd | markdown
+2025-12-05 15:05:14.041 [info] message 0 returned. finish reason: [stop]
+2025-12-05 15:05:14.041 [info] request done: requestId: [796bee8f-2669-4ea5-aa91-7df99a64c24d] model deployment ID: []
+2025-12-05 15:05:14.042 [info] ccreq:d4a1ff61.copilotmd | success | copilot-nes-oct -> gpt-4.1-mini-2025-04-14 | 550ms | [XtabProvider]
+2025-12-05 15:05:15.044 [info] ccreq:06426925.copilotmd | markdown
+2025-12-05 15:05:32.626 [info] ccreq:181c02cc.copilotmd | markdown
+2025-12-05 15:05:32.626 [info] request done: requestId: [88fbbbda-9c24-4a04-8b62-0dd39ec19fb3] model deployment ID: []
+2025-12-05 15:05:32.626 [info] ccreq:4797ed6b.copilotmd | unknown | copilot-nes-oct | 583ms | [XtabProvider]
+2025-12-05 15:05:33.351 [info] message 0 returned. finish reason: [stop]
+2025-12-05 15:05:33.351 [info] request done: requestId: [ef6d5106-1566-4994-b600-5c039011ca8c] model deployment ID: []
+2025-12-05 15:05:33.352 [info] ccreq:a67ab1a1.copilotmd | success | copilot-nes-oct -> gpt-4.1-mini-2025-04-14 | 527ms | [XtabProvider]
+2025-12-05 15:05:34.352 [info] ccreq:13327c71.copilotmd | markdown
+2025-12-05 15:05:39.300 [info] ccreq:98f85f45.copilotmd | markdown
+2025-12-05 15:05:39.617 [info] ccreq:fbc34832.copilotmd | markdown
+2025-12-05 15:05:40.427 [info] message 0 returned. finish reason: [stop]
+2025-12-05 15:05:40.427 [info] request done: requestId: [4b3773b0-af5a-4ffb-bd4a-ed243a0e1454] model deployment ID: []
+2025-12-05 15:05:40.428 [info] ccreq:4e957af6.copilotmd | success | copilot-nes-oct -> gpt-4.1-mini-2025-04-14 | 410ms | [XtabProvider]
+2025-12-05 15:05:41.429 [info] ccreq:1be7af3c.copilotmd | markdown
+2025-12-05 15:06:16.617 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 15:06:16.617 [info] request done: requestId: [e1821fc9-646a-45d5-a512-649c8e75060d] model deployment ID: []
+2025-12-05 15:06:16.618 [info] ccreq:171b6fe1.copilotmd | success | claude-opus-4.5 | 7060ms | [panel/editAgent]
+2025-12-05 15:06:28.264 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 15:06:28.264 [info] request done: requestId: [e1821fc9-646a-45d5-a512-649c8e75060d] model deployment ID: []
+2025-12-05 15:06:28.265 [info] ccreq:757baa9e.copilotmd | success | claude-opus-4.5 | 11512ms | [panel/editAgent]
+2025-12-05 15:06:38.690 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 15:06:38.690 [info] request done: requestId: [e1821fc9-646a-45d5-a512-649c8e75060d] model deployment ID: []
+2025-12-05 15:06:38.691 [info] ccreq:ecea55c6.copilotmd | success | claude-opus-4.5 | 7124ms | [panel/editAgent]
+2025-12-05 15:06:47.823 [info] message 0 returned. finish reason: [tool_calls]
+2025-12-05 15:06:47.823 [info] request done: requestId: [e1821fc9-646a-45d5-a512-649c8e75060d] model deployment ID: []
+2025-12-05 15:06:47.824 [info] ccreq:e95fc7b9.copilotmd | success | claude-opus-4.5 | 7294ms | [panel/editAgent]
+2025-12-05 15:06:55.899 [info] message 0 returned. finish reason: [stop]
+2025-12-05 15:06:55.899 [info] request done: requestId: [e1821fc9-646a-45d5-a512-649c8e75060d] model deployment ID: []
+2025-12-05 15:06:55.900 [info] ccreq:e9f41d7a.copilotmd | success | claude-opus-4.5 | 5803ms | [panel/editAgent]

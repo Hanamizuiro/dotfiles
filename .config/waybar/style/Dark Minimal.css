@@ -206,3 +206,7 @@ tooltip label {
 label:focus {
     background-color: @background;
 }
+
+custom-cava_mviz {
+  color: @primary;
+}

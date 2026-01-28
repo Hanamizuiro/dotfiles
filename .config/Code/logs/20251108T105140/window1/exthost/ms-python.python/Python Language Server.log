@@ -1,0 +1,21 @@
+2025-11-08 10:51:48.384 [info] (Client) Pylance client (2025.9.1) started with python extension (2025.16.0)
+2025-11-08 10:51:49.203 [info] (27530) Server root directory: file:///home/blueflowers/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-08 10:51:49.204 [info] (27530) Pylance language server 2025.9.1 (pyright version 1.1.406, commit 20aa20a1) starting
+2025-11-08 10:51:49.208 [info] (27530) Starting service instance ".config" for workspace "/home/blueflowers/.config"
+2025-11-08 10:51:49.277 [info] (27530) Setting environmentName for service ".config": "3.13.7 (global)"
+2025-11-08 10:51:49.277 [info] (27530) Setting pythonPath for service ".config": "/bin/python"
+2025-11-08 10:51:49.277 [info] (27530) No include entries specified; assuming /home/blueflowers/.config
+2025-11-08 10:51:49.278 [info] (27530) Auto-excluding **/node_modules
+2025-11-08 10:51:49.278 [info] (27530) Auto-excluding **/__pycache__
+2025-11-08 10:51:49.278 [info] (27530) Auto-excluding **/.*
+2025-11-08 10:51:49.299 [info] (27530) Assuming Python version 3.13.7.final.0
+2025-11-08 10:51:49.360 [info] (27530) Settings have not changed. Skipping update.
+2025-11-08 10:51:49.364 [info] (27530) Starting Mcp server id:4548 ...
+2025-11-08 10:51:49.525 [info] (27530) Found 11 source files
+2025-11-08 10:51:49.923 [info] (27530) BG: Priority queue background worker(2) root directory: file:///home/blueflowers/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-08 10:51:49.923 [info] (27530) BG: Priority queue background worker(2) started
+2025-11-08 10:51:50.066 [info] (27530) BG: Indexer background runner(3) root directory: file:///home/blueflowers/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist (index)
+2025-11-08 10:51:50.066 [info] (27530) BG: Indexing(3) started
+2025-11-08 10:51:50.333 [info] (27530) BG: scanned(3) 71 files over 1 exec env
+2025-11-08 10:51:50.450 [info] (27530) BG: indexed(3) 71 files over 1 exec env
+2025-11-08 10:51:50.460 [info] (27530) BG: Indexing finished(3).

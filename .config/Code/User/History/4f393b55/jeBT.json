@@ -1,0 +1,5 @@
+{
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "workbench.colorTheme": "Wal Bordered",
+    "editor.cursorBlinking": "expand"
+}

@@ -1,0 +1,31 @@
+##
+# Matugen configuration file
+# Material You theme generator for Linux
+##
+
+# Wallpaper configuration
+wallpaper:
+  # Base directory for wallpapers
+  # directory: ~/Pictures/Wallpapers
+
+  # Current wallpaper to use
+  # path: /path/to/your/wallpaper.jpg
+
+# Theme configuration
+theme:
+  # Color scheme to use (vibrant, expressive, spritz, tonal_spot, fruit_salad, rainbow, monochromatic)
+  scheme: vibrant
+
+  # Light or dark theme
+  mode: dark
+
+# Pywal integration
+pywal:
+  # Whether to generate pywal colors
+  enabled: true
+
+# Hooks to run after generation
+hooks:
+  post_generation:
+    # Run our Waybar color generation script
+    - ~/.config/matugen/scripts/update-waybar-colors.sh

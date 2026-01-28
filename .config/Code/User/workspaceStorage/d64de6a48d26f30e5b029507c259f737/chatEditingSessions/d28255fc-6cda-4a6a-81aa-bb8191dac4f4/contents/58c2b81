@@ -1,0 +1,17 @@
+{
+  "windowBackground": "{{colors.background.dark.hex}}",
+  "primaryText": "{{colors.on_background.dark.hex}}",
+  "layerBackground1": "{{colors.primary.default.hex}}",
+  "layerBackground2": "{{colors.primary_container.default.hex}}",
+  "layerBackground3": "{{colors.surface.default.hex}}",
+  "surfaceText": "{{colors.on_surface.dark.hex}}",
+  "secondaryText": "{{colors.on_surface_variant.default.hex}}",
+  "borderPrimary": "{{colors.primary.default.hex}}",
+  "shadowColor": "#000000",
+  "accentPrimary": "{{colors.primary.default.hex}}",
+  "accentSecondary": "{{colors.secondary_container.default.hex}}",
+  "selectionBackground": "{{colors.secondary_container.default.hex}}",
+  "accentPrimaryText": "{{colors.on_primary.default.hex}}",
+  "selectionText": "{{colors.on_secondary_container.default.hex}}",
+  "borderSecondary": "{{colors.secondary_container.default.hex}}"
+}

@@ -1,0 +1,70 @@
+{
+  // ✍️ Editor behavior
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "files.autoSave": "afterDelay",
+  "explorer.expandSingleFolderWorkspaces": false,
+
+  // 🤖 Copilot
+  "github.copilot.nextEditSuggestions.enabled": true,
+
+  // 🎨 Theme & Icons
+  "workbench.colorTheme": "Wal Bordered", // you can swap to "Tokyo Night" or "Catppuccin Mocha" later
+  "workbench.iconTheme": "material-icon-theme",
+
+  // 🖋️ Font & Text Rendering
+  "editor.fontFamily": "'Fira Code', 'FiraCode Nerd Font', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "400",
+  "editor.fontSize": 15,
+  "editor.lineHeight": 1.5,
+
+  // 🧠 Code Visualization
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.indentation": true,
+  "editor.renderLineHighlight": "all",
+  "editor.renderWhitespace": "selection",
+  "editor.wordWrap": "on",
+
+  // 🧭 Cursor + Motion Feel
+  "editor.cursorBlinking": "smooth",          // smoother than "expand"
+  "editor.cursorSmoothCaretAnimation": "on",  // adds subtle movement
+  "editor.cursorStyle": "line-thin",
+  "editor.smoothScrolling": true,
+  "editor.mouseWheelZoom": true,
+
+  // 🪶 Minimap & UI Details
+  "editor.minimap.enabled": true,
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.maxColumn": 120,
+  "editor.scrollBeyondLastLine": false,
+
+  // 📁 Explorer + Window
+  "explorer.compactFolders": false,
+  "window.titleBarStyle": "custom",
+  "window.dialogStyle": "custom",
+  "workbench.layoutControl.enabled": true,
+
+  // 🌈 Optional Transparency (if using Picom/KWin blur)
+  "window.transparent": true,
+  "workbench.colorCustomizations": {
+    "editor.background": "#1e1e1ecc" // translucent effect (80% opacity)
+  },
+
+  // 🧩 Terminal aesthetic
+  "terminal.integrated.fontFamily": "'FiraCode Nerd Font Mono', monospace",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "underline",
+  "terminal.integrated.scrollback": 10000,
+
+  // 💬 Inline suggestions (Copilot)
+  "editor.inlineSuggest.fontFamily": "Fira Code",
+  "editor.inlineSuggest.enabled": true,
+
+  // 🚀 Startup & usability
+  "workbench.startupEditor": "none",
+  "breadcrumbs.enabled": true,
+  "window.zoomLevel": 0
+}

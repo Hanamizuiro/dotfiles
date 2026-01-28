@@ -1,0 +1,35 @@
+2025-11-08 10:47:08.365 [info] (Client) Pylance client (2025.9.1) started with python extension (2025.16.0)
+2025-11-08 10:47:09.186 [info] (4912) Server root directory: file:///home/blueflowers/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-08 10:47:09.187 [info] (4912) Pylance language server 2025.9.1 (pyright version 1.1.406, commit 20aa20a1) starting
+2025-11-08 10:47:09.191 [info] (4912) Starting service instance ".config" for workspace "/home/blueflowers/.config"
+2025-11-08 10:47:09.254 [info] (4912) Starting Mcp server id:3460 ...
+2025-11-08 10:47:09.289 [info] (4912) Setting environmentName for service ".config": "3.13.7 (global)"
+2025-11-08 10:47:09.289 [info] (4912) Setting pythonPath for service ".config": "/bin/python"
+2025-11-08 10:47:09.290 [info] (4912) No include entries specified; assuming /home/blueflowers/.config
+2025-11-08 10:47:09.290 [info] (4912) Auto-excluding **/node_modules
+2025-11-08 10:47:09.290 [info] (4912) Auto-excluding **/__pycache__
+2025-11-08 10:47:09.290 [info] (4912) Auto-excluding **/.*
+2025-11-08 10:47:09.312 [info] (4912) Assuming Python version 3.13.7.final.0
+2025-11-08 10:47:09.483 [info] (4912) Settings have not changed. Skipping update.
+2025-11-08 10:47:09.557 [info] (4912) Skipping recursive symlink "file:///home/blueflowers/.config/cava-backup-back-up_1108_1036" -> "file:///home/blueflowers/dotfiles/.config/cava"
+2025-11-08 10:47:09.626 [info] (4912) Found 12 source files
+2025-11-08 10:47:09.884 [info] (4912) BG: Priority queue background worker(2) root directory: file:///home/blueflowers/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-08 10:47:09.885 [info] (4912) BG: Priority queue background worker(2) started
+2025-11-08 10:47:10.015 [info] (4912) BG: Indexer background runner(3) root directory: file:///home/blueflowers/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist (index)
+2025-11-08 10:47:10.015 [info] (4912) BG: Indexing(3) started
+2025-11-08 10:47:10.505 [info] (4912) BG: scanned(3) 71 files over 1 exec env
+2025-11-08 10:47:10.626 [info] (4912) BG: indexed(3) 71 files over 1 exec env
+2025-11-08 10:47:10.636 [info] (4912) BG: Indexing finished(3).
+2025-11-08 10:47:37.111 [info] (4912) Starting service instance "<default>" for workspace ""
+2025-11-08 10:47:37.146 [info] (4912) Setting environmentName for service "<default>": "3.13.7 (global)"
+2025-11-08 10:47:37.148 [info] (4912) Setting pythonPath for service "<default>": "/bin/python"
+2025-11-08 10:47:37.149 [info] (4912) No include entries specified; assuming /<default workspace root>
+2025-11-08 10:47:37.149 [info] (4912) Auto-excluding **/node_modules
+2025-11-08 10:47:37.150 [info] (4912) Auto-excluding **/__pycache__
+2025-11-08 10:47:37.150 [info] (4912) Auto-excluding **/.*
+2025-11-08 10:47:37.186 [info] (4912) Assuming Python version 3.13.7.final.0
+2025-11-08 10:47:37.378 [error] (4912) File or directory "/<default workspace root>" does not exist.
+2025-11-08 10:47:37.378 [info] (4912) No source files found.
+2025-11-08 10:47:37.780 [info] (4912) BG: Priority queue background worker(5) root directory: file:///home/blueflowers/.vscode/extensions/ms-python.vscode-pylance-2025.9.1/dist
+2025-11-08 10:47:37.781 [info] (4912) BG: Priority queue background worker(5) started
+2025-11-08 10:47:57.314 [info] (4912) Found 11 source files

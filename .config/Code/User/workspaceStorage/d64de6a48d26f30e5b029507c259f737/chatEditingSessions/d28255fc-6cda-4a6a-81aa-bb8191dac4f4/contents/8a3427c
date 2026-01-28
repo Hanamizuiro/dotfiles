@@ -1,0 +1,5 @@
+module qs.Modules.ControlCenter.Components
+
+HeaderPane 1.0 HeaderPane.qml
+EditControls 1.0 EditControls.qml
+DragDropGrid 1.0 DragDropGrid.qml

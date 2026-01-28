@@ -1,0 +1,12 @@
+2025-12-05 22:18:50.537 [info] Started local extension host with pid 2877.
+2025-12-05 22:18:50.569 [error] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-05 22:18:51.301 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-05 22:18:51.367 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-12-05 22:18:51.952 [error] [Extension Host] (node:2877) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-12-05 22:18:51.952 [error] [Extension Host] (node:2877) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2025-12-05 22:18:52.734 [error] chatParticipant must be declared in package.json: claude-code
+2025-12-05 22:18:53.116 [error] [Extension Host] (node:2877) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+2025-12-05 22:18:53.127 [info] Auto updating outdated extensions. ms-python.vscode-pylance
+2025-12-05 22:18:53.228 [info] [perf] Render performance baseline is 20ms
+2025-12-05 22:18:53.352 [error] Failed to fetch MCP registry providers Server returned 404

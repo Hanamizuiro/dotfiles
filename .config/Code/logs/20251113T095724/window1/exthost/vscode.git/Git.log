@@ -1,0 +1,116 @@
+2025-11-13 09:57:27.004 [info] [main] Log level: Info
+2025-11-13 09:57:27.004 [info] [main] Validating found git in: "git"
+2025-11-13 09:57:27.004 [info] [main] Using git "2.51.2" from "git"
+2025-11-13 09:57:27.004 [info] [Model][doInitialScan] Initial repository scan started
+2025-11-13 09:57:27.004 [info] > git rev-parse --show-toplevel [5ms]
+2025-11-13 09:57:27.004 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:27.004 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-13 09:57:27.004 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:27.004 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-13 09:57:27.004 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:27.004 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-13 09:57:27.004 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:27.004 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-13 09:57:27.004 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:27.004 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-13 09:57:27.004 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:27.004 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-13 09:57:27.004 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:27.004 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-13 09:57:27.004 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:27.004 [info] > git rev-parse --show-toplevel [0ms]
+2025-11-13 09:57:27.004 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:27.004 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-13 09:57:27.004 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:27.004 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-13 09:57:27.004 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:27.004 [info] > git rev-parse --show-toplevel [21ms]
+2025-11-13 09:57:27.004 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:27.008 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-13 09:57:27.008 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:27.013 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-13 09:57:27.013 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:27.017 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-13 09:57:27.017 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:27.021 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-13 09:57:27.021 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:27.024 [info] > git rev-parse --show-toplevel [1ms]
+2025-11-13 09:57:27.024 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:27.042 [info] > git rev-parse --show-toplevel [15ms]
+2025-11-13 09:57:27.042 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:29.045 [info] > git rev-parse --show-toplevel [127ms]
+2025-11-13 09:57:29.045 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:29.349 [info] > git rev-parse --show-toplevel [75ms]
+2025-11-13 09:57:29.349 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:29.497 [info] > git rev-parse --show-toplevel [44ms]
+2025-11-13 09:57:29.497 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:29.691 [info] > git rev-parse --show-toplevel [5ms]
+2025-11-13 09:57:29.691 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:29.705 [info] > git rev-parse --show-toplevel [4ms]
+2025-11-13 09:57:29.705 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:29.714 [info] > git rev-parse --show-toplevel [3ms]
+2025-11-13 09:57:29.714 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:29.755 [info] > git rev-parse --show-toplevel [35ms]
+2025-11-13 09:57:29.755 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:29.939 [info] > git rev-parse --show-toplevel [177ms]
+2025-11-13 09:57:29.939 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:29.954 [info] > git rev-parse --show-toplevel [5ms]
+2025-11-13 09:57:29.954 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:29.956 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-11-13 09:57:29.975 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-13 09:57:29.975 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:29.984 [info] > git rev-parse --show-toplevel [3ms]
+2025-11-13 09:57:29.984 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:29.995 [info] > git rev-parse --show-toplevel [5ms]
+2025-11-13 09:57:29.995 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:30.021 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-13 09:57:30.021 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:34.558 [info] > git rev-parse --show-toplevel [3ms]
+2025-11-13 09:57:34.558 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 09:57:39.199 [info] > git rev-parse --show-toplevel [2ms]
+2025-11-13 09:57:39.209 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [2ms]
+2025-11-13 09:57:39.216 [info] [Model][openRepository] Opened repository (path): /home/blueflowers/.config/quickshell/dms
+2025-11-13 09:57:39.216 [info] [Model][openRepository] Opened repository (real path): /home/blueflowers/.config/quickshell/dms
+2025-11-13 09:57:39.216 [info] [Model][openRepository] Opened repository (kind): repository
+2025-11-13 09:57:39.226 [info] > git config --get commit.template [2ms]
+2025-11-13 09:57:39.238 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2025-11-13 09:57:39.245 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/blueflowers/.config/quickshell/dms/.git/refs/remotes/origin/master'
+2025-11-13 09:57:39.247 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2025-11-13 09:57:39.268 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-11-13 09:57:39.414 [info] > git status -z -uall [157ms]
+2025-11-13 09:57:39.527 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [101ms]
+2025-11-13 09:57:39.537 [info] > git config --get --local branch.master.vscode-merge-base [2ms]
+2025-11-13 09:57:39.545 [info] > git config --get commit.template [111ms]
+2025-11-13 09:57:39.548 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [4ms]
+2025-11-13 09:57:39.564 [info] > git merge-base refs/heads/master refs/remotes/origin/master [8ms]
+2025-11-13 09:57:39.571 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2025-11-13 09:57:39.577 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/blueflowers/.config/quickshell/dms/.git/refs/remotes/origin/master'
+2025-11-13 09:57:39.578 [info] > git diff --name-status -z --diff-filter=ADMR 0ea7de12a5241be78ccab3f1bc36d75450f35703...refs/remotes/origin/master [7ms]
+2025-11-13 09:57:39.591 [info] > git show --textconv :shell.qml [7ms]
+2025-11-13 09:57:39.591 [info] > git rev-parse refs/remotes/origin/master [14ms]
+2025-11-13 09:57:39.604 [info] > git ls-files --stage -- shell.qml [14ms]
+2025-11-13 09:57:39.610 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [7ms]
+2025-11-13 09:57:39.611 [info] > git cat-file -s 24e00ba49ed30247a66a95d5a1122e251e6adf14 [1ms]
+2025-11-13 09:57:39.755 [info] > git status -z -uall [157ms]
+2025-11-13 09:57:39.757 [info] > git check-ignore -v -z --stdin [3ms]
+2025-11-13 09:57:46.246 [info] > git check-ignore -v -z --stdin [1ms]
+2025-11-13 09:57:49.631 [info] > git check-ignore -v -z --stdin [1ms]
+2025-11-13 09:57:58.267 [info] > git show --textconv :DMSShell.qml [7ms]
+2025-11-13 09:57:58.267 [info] > git ls-files --stage -- DMSShell.qml [1ms]
+2025-11-13 09:57:58.274 [info] > git cat-file -s 0f38eb48b0abe5fbf4256e841c45c036d050df27 [1ms]
+2025-11-13 10:02:38.467 [info] > git rev-parse --show-toplevel [5ms]
+2025-11-13 10:02:38.467 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 10:04:11.903 [info] > git rev-parse --show-toplevel [3ms]
+2025-11-13 10:04:11.903 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 10:05:39.737 [info] > git rev-parse --show-toplevel [3ms]
+2025-11-13 10:05:39.737 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 10:06:04.404 [warning] [Git][getHEAD] Failed to parse HEAD file: ENOENT: no such file or directory, open '/home/blueflowers/.config/quickshell/dms/.git/HEAD'
+2025-11-13 10:06:04.419 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/home/blueflowers/.config/quickshell/dms/.git/config'
+2025-11-13 10:06:04.440 [warning] [Git][getHEAD] Failed to parse HEAD file: ENOENT: no such file or directory, open '/home/blueflowers/.config/quickshell/dms/.git/HEAD'
+2025-11-13 10:06:04.454 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/home/blueflowers/.config/quickshell/dms/.git/config'
+2025-11-13 10:06:09.785 [info] > git rev-parse --show-toplevel [3ms]
+2025-11-13 10:06:09.785 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 10:10:32.553 [info] > git rev-parse --show-toplevel [3ms]
+2025-11-13 10:10:32.553 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-11-13 10:10:33.401 [info] > git rev-parse --show-toplevel [4ms]
+2025-11-13 10:10:33.410 [info] > git rev-parse --path-format=relative --show-toplevel [1ms]

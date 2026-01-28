@@ -1,0 +1,256 @@
+{
+  "version": 3,
+  "requesterUsername": "Hanamizuiro",
+  "requesterAvatarIconUri": {
+    "$mid": 1,
+    "path": "/u/37798951",
+    "scheme": "https",
+    "authority": "avatars.githubusercontent.com",
+    "query": "v=4"
+  },
+  "responderUsername": "GitHub Copilot",
+  "responderAvatarIconUri": {
+    "id": "copilot"
+  },
+  "initialLocation": "editor",
+  "requests": [
+    {
+      "requestId": "request_8c132040-5ea3-4e23-ace9-0e6ce4faf9a8",
+      "message": {
+        "parts": [
+          {
+            "range": {
+              "start": 0,
+              "endExclusive": 5
+            },
+            "editorRange": {
+              "startLineNumber": 1,
+              "startColumn": 1,
+              "endLineNumber": 1,
+              "endColumn": 6
+            },
+            "text": "debug",
+            "kind": "text"
+          }
+        ],
+        "text": "debug"
+      },
+      "variableData": {
+        "variables": []
+      },
+      "response": [
+        {
+          "kind": "textEditGroup",
+          "uri": {
+            "$mid": 1,
+            "fsPath": "/home/blueflowers/dotfiles/.config/waybar/style/Matugen.css",
+            "external": "file:///home/blueflowers/dotfiles/.config/waybar/style/Matugen.css",
+            "path": "/home/blueflowers/dotfiles/.config/waybar/style/Matugen.css",
+            "scheme": "file"
+          },
+          "edits": [
+            [
+              {
+                "text": "\n  animation-duration: 1s;",
+                "range": {
+                  "startLineNumber": 133,
+                  "startColumn": 25,
+                  "endLineNumber": 133,
+                  "endColumn": 25
+                }
+              }
+            ],
+            [
+              {
+                "text": "\n  animation-iteration-count: infinite;",
+                "range": {
+                  "startLineNumber": 134,
+                  "startColumn": 26,
+                  "endLineNumber": 134,
+                  "endColumn": 26
+                }
+              }
+            ],
+            [
+              {
+                "text": "\n  animation-direction: alternate;",
+                "range": {
+                  "startLineNumber": 135,
+                  "startColumn": 39,
+                  "endLineNumber": 135,
+                  "endColumn": 39
+                }
+              }
+            ],
+            [
+              {
+                "text": "\n}",
+                "range": {
+                  "startLineNumber": 136,
+                  "startColumn": 34,
+                  "endLineNumber": 136,
+                  "endColumn": 34
+                }
+              }
+            ],
+            []
+          ],
+          "state": {
+            "sha1": "9e2f89ac66987ada5b121c6328295a8e921d94dc",
+            "applied": 1
+          }
+        }
+      ],
+      "responseId": "response_36edf958-7c02-4a27-8fba-775bc7c4e9f1",
+      "result": {
+        "timings": {
+          "totalElapsed": 1497
+        },
+        "metadata": {
+          "codeBlocks": [],
+          "toolCallRounds": [
+            {
+              "response": "```\n#battery.critical:not(.charging) {\n  background-color: var(--error);\n  color: var(--on_background);\n  animation-name: blink;\n  animation-duration: 1s;\n  animation-iteration-count: infinite;\n  animation-direction: alternate;\n}\n```",
+              "toolCalls": [],
+              "toolInputRetry": 0,
+              "id": "c1cb7322-6590-418a-bf91-0146ce8d9d4d"
+            }
+          ],
+          "modelMessageId": "2777e01a-1cd3-4aa4-82ef-55042c2960d3",
+          "responseId": "7511eb67-011c-49d3-b2af-559c379c0fd5",
+          "sessionId": "f3640193-88f2-40a1-b42d-f8df4e0e69e1",
+          "agentId": "github.copilot.editor"
+        },
+        "details": "GPT-4.1 • 0x"
+      },
+      "followups": [],
+      "isCanceled": false,
+      "agent": {
+        "extensionId": {
+          "value": "GitHub.copilot-chat",
+          "_lower": "github.copilot-chat"
+        },
+        "extensionVersion": "0.31.5",
+        "publisherDisplayName": "GitHub",
+        "extensionPublisherId": "GitHub",
+        "extensionDisplayName": "GitHub Copilot Chat",
+        "id": "github.copilot.editor",
+        "description": "Ask or edit in context",
+        "when": "!config.inlineChat.enableV2 && !config.github.copilot.chat.advanced.inlineChat2",
+        "metadata": {
+          "themeIcon": {
+            "id": "copilot"
+          },
+          "hasFollowups": false,
+          "supportIssueReporting": false
+        },
+        "name": "Copilot",
+        "fullName": "GitHub Copilot",
+        "isDefault": true,
+        "locations": [
+          "editor"
+        ],
+        "modes": [
+          "ask"
+        ],
+        "slashCommands": [
+          {
+            "name": "generate",
+            "description": "Generate new code",
+            "disambiguation": [
+              {
+                "category": "generate",
+                "description": "Generate new code",
+                "examples": [
+                  "Add a function that returns the sum of two numbers"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "edit",
+            "description": "Edit the selected code in your active editor",
+            "disambiguation": [
+              {
+                "category": "edit",
+                "description": "Make changes to existing code",
+                "examples": [
+                  "Change this method to use async/await"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "doc",
+            "description": "Add documentation comment for this symbol",
+            "disambiguation": [
+              {
+                "category": "doc",
+                "description": "Add documentation comment for this symbol",
+                "examples": [
+                  "Add jsdoc to this method"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "fix",
+            "description": "Propose a fix for the problems in the selected code",
+            "disambiguation": [
+              {
+                "category": "fix",
+                "description": "Propose a fix for the problems in the selected code",
+                "examples": [
+                  "There is a problem in this code. Rewrite the code to show it with the bug fixed."
+                ]
+              }
+            ]
+          },
+          {
+            "name": "explain",
+            "description": "Explain how the code in your active editor works",
+            "disambiguation": [
+              {
+                "category": "explain",
+                "description": "Explain how the code in your active editor works",
+                "examples": [
+                  "Write an explanation for the code above as paragraphs of text."
+                ]
+              }
+            ]
+          },
+          {
+            "name": "tests",
+            "description": "Generate unit tests for the selected code",
+            "disambiguation": [
+              {
+                "category": "tests",
+                "description": "Generate unit tests for the selected code. The user does not want to fix their existing tests.",
+                "examples": [
+                  "Write a set of detailed unit test functions for the code above."
+                ]
+              }
+            ]
+          }
+        ],
+        "disambiguation": [
+          {
+            "category": "unknown",
+            "description": "Intent of this command is unclear or is not related to information technologies",
+            "examples": [
+              "Add a dog to this comment."
+            ]
+          }
+        ]
+      },
+      "contentReferences": [],
+      "codeCitations": [],
+      "timestamp": 1759813908450,
+      "modelId": "copilot/gpt-4.1"
+    }
+  ],
+  "sessionId": "0fbafe21-97f5-4f55-abbb-15812086fd6f",
+  "creationDate": 1759813906042,
+  "isImported": false,
+  "lastMessageDate": 1759813908450
+}

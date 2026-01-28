@@ -1,0 +1,5 @@
+module qs.Widgets
+
+DankActionButton 1.0 DankActionButton.qml
+DankCircularImage 1.0 DankCircularImage.qml
+Typography 1.0 Typography.qml

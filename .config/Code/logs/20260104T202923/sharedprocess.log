@@ -1,0 +1,94 @@
+2026-01-04 20:29:25.976 [error] Error: Unable to read file '/home/blueflowers/.vscode/extensions/local.dynamic-base16-dankshell-0.0.1/package.json' (Error: Unable to resolve nonexistent file '/home/blueflowers/.vscode/extensions/local.dynamic-base16-dankshell-0.0.1/package.json')
+    at Kh.G (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:90033)
+    at Kh.F (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89858)
+    at async Kh.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89230)
+    at async $a.t (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:46040)
+    at async $a.scanExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44547)
+    at async Promise.all (index 15)
+    at async $a.q (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42973)
+    at async yf.scanAllUserExtensions (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35833)
+    at async Wh.scanAllUserExtensions (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69931)
+    at async Wh.J (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:76949)
+    at async Wh.cleanUp (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69317)
+    at async Bh.cleanUp (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:63734)
+2026-01-04 20:29:26.041 [error] Error: Unable to read file '/home/blueflowers/.vscode/extensions/local.dynamic-base16-dankshell-0.0.1/package.json' (Error: Unable to resolve nonexistent file '/home/blueflowers/.vscode/extensions/local.dynamic-base16-dankshell-0.0.1/package.json')
+    at Kh.G (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:90033)
+    at Kh.F (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89858)
+    at async Kh.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89230)
+    at async $a.t (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:46040)
+    at async $a.scanExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44547)
+    at async Promise.all (index 15)
+    at async $a.q (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42973)
+    at async yf.scanAllUserExtensions (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35833)
+    at async Wh.scanAllUserExtensions (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69931)
+    at async t7.H (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:59745)
+    at async t7.r (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:57640)
+2026-01-04 20:29:26.589 [info] Deleted marked for removal extension from disk ms-python.vscode-pylance /home/blueflowers/.vscode/extensions/ms-python.vscode-pylance-2025.10.3
+2026-01-04 20:29:26.591 [error] Error: Unable to read file '/home/blueflowers/.vscode/extensions/local.dynamic-base16-dankshell-0.0.1/package.json' (Error: Unable to resolve nonexistent file '/home/blueflowers/.vscode/extensions/local.dynamic-base16-dankshell-0.0.1/package.json')
+    at Kh.G (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:90033)
+    at Kh.F (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89858)
+    at async Kh.C (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:89230)
+    at async $a.t (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:46040)
+    at async $a.scanExtension (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:44547)
+    at async Promise.all (index 14)
+    at async $a.q (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:42973)
+    at async yf.scanAllUserExtensions (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:35833)
+    at async Wh.I (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:76480)
+    at async Wh.cleanUp (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:69332)
+    at async Bh.cleanUp (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:63734)
+2026-01-04 20:29:30.281 [info] Getting Manifest... davidanson.vscode-markdownlint
+2026-01-04 20:29:30.282 [info] Getting Manifest... dbaeumer.vscode-eslint
+2026-01-04 20:29:30.285 [info] Getting Manifest... github.copilot-chat
+2026-01-04 20:29:30.285 [info] Getting Manifest... ms-python.debugpy
+2026-01-04 20:29:30.286 [info] Getting Manifest... ms-python.python
+2026-01-04 20:29:30.287 [info] Getting Manifest... ms-python.vscode-python-envs
+2026-01-04 20:29:30.287 [info] Getting Manifest... pkief.material-icon-theme
+2026-01-04 20:29:30.288 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2026-01-04 20:29:30.801 [info] Installing extension: streetsidesoftware.code-spell-checker {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json","path":"/home/blueflowers/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-04 20:29:30.866 [info] Installing extension: davidanson.vscode-markdownlint {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json","path":"/home/blueflowers/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-04 20:29:31.039 [info] Installing extension: dbaeumer.vscode-eslint {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json","path":"/home/blueflowers/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-04 20:29:31.529 [info] Installing extension: pkief.material-icon-theme {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json","path":"/home/blueflowers/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-04 20:29:32.840 [info] Extension signature verification result for dbaeumer.vscode-eslint: Success. Internal Code: 0. Executed: true. Duration: 994ms.
+2026-01-04 20:29:32.861 [info] Extracted extension to file:///home/blueflowers/.vscode/extensions/dbaeumer.vscode-eslint-3.0.20: dbaeumer.vscode-eslint
+2026-01-04 20:29:32.866 [info] Renamed to /home/blueflowers/.vscode/extensions/dbaeumer.vscode-eslint-3.0.20
+2026-01-04 20:29:32.867 [info] Extension signature verification result for davidanson.vscode-markdownlint: Success. Internal Code: 0. Executed: true. Duration: 956ms.
+2026-01-04 20:29:32.880 [info] Marked extension as removed dbaeumer.vscode-eslint-3.0.16
+2026-01-04 20:29:32.893 [info] Extension installed successfully: dbaeumer.vscode-eslint vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json
+2026-01-04 20:29:32.923 [info] Extracted extension to file:///home/blueflowers/.vscode/extensions/davidanson.vscode-markdownlint-0.61.1: davidanson.vscode-markdownlint
+2026-01-04 20:29:32.971 [info] Renamed to /home/blueflowers/.vscode/extensions/davidanson.vscode-markdownlint-0.61.1
+2026-01-04 20:29:32.992 [info] Marked extension as removed davidanson.vscode-markdownlint-0.60.0
+2026-01-04 20:29:33.005 [info] Extension installed successfully: davidanson.vscode-markdownlint vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json
+2026-01-04 20:29:33.187 [info] Extension signature verification result for streetsidesoftware.code-spell-checker: Success. Internal Code: 0. Executed: true. Duration: 1217ms.
+2026-01-04 20:29:33.250 [info] Installing extension: github.copilot-chat {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json","path":"/home/blueflowers/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-04 20:29:33.389 [info] Extension signature verification result for pkief.material-icon-theme: Success. Internal Code: 0. Executed: true. Duration: 541ms.
+2026-01-04 20:29:33.457 [info] Extracted extension to file:///home/blueflowers/.vscode/extensions/streetsidesoftware.code-spell-checker-4.4.0: streetsidesoftware.code-spell-checker
+2026-01-04 20:29:33.470 [info] Renamed to /home/blueflowers/.vscode/extensions/streetsidesoftware.code-spell-checker-4.4.0
+2026-01-04 20:29:33.491 [info] Marked extension as removed streetsidesoftware.code-spell-checker-4.3.2
+2026-01-04 20:29:33.497 [info] Extension installed successfully: streetsidesoftware.code-spell-checker vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json
+2026-01-04 20:29:33.983 [info] Extracted extension to file:///home/blueflowers/.vscode/extensions/pkief.material-icon-theme-5.30.0: pkief.material-icon-theme
+2026-01-04 20:29:34.227 [info] Renamed to /home/blueflowers/.vscode/extensions/pkief.material-icon-theme-5.30.0
+2026-01-04 20:29:34.458 [info] Marked extension as removed pkief.material-icon-theme-5.29.0
+2026-01-04 20:29:34.462 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json
+2026-01-04 20:29:35.947 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json","path":"/home/blueflowers/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-04 20:29:37.750 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 539ms.
+2026-01-04 20:29:38.043 [info] Extracted extension to file:///home/blueflowers/.vscode/extensions/github.copilot-chat-0.35.2: github.copilot-chat
+2026-01-04 20:29:38.144 [info] Renamed to /home/blueflowers/.vscode/extensions/github.copilot-chat-0.35.2
+2026-01-04 20:29:38.169 [info] Marked extension as removed github.copilot-chat-0.33.4
+2026-01-04 20:29:38.173 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json
+2026-01-04 20:29:38.385 [info] Extension signature verification result for ms-python.debugpy: Success. Internal Code: 0. Executed: true. Duration: 540ms.
+2026-01-04 20:29:38.645 [info] Extracted extension to file:///home/blueflowers/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64: ms-python.debugpy
+2026-01-04 20:29:38.653 [info] Renamed to /home/blueflowers/.vscode/extensions/ms-python.debugpy-2025.18.0-linux-x64
+2026-01-04 20:29:38.669 [info] Marked extension as removed ms-python.debugpy-2025.16.0-linux-x64
+2026-01-04 20:29:38.678 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json
+2026-01-04 20:29:44.842 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json","path":"/home/blueflowers/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-04 20:29:45.352 [info] Installing extension: ms-python.vscode-python-envs {"productVersion":{"version":"1.107.1","date":"2025-12-17T14:15:14.850Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json","path":"/home/blueflowers/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2026-01-04 20:30:16.469 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 508ms.
+2026-01-04 20:30:16.538 [info] Extension signature verification result for ms-python.vscode-python-envs: Success. Internal Code: 0. Executed: true. Duration: 491ms.
+2026-01-04 20:30:16.711 [info] Extracted extension to file:///home/blueflowers/.vscode/extensions/ms-python.vscode-python-envs-1.14.0-linux-x64: ms-python.vscode-python-envs
+2026-01-04 20:30:16.809 [info] Renamed to /home/blueflowers/.vscode/extensions/ms-python.vscode-python-envs-1.14.0-linux-x64
+2026-01-04 20:30:16.911 [info] Marked extension as removed ms-python.vscode-python-envs-1.12.0-linux-x64
+2026-01-04 20:30:16.925 [info] Extension installed successfully: ms-python.vscode-python-envs vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json
+2026-01-04 20:30:17.623 [info] Extracted extension to file:///home/blueflowers/.vscode/extensions/ms-python.python-2025.20.1-linux-x64: ms-python.python
+2026-01-04 20:30:17.717 [info] Renamed to /home/blueflowers/.vscode/extensions/ms-python.python-2025.20.1-linux-x64
+2026-01-04 20:30:17.754 [info] Marked extension as removed ms-python.python-2025.18.0-linux-x64
+2026-01-04 20:30:17.754 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/blueflowers/.vscode/extensions/extensions.json

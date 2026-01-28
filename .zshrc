@@ -87,7 +87,6 @@ setopt appendhistory
 
 
 # exports
-export LC_TIME=ur_PK.UTF-8
 export PATH="$HOME/.tmuxifier/bin:$PATH"
 export LIBVIRT_DEFAULT_URI='qemu:///system'
 eval "$(zoxide init zsh)"

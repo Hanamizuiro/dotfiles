@@ -1,0 +1,24 @@
+2025-11-08 10:47:02.948 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-11-08 10:47:04.629 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-11-08 10:47:04.629 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-11-08 10:47:04.629 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-11-08 10:47:07.364 [info] Logged in as Hanamizuiro
+2025-11-08 10:47:07.365 [info] Using the Electron fetcher.
+2025-11-08 10:47:08.351 [info] Got Copilot token for Hanamizuiro
+2025-11-08 10:47:08.351 [info] Copilot Chat: 0.32.4, VS Code: 1.105.1
+2025-11-08 10:47:08.358 [info] activationBlocker from 'languageModelAccess' took for 1240ms
+2025-11-08 10:47:08.407 [info] copilot token chat_enabled: true, sku: free_educational_quota
+2025-11-08 10:47:08.407 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-11-08 10:47:08.418 [info] Registering default platform agent...
+2025-11-08 10:47:08.419 [info] activationBlocker from 'conversationFeature' took for 1303ms
+2025-11-08 10:47:08.580 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-11-08 10:47:09.206 [info] Fetched model metadata in 2081ms 8d7b58a6-4c52-4db0-97e0-7a2d4a57e5e0
+2025-11-08 10:47:09.479 [info] Latest entry: ccreq:latest.copilotmd
+2025-11-08 10:47:09.479 [info] ccreq:c62f8478.copilotmd | markdown
+2025-11-08 10:47:09.704 [info] Fetched auto model in 223ms.
+2025-11-08 10:47:26.709 [info] message 0 returned. finish reason: [stop]
+2025-11-08 10:47:26.709 [info] request done: requestId: [f79ccdc6-61a5-4271-97cd-192156519ac7] model deployment ID: []
+2025-11-08 10:47:26.710 [info] ccreq:328bad17.copilotmd | success | gpt-4.1 | 835ms | [settingsEditorSearchSuggestions]
+2025-11-08 10:48:11.106 [info] message 0 returned. finish reason: [stop]
+2025-11-08 10:48:11.106 [info] request done: requestId: [aab9ff2a-3087-4e1d-bb12-ec21e2ab64b5] model deployment ID: []
+2025-11-08 10:48:11.107 [info] ccreq:05d99d13.copilotmd | success | gpt-4.1 | 849ms | [settingsEditorSearchSuggestions]

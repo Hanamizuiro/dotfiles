@@ -1,0 +1,100 @@
+2025-12-04 20:33:38.495 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-12-04 20:33:38.495 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-12-04 20:33:38.495 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-12-04 20:33:38.495 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-12-04 20:33:38.883 [error] Copilot extension not found
+2025-12-04 20:33:38.884 [warning] Copilot API is undefined, unable to register context provider.
+2025-12-04 20:33:39.516 [info] Logged in as Hanamizuiro
+2025-12-04 20:33:39.517 [info] Using the Electron fetcher.
+2025-12-04 20:33:40.158 [info] Got Copilot token for Hanamizuiro
+2025-12-04 20:33:40.158 [info] Copilot Chat: 0.33.4, VS Code: 1.106.0
+2025-12-04 20:33:40.166 [info] activationBlocker from 'languageModelAccess' took for 1301ms
+2025-12-04 20:33:40.285 [info] copilot token chat_enabled: true, sku: free_educational_quota
+2025-12-04 20:33:40.285 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-12-04 20:33:40.296 [info] Registering default platform agent...
+2025-12-04 20:33:40.296 [info] [code-referencing] Public code references are enabled.
+2025-12-04 20:33:40.297 [info] activationBlocker from 'conversationFeature' took for 1434ms
+2025-12-04 20:33:40.464 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-12-04 20:33:41.261 [info] Fetched model metadata in 976ms 19e97fba-f289-4c81-b1f4-68f479b6e3c5
+2025-12-04 20:33:41.717 [info] Latest entry: ccreq:latest.copilotmd
+2025-12-04 20:33:41.718 [info] ccreq:a9472460.copilotmd | markdown
+2025-12-04 20:33:43.063 [info] request done: requestId: [67be0fbb-b8c2-48d4-9feb-5bfa62da4d95] model deployment ID: []
+2025-12-04 20:33:43.090 [info] ccreq:5fca98f4.copilotmd | markdown
+2025-12-04 20:33:43.090 [info] ccreq:c9e187ba.copilotmd | markdown
+2025-12-04 20:33:43.090 [info] ccreq:30f0f453.copilotmd | markdown
+2025-12-04 20:33:43.090 [info] ccreq:78b9f940.copilotmd | markdown
+2025-12-04 20:33:44.033 [info] message 0 returned. finish reason: [stop]
+2025-12-04 20:33:44.033 [info] request done: requestId: [a9975b39-6e30-471c-81fd-c57ecc10ea95] model deployment ID: []
+2025-12-04 20:33:44.035 [info] ccreq:c88a061c.copilotmd | success | copilot-nes-oct -> gpt-4.1-mini-2025-04-14 | 584ms | [XtabProvider]
+2025-12-04 20:33:44.036 [info] ccreq:5e23b0a4.copilotmd | markdown
+2025-12-04 20:33:44.036 [info] ccreq:712a23e8.copilotmd | markdown
+2025-12-04 20:33:44.036 [info] ccreq:d6217cae.copilotmd | markdown
+2025-12-04 20:33:44.948 [info] ccreq:f6b1bbdf.copilotmd | markdown
+2025-12-04 20:33:44.961 [info] message 0 returned. finish reason: [stop]
+2025-12-04 20:33:44.961 [info] request done: requestId: [58fc1371-b232-4e8e-838f-c187d2b2cf50] model deployment ID: []
+2025-12-04 20:33:44.961 [info] ccreq:99c375d8.copilotmd | success | copilot-nes-oct -> gpt-4.1-mini-2025-04-14 | 726ms | [XtabProvider]
+2025-12-04 20:33:44.962 [info] ccreq:488ed55e.copilotmd | markdown
+2025-12-04 20:33:44.962 [info] ccreq:bd3169aa.copilotmd | markdown
+2025-12-04 20:33:44.962 [info] ccreq:682e7157.copilotmd | markdown
+2025-12-04 20:33:46.003 [info] message 0 returned. finish reason: [stop]
+2025-12-04 20:33:46.003 [info] request done: requestId: [90c2be13-9bc1-4776-973a-3a10106fbb53] model deployment ID: []
+2025-12-04 20:33:46.004 [info] ccreq:34a18064.copilotmd | success | copilot-nes-oct -> gpt-4.1-mini-2025-04-14 | 651ms | [XtabProvider]
+2025-12-04 20:33:46.023 [info] ccreq:fc8e950d.copilotmd | markdown
+2025-12-04 20:33:46.981 [info] message 0 returned. finish reason: [stop]
+2025-12-04 20:33:46.981 [info] request done: requestId: [e0ec94e0-a7c2-458e-b168-50fdf26fd0f2] model deployment ID: []
+2025-12-04 20:33:46.982 [info] ccreq:064de825.copilotmd | success | copilot-nes-oct -> gpt-4.1-mini-2025-04-14 | 758ms | [XtabProvider]
+2025-12-04 20:33:47.585 [info] ccreq:32c557be.copilotmd | markdown
+2025-12-04 20:33:54.688 [info] ccreq:789338c2.copilotmd | markdown
+2025-12-04 20:40:17.163 [warning] [relatedFiles] unknown language shellscript
+2025-12-04 20:40:18.957 [info] [fetchCompletions] Request f1d92f99-152c-4b6c-bd47-7f1502fc09b2 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 1773.1434540000046ms
+2025-12-04 20:40:19.020 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-04 20:40:19.488 [info] message 0 returned. finish reason: [stop]
+2025-12-04 20:40:19.488 [info] request done: requestId: [69d0a08f-6949-4b5c-9fe8-489e350b5ab3] model deployment ID: []
+2025-12-04 20:40:19.489 [info] ccreq:4e42e343.copilotmd | success | copilot-nes-oct -> gpt-4.1-mini-2025-04-14 | 2106ms | [XtabProvider]
+2025-12-04 20:40:19.489 [info] ccreq:fd46231a.copilotmd | markdown
+2025-12-04 20:40:20.051 [info] ccreq:b5660188.copilotmd | markdown
+2025-12-04 20:42:17.230 [warning] [relatedFiles] unknown language properties
+2025-12-04 20:42:17.625 [info] [fetchCompletions] Request efe044be-fc42-4230-a634-e5d03ccaefeb at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 389.26592600002186ms
+2025-12-04 20:42:17.713 [error] [AsyncCompletionManager] [efe044be-fc42-4230-a634-e5d03ccaefeb] Request errored with AbortError: The operation was aborted
+    at handleKnownInternalErrors (node:internal/webstreams/adapters:111:14)
+    at IncomingMessage.<anonymous> (node:internal/webstreams/adapters:476:13)
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at IncomingMessage.bound (node:async_hooks:245:16)
+    at IncomingMessage.<anonymous> (node:internal/util:570:20)
+    at IncomingMessage.onclose (node:internal/streams/end-of-stream:156:25)
+    at IncomingMessage.emit (node:events:519:28)
+    at emitCloseNT (node:internal/streams/destroy:148:10)
+    at processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  code: 'ABORT_ERR',
+  vslsStack: [
+    CallSite {}, CallSite {},
+    CallSite {}, CallSite {},
+    CallSite {}, CallSite {},
+    CallSite {}, CallSite {},
+    CallSite {}
+  ],
+  [cause]: Error: Premature close
+      at IncomingMessage.onclose (node:internal/streams/end-of-stream:157:30)
+      at IncomingMessage.emit (node:events:519:28)
+      at emitCloseNT (node:internal/streams/destroy:148:10)
+      at processTicksAndRejections (node:internal/process/task_queues:89:21) {
+    code: 'ERR_STREAM_PREMATURE_CLOSE',
+    vslsStack: [ CallSite {}, CallSite {}, CallSite {}, CallSite {} ]
+  }
+}
+2025-12-04 20:42:17.915 [info] message 0 returned. finish reason: [stop]
+2025-12-04 20:42:17.915 [info] request done: requestId: [1b5c2e4a-9ac2-4ca0-94b7-35b8f1893ef4] model deployment ID: []
+2025-12-04 20:42:18.003 [info] ccreq:bd6de681.copilotmd | success | copilot-nes-oct -> gpt-4.1-mini-2025-04-14 | 567ms | [XtabProvider]
+2025-12-04 20:42:18.004 [info] ccreq:289dd3dc.copilotmd | markdown
+2025-12-04 20:42:18.048 [info] [fetchCompletions] Request 0b8c562d-56dc-4056-bb86-a1e010f4a619 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 333.56637399998726ms
+2025-12-04 20:42:18.214 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-04 20:42:18.726 [info] [fetchCompletions] Request a5c30c38-3007-4caf-bb44-7f5d96e25875 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 479.20773800002644ms
+2025-12-04 20:42:18.747 [info] message 0 returned. finish reason: [stop]
+2025-12-04 20:42:18.747 [info] request done: requestId: [d61c4ef9-d7ca-4d5c-9c0c-ab15b1569d69] model deployment ID: []
+2025-12-04 20:42:18.748 [info] ccreq:ed363dcc.copilotmd | success | copilot-nes-oct -> gpt-4.1-mini-2025-04-14 | 543ms | [XtabProvider]
+2025-12-04 20:42:18.748 [info] ccreq:6a4f8c1d.copilotmd | markdown
+2025-12-04 20:42:18.837 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-12-04 20:42:22.932 [info] message 0 returned. finish reason: [stop]
+2025-12-04 20:42:22.932 [info] request done: requestId: [317d939b-fc76-47ac-afc5-84e92d016072] model deployment ID: []
+2025-12-04 20:42:22.933 [info] ccreq:b57e4bb0.copilotmd | success | copilot-nes-oct -> gpt-4.1-mini-2025-04-14 | 890ms | [XtabProvider]
+2025-12-04 20:42:23.934 [info] ccreq:0d1df3f4.copilotmd | markdown
